@@ -1,0 +1,1592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeML>
+	<TIMEX3>
+		<t type="TIME" span="1-21-14, 1-21-15" id="t_1" value="XXXX-XX-XXTEV"/>
+		<t type="TIME" span="1-29-5, 1-29-6" id="t_2" value="XXXX-XX-XXTNI"/>
+		<t type="TIME" span="2-71-11" id="t_3" value="XXXX-XX-XXTEV"/>
+		<t type="TIME" span="2-78-21" id="t_4" value="XXXX-XX-XXTEV"/>
+		<t type="TIME" span="2-82-15, 2-82-16" id="t_5" value="XXXX-XX-XXTNI"/>
+		<t type="TIME" span="3-72-2, 3-72-3" id="t_6" value="XXXX-XX-XXTNI"/>
+		<t type="TIME" span="4-86-40, 4-86-41" id="t_7" value="XXXX-XX-XXTNI"/>
+		<t type="TIME" span="5-3-2" id="t_8" value="XXXX-XX-XXTEV"/>
+		<t type="TIME" span="5-7-10, 5-7-11" id="t_9" value="1982-07-30TAF"/>
+		<t type="TIME" span="5-21-15, 5-21-16" id="t_10" value="1982-07-30TEV"/>
+		<t type="TIME" span="5-36-19, 5-36-20" id="t_11" value="1982-07-30TNI"/>
+		<t type="TIME" span="5-43-38, 5-43-39" id="t_12" value="1982-07-30TNI"/>
+		<t type="TIME" span="5-47-7" id="t_13" value="1982-07-30TNI"/>
+		<t type="TIME" span="5-51-10, 5-51-11" id="t_14" value="1982-07-30TNI"/>
+		<t type="TIME" span="8-26-4" id="t_15" value="1807-05-28TEV"/>
+		<t type="TIME" span="8-60-13" id="t_16" value="1807-05-28TMO"/>
+		<t type="TIME" span="8-66-3" id="t_17" value="1807-05-28TNI"/>
+		<t type="TIME" span="8-67-22" id="t_18" value="1807-05-28T24:00"/>
+		<t type="TIME" span="8-78-7, 8-78-8" id="t_19" value="1807-05-28TMO"/>
+		<t type="TIME" span="8-142-23, 8-142-24" id="t_20" value="1807-05-28TMO"/>
+		<t type="TIME" span="8-151-3, 8-151-4" id="t_21" value="1807-05-28TNI"/>
+		<t type="TIME" span="9-30-33, 9-30-34, 9-30-35" id="t_22" value="1812-08-08T02:30"/>
+		<t type="TIME" span="9-59-3, 9-59-4" id="t_23" value="1812-08-08TMO"/>
+		<t type="TIME" span="9-62-11, 9-62-12" id="t_24" value="1812-08-08TNI"/>
+		<t type="TIME" span="9-66-18, 9-66-19" id="t_25" value="1812-08-08TNI"/>
+		<t type="TIME" span="9-75-26" id="t_26" value="1812-08-08TMO"/>
+		<t type="TIME" span="9-91-36" id="t_27" value="1812-08-09T12:00"/>
+		<t type="TIME" span="10-44-6" id="t_28" value="1983-03-27TMO"/>
+		<t type="TIME" span="10-73-1, 10-73-2" id="t_29" value="1983-03-27TEV"/>
+		<t type="TIME" span="10-76-8" id="t_30" value="1983-03-27TEV"/>
+		<t type="TIME" span="10-76-10" id="t_31" value="1983-03-27TMO"/>
+		<t type="TIME" span="10-100-4" id="t_32" value="1983-03-27TEV"/>
+		<t type="TIME" span="10-111-2" id="t_33" value="1983-03-27TEV"/>
+		<t type="TIME" span="10-112-2" id="t_34" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-114-14" id="t_35" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-138-15" id="t_36" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-142-17" id="t_37" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-150-18, 10-150-19" id="t_38" value="1983-03-28T12:00"/>
+		<t type="TIME" span="10-191-2, 10-191-3" id="t_39" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-200-45, 10-200-46" id="t_40" value="1983-03-28TNI"/>
+		<t type="TIME" span="10-206-6" id="t_41" value="1983-03-29TNI"/>
+		<t type="TIME" span="10-218-1, 10-218-2, 10-218-3" id="t_42" value="1983-03-29T09:30"/>
+		<t type="TIME" span="10-254-18" id="t_43" value="1983-03-29TNI"/>
+		<t type="TIME" span="10-256-7" id="t_44" value="1983-03-29TMO"/>
+		<t type="TIME" span="10-256-9" id="t_45" value="1983-03-29TEV"/>
+		<t type="TIME" span="10-263-2" id="t_46" value="1983-03-29TNI"/>
+		<t type="TIME" span="10-276-19, 10-276-20" id="t_47" value="1983-03-31TEV"/>
+		<t type="TIME" span="10-277-17, 10-277-18" id="t_48" value="1983-03-31TEV"/>
+		<t type="TIME" span="10-303-1, 10-303-2" id="t_49" value="1983-03-31TMO"/>
+		<t type="TIME" span="12-75-6, 12-75-7" id="t_50" value="1983-04-11TNI"/>
+		<t type="TIME" span="12-81-7, 12-81-8, 12-81-9" id="t_51" value="1983-04-11T17:30"/>
+		<t type="TIME" span="12-93-23" id="t_52" value="1983-04-11TNI"/>
+		<t type="TIME" span="12-94-2, 12-94-3" id="t_53" value="1983-04-12TMO"/>
+		<t type="TIME" span="12-122-2" id="t_54" value="1983-04-12TMO"/>
+		<t type="TIME" span="12-146-2, 12-146-3, 12-146-4" id="t_55" value="1983-04-12TAF" mod="END"/>
+		<t type="TIME" span="12-158-3, 12-158-4" id="t_56" value="1983-04-12TNI"/>
+		<t type="TIME" span="12-194-2, 12-194-3" id="t_57" value="1983-04-13TEV"/>
+		<t type="TIME" span="12-201-2" id="t_58" value="1983-04-13T24:00"/>
+		<t type="TIME" span="12-205-10" id="t_59" value="1983-04-13TMO"/>
+		<t type="TIME" span="12-254-6, 12-254-7" id="t_60" value="1983-04-13TNI"/>
+		<t type="TIME" span="12-257-2" id="t_61" value="1983-04-13TEV"/>
+		<t type="TIME" span="12-262-10, 12-262-11, 12-262-12" id="t_62" value="1983-04-13TAF" mod="END"/>
+		<t type="TIME" span="14-57-3" id="t_63" value="1906-08-21TAF"/>
+		<t type="TIME" span="14-71-2, 14-71-3" id="t_64" value="1906-08-21TNI"/>
+		<t type="TIME" span="14-227-5" id="t_65" value="1906-08-21T24:00"/>
+		<t type="TIME" span="14-249-12" id="t_66" value="1906-08-21T24:00"/>
+		<t type="TIME" span="14-256-7, 14-256-8" id="t_67" value="1906-08-18TEV"/>
+		<t type="TIME" span="14-256-13, 14-256-14" id="t_68" value="1906-08-21TMO"/>
+		<t type="TIME" span="15-68-13, 15-68-14, 15-68-15" id="t_69" value="1983-10-08T16:30"/>
+		<t type="TIME" span="15-68-18, 15-68-19, 15-68-20" id="t_70" value="1983-10-08T16:45"/>
+		<t type="TIME" span="15-74-12, 15-74-13" id="t_71" value="1983-10-08TNI"/>
+		<t type="TIME" span="15-79-18, 15-79-19" id="t_72" value="1983-10-08TMO"/>
+		<t type="TIME" span="15-212-19" id="t_73" value="1982-05-07TAF"/>
+		<t type="TIME" span="15-344-45" id="t_74" value="1983-10-08TAF"/>
+		<t type="TIME" span="15-433-14, 15-433-15" id="t_75" value="1983-10-09TEV"/>
+		<t type="TIME" span="15-436-18" id="t_76" value="1983-10-09TEV"/>
+		<t type="TIME" span="15-443-18" id="t_77" value="1983-10-09TNI"/>
+		<t type="TIME" span="15-491-8, 15-491-9" id="t_78" value="1982-07-01TEV"/>
+		<t type="TIME" span="15-492-27, 15-492-28" id="t_79" value="1982-07-01TNI"/>
+		<t type="TIME" span="15-621-27, 15-621-28" id="t_80" value="1982-07-02TNI"/>
+		<t type="TIME" span="15-628-28" id="t_81" value="1982-07-02TNI"/>
+		<t type="TIME" span="15-632-30" id="t_82" value="1982-07-02TNI"/>
+		<t type="TIME" span="15-653-39, 15-653-40" id="t_83" value="1982-07-02TEV"/>
+		<t type="TIME" span="15-707-7" id="t_84" value="1982-07-02TMO"/>
+		<t type="TIME" span="15-709-12" id="t_85" value="1982-07-02TEV"/>
+		<t type="TIME" span="15-725-4, 15-725-5" id="t_86" value="1982-07-02TNI"/>
+		<t type="TIME" span="17-3-8" id="t_87" value="1982-08-17TMO"/>
+		<t type="TIME" span="17-8-12" id="t_88" value="1982-08-17TAF"/>
+		<t type="TIME" span="17-12-2, 17-12-3" id="t_89" value="1982-08-18TMO"/>
+		<t type="TIME" span="17-14-18, 17-14-19" id="t_90" value="1982-08-18TNI"/>
+		<t type="TIME" span="17-15-62, 17-15-63" id="t_91" value="1982-08-18TEV"/>
+		<t type="TIME" span="19-6-3" id="t_92" value="1981-06-27TMO"/>
+		<t type="TIME" span="19-63-4" id="t_93" value="1981-06-27T12:00"/>
+		<t type="TIME" span="20-11-8" id="t_94" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-18-8" id="t_95" value="1981-06-27TMO"/>
+		<t type="TIME" span="20-26-10, 20-26-11" id="t_96" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-42-7" id="t_97" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-47-32, 20-47-33" id="t_98" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-63-3, 20-63-4" id="t_99" value="1981-06-27TMO"/>
+		<t type="TIME" span="20-72-4" id="t_100" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-74-15" id="t_101" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-93-2, 20-93-3" id="t_102" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-102-8, 20-102-9" id="t_103" value="1981-06-27TEV"/>
+		<t type="TIME" span="20-104-2" id="t_104" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-111-11" id="t_105" value="1981-06-27TEV"/>
+		<t type="TIME" span="20-112-2, 20-112-3" id="t_106" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-128-2" id="t_107" value="1981-06-27TNI"/>
+		<t type="TIME" span="20-161-8, 20-161-9" id="t_108" value="1981-06-27TNI"/>
+		<t type="TIME" span="21-25-3" id="t_109" value="1981-06-27TAF"/>
+		<t type="TIME" span="24-5-4" id="t_110" value="1981-06-27TMO"/>
+		<t type="TIME" span="24-5-16, 24-5-17" id="t_111" value="1981-06-27TNI"/>
+		<t type="TIME" span="24-11-21, 24-11-22" id="t_112" value="1981-06-27TMO"/>
+		<t type="TIME" span="24-67-7, 24-67-8" id="t_113" value="1981-06-27TMO"/>
+		<t type="TIME" span="26-9-3" id="t_114" value="1911-05-08TNI"/>
+		<t type="TIME" span="26-17-2, 26-17-3" id="t_115" value="1911-05-08TEV"/>
+		<t type="TIME" span="26-32-2, 26-32-3" id="t_116" value="1911-05-08TNI"/>
+		<t type="TIME" span="26-46-9, 26-46-10" id="t_117" value="1911-05-08TNI"/>
+		<t type="TIME" span="26-56-8, 26-56-9" id="t_118" value="1911-05-08TMO"/>
+		<t type="TIME" span="28-6-41" id="t_119" value="1911-05-08TNI"/>
+		<t type="TIME" span="28-8-4" id="t_120" value="1911-05-08TNI"/>
+		<t type="TIME" span="28-80-7" id="t_121" value="1911-05-08TAF"/>
+		<t type="TIME" span="28-168-31, 28-168-32" id="t_122" value="1911-05-08TNI"/>
+		<t type="TIME" span="28-171-5, 28-171-6" id="t_123" value="1911-05-08TNI"/>
+		<t type="TIME" span="28-174-5" id="t_124" value="1911-05-08TMO"/>
+		<t type="TIME" span="28-174-22" id="t_125" value="1911-05-08TNI"/>
+		<t type="TIME" span="28-232-14, 28-232-15, 28-232-16" id="t_126" value="1911-05-09TMO"/>
+		<t type="TIME" span="28-232-30" id="t_127" value="1911-05-09T24:00"/>
+		<t type="TIME" span="28-263-8" id="t_128" value="1911-05-09TEV"/>
+		<t type="TIME" span="28-263-48, 28-263-49" id="t_129" value="1911-05-09TNI"/>
+		<t type="TIME" span="30-16-8, 30-16-9" id="t_130" value="1984-01-22TMO"/>
+		<t type="TIME" span="30-30-2, 30-30-3" id="t_131" value="1984-01-25TEV"/>
+		<t type="TIME" span="30-30-20, 30-30-21, 30-30-22" id="t_132" value="1984-01-29TMO"/>
+		<t type="TIME" span="30-31-1, 30-31-2" id="t_133" value="1984-01-29TEV"/>
+		<t type="TIME" span="30-45-11" id="t_134" value="1984-01-29T12:00"/>
+		<t type="TIME" span="30-72-2" id="t_135" value="1984-01-29TEV"/>
+		<t type="TIME" span="32-16-35" id="t_136" value="1983-09-30TNI"/>
+		<t type="TIME" span="32-24-2, 32-24-3" id="t_137" value="1983-10-02TMO"/>
+		<t type="TIME" span="34-91-25" id="t_138" value="1983-05-17T12:00"/>
+		<t type="TIME" span="35-59-2" id="t_139" value="1983-07-16TEV"/>
+		<t type="TIME" span="35-60-3, 35-60-4" id="t_140" value="1983-07-17TEV"/>
+		<t type="TIME" span="35-62-1" id="t_141" value="1983-07-17T24:00"/>
+		<t type="TIME" span="35-114-8, 35-114-9, 35-114-10" id="t_142" value="1983-07-17TAF" mod="END"/>
+		<t type="TIME" span="35-128-1, 35-128-2, 35-128-3" id="t_143" value="1983-07-17T16:12"/>
+		<t type="TIME" span="35-134-2" id="t_144" value="1983-07-17TNI"/>
+		<t type="TIME" span="35-164-2" id="t_145" value="1983-07-18TNI"/>
+		<t type="TIME" span="35-172-2, 35-172-3" id="t_146" value="1983-07-18TEV"/>
+		<t type="TIME" span="36-68-13, 36-68-14" id="t_147" value="1981-08-04TNI"/>
+		<t type="TIME" span="36-83-4" id="t_148" value="1981-08-04TNI"/>
+		<t type="TIME" span="36-90-18, 36-90-19" id="t_149" value="1981-08-04TNI"/>
+		<t type="TIME" span="36-116-8, 36-116-9" id="t_150" value="1981-08-04TMO"/>
+		<t type="TIME" span="36-124-2, 36-124-3" id="t_151" value="1981-08-04TNI"/>
+		<t type="TIME" span="36-129-10, 36-129-11" id="t_152" value="1981-08-04TNI"/>
+		<t type="TIME" span="36-162-3" id="t_153" value="1981-08-04TAF"/>
+		<t type="DATE" span="1-5-4" id="t_154" value="XXXX-07"/>
+		<t type="DATE" span="1-10-33" id="t_155" value="PRESENT_REF"/>
+		<t type="DATE" span="1-10-36" id="t_156" value="XXXX-XX-XX"/>
+		<t type="DATE" span="1-17-4" id="t_157" value="XXXX-XX-XX"/>
+		<t type="DATE" span="1-40-3" id="t_158" value="PRESENT_REF"/>
+		<t type="DATE" span="1-49-4" id="t_159" value="FUTURE_REF"/>
+		<t type="DATE" span="1-52-6" id="t_160" value="XXXX-XX-XX"/>
+		<t type="DATE" span="1-62-13" id="t_161" value="PRESENT_REF"/>
+		<t type="DATE" span="1-76-1, 1-76-2, 1-76-3" id="t_162" value="PRESENT_REF"/>
+		<t type="DATE" span="1-77-1" id="t_163" value="PRESENT_REF"/>
+		<t type="DATE" span="1-82-1" id="t_164" value="PRESENT_REF"/>
+		<t type="DATE" span="1-108-17" id="t_165" value="FUTURE_REF"/>
+		<t type="DATE" span="1-116-35" id="t_166" value="PRESENT_REF"/>
+		<t type="DATE" span="1-120-1" id="t_167" value="FUTURE_REF"/>
+		<t type="DATE" span="1-125-18" id="t_168" value="XXXX-XX-XX"/>
+		<t type="DATE" span="1-128-3" id="t_169" value="XXXX-08"/>
+		<t type="DATE" span="2-15-3" id="t_170" value="FUTURE_REF"/>
+		<t type="DATE" span="2-16-1" id="t_171" value="PRESENT_REF"/>
+		<t type="DATE" span="2-22-7" id="t_172" value="XXXX-XX-XX"/>
+		<t type="DATE" span="2-22-18" id="t_173" value="PRESENT_REF"/>
+		<t type="DATE" span="2-26-1" id="t_174" value="XXXX-XX-XX"/>
+		<t type="DATE" span="2-26-5" id="t_175" value="XXXX-XX-XX"/>
+		<t type="DATE" span="2-37-1" id="t_176" value="PRESENT_REF"/>
+		<t type="DATE" span="2-45-3" id="t_177" value="PRESENT_REF"/>
+		<t type="DATE" span="2-70-4" id="t_178" value="PRESENT_REF"/>
+		<t type="DATE" span="2-82-4" id="t_179" value="FUTURE_REF"/>
+		<t type="DATE" span="3-2-4, 3-2-5" id="t_180" value="1982-08"/>
+		<t type="DATE" span="3-16-23, 3-16-24, 3-16-25, 3-16-26, 3-16-27" id="t_181" value="PAST_REF"/>
+		<t type="DATE" span="3-17-1" id="t_182" value="PRESENT_REF"/>
+		<t type="DATE" span="3-21-4" id="t_183" value="PRESENT_REF"/>
+		<t type="DATE" span="3-27-4" id="t_184" value="PRESENT_REF"/>
+		<t type="DATE" span="3-42-9" id="t_185" value="PRESENT_REF"/>
+		<t type="DATE" span="3-66-20" id="t_186" value="FUTURE_REF"/>
+		<t type="DATE" span="3-82-10" id="t_187" value="PRESENT_REF"/>
+		<t type="DATE" span="3-92-1" id="t_188" value="FUTURE_REF"/>
+		<t type="DATE" span="4-21-8" id="t_189" value="FUTURE_REF"/>
+		<t type="DATE" span="4-36-1" id="t_190" value="PRESENT_REF"/>
+		<t type="DATE" span="5-3-4, 5-3-5" id="t_191" value="1982-07-30"/>
+		<t type="DATE" span="5-4-8" id="t_192" value="1982-07-24"/>
+		<t type="DATE" span="5-4-16" id="t_193" value="1983"/>
+		<t type="DATE" span="5-14-3" id="t_194" value="PRESENT_REF"/>
+		<t type="DATE" span="5-24-11" id="t_195" value="PRESENT_REF"/>
+		<t type="DATE" span="5-36-9" id="t_196" value="PRESENT_REF"/>
+		<t type="DATE" span="5-41-15, 5-41-16" id="t_197" value="PRESENT_REF"/>
+		<t type="DATE" span="5-41-31" id="t_198" value="PRESENT_REF"/>
+		<t type="DATE" span="5-42-10" id="t_199" value="PRESENT_REF"/>
+		<t type="DATE" span="5-47-1" id="t_200" value="PRESENT_REF"/>
+		<t type="DATE" span="6-20-11" id="t_201" value="PRESENT_REF"/>
+		<t type="DATE" span="6-22-2" id="t_202" value="1982-WI"/>
+		<t type="DATE" span="6-23-17" id="t_203" value="PRESENT_REF"/>
+		<t type="DATE" span="6-36-2" id="t_204" value="PRESENT_REF"/>
+		<t type="DATE" span="6-58-8" id="t_205" value="FUTURE_REF"/>
+		<t type="DATE" span="7-1-1" id="t_206" value="1982-05-20"/>
+		<t type="DATE" span="7-4-23" id="t_207" value="FUTURE_REF"/>
+		<t type="DATE" span="7-25-22, 7-25-23, 7-25-24" id="t_208" value="PRESENT_REF"/>
+		<t type="DATE" span="7-27-1" id="t_209" value="FUTURE_REF"/>
+		<t type="DATE" span="8-1-16" id="t_210" value="1841"/>
+		<t type="DATE" span="8-3-3, 8-3-4, 8-3-5, 8-3-6" id="t_211" value="1807-05-28"/>
+		<t type="DATE" span="8-5-2" id="t_212" value="1837"/>
+		<t type="DATE" span="8-7-13" id="t_213" value="1837"/>
+		<t type="DATE" span="8-10-3, 8-10-4" id="t_214" value="PRESENT_REF"/>
+		<t type="DATE" span="8-19-13" id="t_215" value="1827"/>
+		<t type="DATE" span="8-21-12" id="t_216" value="1840"/>
+		<t type="DATE" span="8-31-2, 8-31-3" id="t_217" value="1841-03"/>
+		<t type="DATE" span="8-32-10" id="t_218" value="1837"/>
+		<t type="DATE" span="8-40-1" id="t_219" value="PRESENT_REF"/>
+		<t type="DATE" span="8-43-27" id="t_220" value="1844"/>
+		<t type="DATE" span="8-45-5, 8-45-6, 8-45-7" id="t_221" value="1841-08-28"/>
+		<t type="DATE" span="8-46-3" id="t_222" value="PAST_REF"/>
+		<t type="DATE" span="8-47-12, 8-47-13, 8-47-14, 8-47-15" id="t_223" value="1811-08-03"/>
+		<t type="DATE" span="8-52-1, 8-52-2, 8-52-3, 8-52-4" id="t_224" value="1812-08-08"/>
+		<t type="DATE" span="8-58-15" id="t_225" value="1812"/>
+		<t type="DATE" span="8-62-4" id="t_226" value="1832"/>
+		<t type="DATE" span="8-65-12" id="t_227" value="PAST_REF"/>
+		<t type="DATE" span="8-133-20" id="t_228" value="1811"/>
+		<t type="DATE" span="9-6-8" id="t_229" value="1975"/>
+		<t type="DATE" span="9-8-12" id="t_230" value="1975-WI"/>
+		<t type="DATE" span="9-8-15" id="t_231" value="1975-WI"/>
+		<t type="DATE" span="9-9-1" id="t_232" value="1975-07"/>
+		<t type="DATE" span="9-9-3" id="t_233" value="1975-08"/>
+		<t type="DATE" span="9-19-5" id="t_234" value="PRESENT_REF"/>
+		<t type="DATE" span="9-20-6" id="t_235" value="1977"/>
+		<t type="DATE" span="9-29-3" id="t_236" value="PRESENT_REF"/>
+		<t type="DATE" span="9-54-8" id="t_237" value="PRESENT_REF"/>
+		<t type="DATE" span="9-62-4" id="t_238" value="PRESENT_REF"/>
+		<t type="DATE" span="9-76-2" id="t_239" value="1812-08-09"/>
+		<t type="DATE" span="10-8-8, 10-8-9, 10-8-10, 10-8-11" id="t_240" value="1983-03-27"/>
+		<t type="DATE" span="10-11-25" id="t_241" value="1983-03-27"/>
+		<t type="DATE" span="10-18-20, 10-18-21" id="t_242" value="1983-03-27"/>
+		<t type="DATE" span="10-20-14, 10-20-15" id="t_243" value="1983-W12"/>
+		<t type="DATE" span="10-21-21" id="t_244" value="1983-04-16"/>
+		<t type="DATE" span="10-21-23, 10-21-24, 10-21-25" id="t_245" value="1983-04-23"/>
+		<t type="DATE" span="10-23-1, 10-23-2, 10-23-3" id="t_246" value="1983-04-16"/>
+		<t type="DATE" span="10-80-1, 10-80-2, 10-80-3" id="t_247" value="1983-04-17"/>
+		<t type="DATE" span="10-84-4" id="t_248" value="PRESENT_REF"/>
+		<t type="DATE" span="10-111-13" id="t_249" value="1983-03-28"/>
+		<t type="DATE" span="10-115-1, 10-115-2, 10-115-3" id="t_250" value="1983-04-18"/>
+		<t type="DATE" span="10-137-4" id="t_251" value="1886"/>
+		<t type="DATE" span="10-138-5" id="t_252" value="1886-WI"/>
+		<t type="DATE" span="10-140-16, 10-140-17" id="t_253" value="1983-SU"/>
+		<t type="DATE" span="10-141-1" id="t_254" value="PRESENT_REF"/>
+		<t type="DATE" span="10-143-1, 10-143-2, 10-143-3" id="t_255" value="1983-04-19"/>
+		<t type="DATE" span="10-185-8" id="t_256" value="1983-WI"/>
+		<t type="DATE" span="10-191-9" id="t_257" value="1983-WI"/>
+		<t type="DATE" span="10-193-19" id="t_258" value="PRESENT_REF"/>
+		<t type="DATE" span="10-200-52" id="t_259" value="1983-03-29"/>
+		<t type="DATE" span="10-203-3" id="t_260" value="FUTURE_REF"/>
+		<t type="DATE" span="10-206-8" id="t_261" value="1983-04"/>
+		<t type="DATE" span="10-224-3" id="t_262" value="PRESENT_REF"/>
+		<t type="DATE" span="10-250-5, 10-250-6" id="t_263" value="1983-03-29"/>
+		<t type="DATE" span="10-250-8" id="t_264" value="1983-04"/>
+		<t type="DATE" span="10-252-4" id="t_265" value="1983-03"/>
+		<t type="DATE" span="10-255-2" id="t_266" value="1983-04"/>
+		<t type="DATE" span="10-264-2" id="t_267" value="1983-03-30"/>
+		<t type="DATE" span="10-271-3" id="t_268" value="PRESENT_REF"/>
+		<t type="DATE" span="10-272-6, 10-272-7" id="t_269" value="1983-03-30"/>
+		<t type="DATE" span="10-272-29" id="t_270" value="1983-03-31"/>
+		<t type="DATE" span="10-272-31" id="t_271" value="1983-03-31"/>
+		<t type="DATE" span="10-275-14" id="t_272" value="1983-03-31"/>
+		<t type="DATE" span="10-275-16" id="t_273" value="1983-03-31"/>
+		<t type="DATE" span="10-310-20, 10-310-21" id="t_274" value="1983-W14"/>
+		<t type="DATE" span="10-314-9" id="t_275" value="1983-04"/>
+		<t type="DATE" span="11-17-8" id="t_276" value="PRESENT_REF"/>
+		<t type="DATE" span="11-22-5" id="t_277" value="PAST_REF"/>
+		<t type="DATE" span="12-18-6" id="t_278" value="FUTURE_REF"/>
+		<t type="DATE" span="12-38-1" id="t_279" value="FUTURE_REF"/>
+		<t type="DATE" span="12-54-14, 12-54-15, 12-54-16, 12-54-17, 12-54-18" id="t_280" value="1983-11" mod="END"/>
+		<t type="DATE" span="12-61-2" id="t_281" value="1983-04-11"/>
+		<t type="DATE" span="12-68-15" id="t_282" value="1983-SU"/>
+		<t type="DATE" span="12-71-1, 12-71-2, 12-71-3" id="t_283" value="1983-11-29"/>
+		<t type="DATE" span="12-81-1, 12-81-2, 12-81-3" id="t_284" value="1983-12-02"/>
+		<t type="DATE" span="12-87-3" id="t_285" value="1983-04-10"/>
+		<t type="DATE" span="12-116-10" id="t_286" value="1970"/>
+		<t type="DATE" span="12-143-3" id="t_287" value="FUTURE_REF"/>
+		<t type="DATE" span="12-144-6" id="t_288" value="PRESENT_REF"/>
+		<t type="DATE" span="12-157-9" id="t_289" value="PRESENT_REF"/>
+		<t type="DATE" span="12-167-3" id="t_290" value="PRESENT_REF"/>
+		<t type="DATE" span="12-168-2" id="t_291" value="1983-04-13"/>
+		<t type="DATE" span="12-195-18" id="t_292" value="FUTURE_REF"/>
+		<t type="DATE" span="12-225-2" id="t_293" value="PRESENT_REF"/>
+		<t type="DATE" span="12-228-16, 12-228-17, 12-228-18, 12-228-19, 12-228-20" id="t_294" value="1983-MINUS-cinq"/>
+		<t type="DATE" span="14-6-65" id="t_295" value="1847"/>
+		<t type="DATE" span="14-6-65" id="t_296" value="1879"/>
+		<t type="DATE" span="14-7-17" id="t_297" value="1879-08" mod="MID"/>
+		<t type="DATE" span="14-9-1" id="t_298" value="PRESENT_REF"/>
+		<t type="DATE" span="14-14-5" id="t_299" value="1847"/>
+		<t type="DATE" span="14-14-7" id="t_300" value="1879"/>
+		<t type="DATE" span="14-17-2" id="t_301" value="1845"/>
+		<t type="DATE" span="14-20-2" id="t_302" value="1898"/>
+		<t type="DATE" span="14-20-4" id="t_303" value="1902"/>
+		<t type="DATE" span="14-22-33" id="t_304" value="1903"/>
+		<t type="DATE" span="14-22-35" id="t_305" value="1906"/>
+		<t type="DATE" span="14-41-9, 14-41-10" id="t_306" value="1906-08-21"/>
+		<t type="DATE" span="14-42-6, 14-42-7, 14-42-8" id="t_307" value="PRESENT_REF"/>
+		<t type="DATE" span="14-45-10" id="t_308" value="1585"/>
+		<t type="DATE" span="14-45-12" id="t_309" value="1587"/>
+		<t type="DATE" span="14-46-6" id="t_310" value="1865"/>
+		<t type="DATE" span="14-48-1" id="t_311" value="1865-WI"/>
+		<t type="DATE" span="14-63-1" id="t_312" value="FUTURE_REF"/>
+		<t type="DATE" span="14-87-3" id="t_313" value="PRESENT_REF"/>
+		<t type="DATE" span="14-91-26" id="t_314" value="1903"/>
+		<t type="DATE" span="14-91-26" id="t_315" value="1906"/>
+		<t type="DATE" span="14-93-23" id="t_316" value="1906-SP"/>
+		<t type="DATE" span="14-126-3, 14-126-4, 14-126-5" id="t_317" value="PRESENT_REF"/>
+		<t type="DATE" span="14-131-1" id="t_318" value="PRESENT_REF"/>
+		<t type="DATE" span="14-137-7" id="t_319" value="PRESENT_REF"/>
+		<t type="DATE" span="14-156-19" id="t_320" value="1906-WI"/>
+		<t type="DATE" span="14-157-2" id="t_321" value="1906-SP"/>
+		<t type="DATE" span="14-224-13" id="t_322" value="1906-WI"/>
+		<t type="DATE" span="14-224-15" id="t_323" value="1908"/>
+		<t type="DATE" span="14-224-15" id="t_324" value="1909"/>
+		<t type="DATE" span="14-228-24" id="t_325" value="1845"/>
+		<t type="DATE" span="14-228-35" id="t_326" value="1903"/>
+		<t type="DATE" span="14-234-15" id="t_327" value="1845"/>
+		<t type="DATE" span="14-234-15" id="t_328" value="1847"/>
+		<t type="DATE" span="14-255-25" id="t_329" value="FUTURE_REF"/>
+		<t type="DATE" span="14-258-15" id="t_330" value="PRESENT_REF"/>
+		<t type="DATE" span="15-1-3" id="t_331" value="1983"/>
+		<t type="DATE" span="15-4-9" id="t_332" value="1983"/>
+		<t type="DATE" span="15-10-18" id="t_333" value="PAST_REF"/>
+		<t type="DATE" span="15-10-24, 15-10-25" id="t_334" value="1983-10-08"/>
+		<t type="DATE" span="15-13-5, 15-13-6, 15-13-7, 15-13-8, 15-13-9" id="t_335" value="1983-MINUS-cinquante"/>
+		<t type="DATE" span="15-16-18" id="t_336" value="1983-05"/>
+		<t type="DATE" span="15-16-23" id="t_337" value="1983-10"/>
+		<t type="DATE" span="15-24-4" id="t_338" value="PRESENT_REF"/>
+		<t type="DATE" span="15-29-8" id="t_339" value="1983-FA"/>
+		<t type="DATE" span="15-31-26, 15-31-27, 15-31-28" id="t_340" value="1983-10-15"/>
+		<t type="DATE" span="15-32-13" id="t_341" value="1983"/>
+		<t type="DATE" span="15-33-1" id="t_342" value="1983-05-12"/>
+		<t type="DATE" span="15-43-45" id="t_343" value="1983-06-23"/>
+		<t type="DATE" span="15-43-47, 15-43-48" id="t_344" value="1983-06-30"/>
+		<t type="DATE" span="15-44-2, 15-44-3" id="t_345" value="1983-08"/>
+		<t type="DATE" span="15-46-33" id="t_346" value="1985"/>
+		<t type="DATE" span="15-48-15" id="t_347" value="PRESENT_REF"/>
+		<t type="DATE" span="15-51-11" id="t_348" value="1987"/>
+		<t type="DATE" span="15-51-20" id="t_349" value="1800"/>
+		<t type="DATE" span="15-51-31" id="t_350" value="PRESENT_REF"/>
+		<t type="DATE" span="15-52-18" id="t_351" value="1984"/>
+		<t type="DATE" span="15-53-13, 15-53-14" id="t_352" value="1983-11"/>
+		<t type="DATE" span="15-54-30, 15-54-31" id="t_353" value="1983-12"/>
+		<t type="DATE" span="15-58-16, 15-58-17, 15-58-18" id="t_354" value="1983-04-04"/>
+		<t type="DATE" span="15-59-14, 15-59-15, 15-59-16" id="t_355" value="1983-05-07"/>
+		<t type="DATE" span="15-61-1, 15-61-2, 15-61-3" id="t_356" value="1983-05-14"/>
+		<t type="DATE" span="15-66-6, 15-66-7" id="t_357" value="1983-12-28"/>
+		<t type="DATE" span="15-67-36, 15-67-37, 15-67-38" id="t_358" value="1983-09-13"/>
+		<t type="DATE" span="15-68-22, 15-68-23, 15-68-24" id="t_359" value="1983-10-08"/>
+		<t type="DATE" span="15-72-17, 15-72-18" id="t_360" value="1981-FA"/>
+		<t type="DATE" span="15-79-21, 15-79-22" id="t_361" value="1983-10-09"/>
+		<t type="DATE" span="15-86-33" id="t_362" value="1979"/>
+		<t type="DATE" span="15-87-18, 15-87-19, 15-87-20" id="t_363" value="1979-10-15"/>
+		<t type="DATE" span="15-88-14, 15-88-15, 15-88-16" id="t_364" value="1979-10-14"/>
+		<t type="DATE" span="15-89-12, 15-89-13, 15-89-14" id="t_365" value="1979-10-09"/>
+		<t type="DATE" span="15-89-26, 15-89-27, 15-89-28" id="t_366" value="1979-12-16"/>
+		<t type="DATE" span="15-93-34" id="t_367" value="1955"/>
+		<t type="DATE" span="15-93-39, 15-93-40, 15-93-41" id="t_368" value="1955-05-28"/>
+		<t type="DATE" span="15-94-12, 15-94-13, 15-94-14" id="t_369" value="1955-05-25"/>
+		<t type="DATE" span="15-94-41, 15-94-42, 15-94-43" id="t_370" value="1955-05" mod="START"/>
+		<t type="DATE" span="15-94-59, 15-94-60, 15-94-61" id="t_371" value="1955-05-24"/>
+		<t type="DATE" span="15-95-60" id="t_372" value="PRESENT_REF"/>
+		<t type="DATE" span="15-96-24, 15-96-25, 15-96-26" id="t_373" value="1955-05-01"/>
+		<t type="DATE" span="15-101-16" id="t_374" value="1981"/>
+		<t type="DATE" span="15-102-8, 15-102-9, 15-102-10" id="t_375" value="1981-09-16"/>
+		<t type="DATE" span="15-103-7, 15-103-8, 15-103-9" id="t_376" value="1981-09-25"/>
+		<t type="DATE" span="15-103-11, 15-103-12, 15-103-13" id="t_377" value="1981-10-08"/>
+		<t type="DATE" span="15-104-7, 15-104-8, 15-104-9" id="t_378" value="1981-10-09"/>
+		<t type="DATE" span="15-107-29, 15-107-30, 15-107-31" id="t_379" value="1981-10-21"/>
+		<t type="DATE" span="15-110-5, 15-110-6, 15-110-7" id="t_380" value="1981-09-15"/>
+		<t type="DATE" span="15-119-12" id="t_381" value="1930"/>
+		<t type="DATE" span="15-122-3" id="t_382" value="1979"/>
+		<t type="DATE" span="15-122-11, 15-122-12" id="t_383" value="1979"/>
+		<t type="DATE" span="15-123-19" id="t_384" value="1962"/>
+		<t type="DATE" span="15-124-3, 15-124-4, 15-124-5" id="t_385" value="1962-03-15"/>
+		<t type="DATE" span="15-125-1, 15-125-2, 15-125-3" id="t_386" value="1962-04-29"/>
+		<t type="DATE" span="15-125-11" id="t_387" value="1962-12-25"/>
+		<t type="DATE" span="15-127-9" id="t_388" value="PAST_REF"/>
+		<t type="DATE" span="15-129-13, 15-129-14" id="t_389" value="1930-06"/>
+		<t type="DATE" span="15-131-1, 15-131-2, 15-131-3" id="t_390" value="1930-04-21"/>
+		<t type="DATE" span="15-132-16, 15-132-17, 15-132-18" id="t_391" value="1930-06-11"/>
+		<t type="DATE" span="15-134-5, 15-134-6, 15-134-7" id="t_392" value="1930-05-21"/>
+		<t type="DATE" span="15-135-5, 15-135-6, 15-135-7" id="t_393" value="1930-06-09"/>
+		<t type="DATE" span="15-140-11" id="t_394" value="1954"/>
+		<t type="DATE" span="15-140-26" id="t_395" value="1970"/>
+		<t type="DATE" span="15-141-61, 15-141-62, 15-141-63" id="t_396" value="1970-05-08"/>
+		<t type="DATE" span="15-143-19" id="t_397" value="1955"/>
+		<t type="DATE" span="15-143-39, 15-143-40, 15-143-41" id="t_398" value="1955-04-05"/>
+		<t type="DATE" span="15-144-37, 15-144-38, 15-144-39" id="t_399" value="1955-05-16"/>
+		<t type="DATE" span="15-147-5" id="t_400" value="1971"/>
+		<t type="DATE" span="15-147-11" id="t_401" value="1980"/>
+		<t type="DATE" span="15-150-1, 15-150-2, 15-150-3" id="t_402" value="1980-10-03"/>
+		<t type="DATE" span="15-151-1, 15-151-2, 15-151-3" id="t_403" value="1980-10-15"/>
+		<t type="DATE" span="15-152-10, 15-152-11, 15-152-12" id="t_404" value="1980-09-28"/>
+		<t type="DATE" span="15-156-10" id="t_405" value="1980-05" mod="MID"/>
+		<t type="DATE" span="15-163-7, 15-163-8, 15-163-9" id="t_406" value="1980-09-15"/>
+		<t type="DATE" span="15-166-15" id="t_407" value="1980-10-10"/>
+		<t type="DATE" span="15-166-17, 15-166-18" id="t_408" value="1980-10-14"/>
+		<t type="DATE" span="15-170-35, 15-170-36, 15-170-37" id="t_409" value="1980-10-21"/>
+		<t type="DATE" span="15-175-10, 15-175-11, 15-175-12" id="t_410" value="1980-04-21"/>
+		<t type="DATE" span="15-181-13, 15-181-14, 15-181-15" id="t_411" value="1980-04-26"/>
+		<t type="DATE" span="15-183-29, 15-183-30, 15-183-31" id="t_412" value="1980-04-10"/>
+		<t type="DATE" span="15-187-1" id="t_413" value="1980-05-15"/>
+		<t type="DATE" span="15-188-14" id="t_414" value="1980-10-26"/>
+		<t type="DATE" span="15-188-16, 15-188-17" id="t_415" value="1980-10-27"/>
+		<t type="DATE" span="15-194-11, 15-194-12, 15-194-13" id="t_416" value="1980-10-27"/>
+		<t type="DATE" span="15-195-1" id="t_417" value="1980-05-15"/>
+		<t type="DATE" span="15-196-6" id="t_418" value="1980-11-05"/>
+		<t type="DATE" span="15-196-6, 15-196-7" id="t_419" value="1980-11-09"/>
+		<t type="DATE" span="15-198-17, 15-198-18, 15-198-19" id="t_420" value="1980-12-05"/>
+		<t type="DATE" span="15-199-40, 15-199-41, 15-199-42" id="t_421" value="1980-05-02"/>
+		<t type="DATE" span="15-199-48, 15-199-49, 15-199-50" id="t_422" value="1980-05-05"/>
+		<t type="DATE" span="15-201-14, 15-201-15" id="t_423" value="1982-12"/>
+		<t type="DATE" span="15-207-7, 15-207-8, 15-207-9" id="t_424" value="1982-04-15"/>
+		<t type="DATE" span="15-208-7, 15-208-8, 15-208-9" id="t_425" value="1982-05-07"/>
+		<t type="DATE" span="15-210-6" id="t_426" value="PAST_REF"/>
+		<t type="DATE" span="15-212-21, 15-212-22" id="t_427" value="1982-10-17"/>
+		<t type="DATE" span="15-215-6" id="t_428" value="1982-10-19"/>
+		<t type="DATE" span="15-215-8, 15-215-9" id="t_429" value="1982-10-20"/>
+		<t type="DATE" span="15-218-37, 15-218-38, 15-218-39" id="t_430" value="1982-12-17"/>
+		<t type="DATE" span="15-219-5, 15-219-6, 15-219-7" id="t_431" value="1982-12-19"/>
+		<t type="DATE" span="15-223-38" id="t_432" value="1979"/>
+		<t type="DATE" span="15-225-9, 15-225-10" id="t_433" value="1979-11-01"/>
+		<t type="DATE" span="15-225-19, 15-225-20" id="t_434" value="1979-11-04"/>
+		<t type="DATE" span="15-226-28" id="t_435" value="1979-04"/>
+		<t type="DATE" span="15-227-9, 15-227-10, 15-227-11" id="t_436" value="1979-10-09"/>
+		<t type="DATE" span="15-229-13" id="t_437" value="1981"/>
+		<t type="DATE" span="15-231-13" id="t_438" value="1979"/>
+		<t type="DATE" span="15-232-3" id="t_439" value="1979-10"/>
+		<t type="DATE" span="15-235-1, 15-235-2, 15-235-3" id="t_440" value="1979-10-23"/>
+		<t type="DATE" span="15-238-13, 15-238-14, 15-238-15" id="t_441" value="1979-10-24"/>
+		<t type="DATE" span="15-238-20, 15-238-21, 15-238-22" id="t_442" value="1979-10-27"/>
+		<t type="DATE" span="15-241-18" id="t_443" value="1981"/>
+		<t type="DATE" span="15-242-7, 15-242-8, 15-242-9" id="t_444" value="1981-04-30"/>
+		<t type="DATE" span="15-243-1, 15-243-2, 15-243-3" id="t_445" value="1981-05-13"/>
+		<t type="DATE" span="15-244-2" id="t_446" value="1981-05-18"/>
+		<t type="DATE" span="15-244-4, 15-244-5" id="t_447" value="1981-05-21"/>
+		<t type="DATE" span="15-247-23" id="t_448" value="1960"/>
+		<t type="DATE" span="15-247-25" id="t_449" value="1978"/>
+		<t type="DATE" span="15-249-1, 15-249-2, 15-249-3" id="t_450" value="1978-10-06"/>
+		<t type="DATE" span="15-252-14" id="t_451" value="1982"/>
+		<t type="DATE" span="15-252-28, 15-252-29, 15-252-30" id="t_452" value="1982-10-27"/>
+		<t type="DATE" span="15-254-18, 15-254-19" id="t_453" value="1982-05"/>
+		<t type="DATE" span="15-254-21" id="t_454" value="1983"/>
+		<t type="DATE" span="15-257-29" id="t_455" value="1980"/>
+		<t type="DATE" span="15-258-16, 15-258-17, 15-258-18" id="t_456" value="1980-04-24"/>
+		<t type="DATE" span="15-261-29" id="t_457" value="1982"/>
+		<t type="DATE" span="15-262-2" id="t_458" value="1975"/>
+		<t type="DATE" span="15-263-2" id="t_459" value="1977"/>
+		<t type="DATE" span="15-263-10" id="t_460" value="1979"/>
+		<t type="DATE" span="15-266-24, 15-266-25, 15-266-26" id="t_461" value="1979-10-18"/>
+		<t type="DATE" span="15-268-1, 15-268-2, 15-268-3" id="t_462" value="1979-10-22"/>
+		<t type="DATE" span="15-269-19, 15-269-20" id="t_463" value="1979-10-22"/>
+		<t type="DATE" span="15-272-9" id="t_464" value="1979"/>
+		<t type="DATE" span="15-273-12, 15-273-13, 15-273-14" id="t_465" value="1979-10-07"/>
+		<t type="DATE" span="15-276-8, 15-276-9, 15-276-10" id="t_466" value="1979-12-11"/>
+		<t type="DATE" span="15-277-3, 15-277-4, 15-277-5, 15-277-6" id="t_467" value="1983-01-12"/>
+		<t type="DATE" span="15-280-14, 15-280-15, 15-280-16" id="t_468" value="1983-05-10"/>
+		<t type="DATE" span="15-283-31, 15-283-32, 15-283-33, 15-283-34" id="t_469" value="1964-10-25"/>
+		<t type="DATE" span="15-286-8" id="t_470" value="1964-10"/>
+		<t type="DATE" span="15-286-16" id="t_471" value="1964-12"/>
+		<t type="DATE" span="15-288-2, 15-288-3, 15-288-4" id="t_472" value="1964-10-08"/>
+		<t type="DATE" span="15-289-15" id="t_473" value="1970"/>
+		<t type="DATE" span="15-289-21" id="t_474" value="1981"/>
+		<t type="DATE" span="15-290-1" id="t_475" value="1981-05-28"/>
+		<t type="DATE" span="15-290-4, 15-290-5, 15-290-6" id="t_476" value="1981-10-20"/>
+		<t type="DATE" span="15-291-18" id="t_477" value="1977"/>
+		<t type="DATE" span="15-291-30, 15-291-31, 15-291-32" id="t_478" value="1977-10-01"/>
+		<t type="DATE" span="15-293-2, 15-293-3, 15-293-4" id="t_479" value="1977-12-19"/>
+		<t type="DATE" span="15-295-6" id="t_480" value="1977-10"/>
+		<t type="DATE" span="15-296-11" id="t_481" value="1979"/>
+		<t type="DATE" span="15-297-13, 15-297-14, 15-297-15" id="t_482" value="1979-10-22"/>
+		<t type="DATE" span="15-298-25, 15-298-26, 15-298-27" id="t_483" value="1979-10-08"/>
+		<t type="DATE" span="15-305-3, 15-305-4, 15-305-5" id="t_484" value="1979-05-09"/>
+		<t type="DATE" span="15-307-1, 15-307-2, 15-307-3" id="t_485" value="1979-10-07"/>
+		<t type="DATE" span="15-310-22, 15-310-23, 15-310-24" id="t_486" value="1979-10-08"/>
+		<t type="DATE" span="15-314-17, 15-314-18, 15-314-19" id="t_487" value="1979-04-07"/>
+		<t type="DATE" span="15-316-7, 15-316-8, 15-316-9" id="t_488" value="1979-05-05"/>
+		<t type="DATE" span="15-318-9" id="t_489" value="1979-10"/>
+		<t type="DATE" span="15-319-10, 15-319-11, 15-319-12" id="t_490" value="1979-10-15"/>
+		<t type="DATE" span="15-319-27" id="t_491" value="1979-04"/>
+		<t type="DATE" span="15-319-27" id="t_492" value="1979-05"/>
+		<t type="DATE" span="15-319-38" id="t_493" value="1979-SU"/>
+		<t type="DATE" span="15-323-12, 15-323-13, 15-323-14" id="t_494" value="1979-10-27"/>
+		<t type="DATE" span="15-324-15" id="t_495" value="1979-10"/>
+		<t type="DATE" span="15-325-24" id="t_496" value="1981"/>
+		<t type="DATE" span="15-326-8, 15-326-9, 15-326-10" id="t_497" value="1981-10-08"/>
+		<t type="DATE" span="15-329-10, 15-329-11, 15-329-12" id="t_498" value="1981-10-22"/>
+		<t type="DATE" span="15-333-11" id="t_499" value="1981-10-24"/>
+		<t type="DATE" span="15-333-13, 15-333-14" id="t_500" value="1981-10-26"/>
+		<t type="DATE" span="15-335-4" id="t_501" value="PAST_REF"/>
+		<t type="DATE" span="15-336-12" id="t_502" value="1953"/>
+		<t type="DATE" span="15-340-20, 15-340-21, 15-340-22" id="t_503" value="1953-04-23"/>
+		<t type="DATE" span="15-342-16, 15-342-17, 15-342-18" id="t_504" value="1953-12-11"/>
+		<t type="DATE" span="15-342-48, 15-342-49" id="t_505" value="1982-01"/>
+		<t type="DATE" span="15-343-33, 15-343-34, 15-343-35" id="t_506" value="1982-05-18"/>
+		<t type="DATE" span="15-344-1, 15-344-2, 15-344-3" id="t_507" value="1982-05-17"/>
+		<t type="DATE" span="15-346-41, 15-346-42, 15-346-43" id="t_508" value="1982-05-22"/>
+		<t type="DATE" span="15-350-12, 15-350-13, 15-350-14" id="t_509" value="1982-04-22"/>
+		<t type="DATE" span="15-355-16, 15-355-17, 15-355-18" id="t_510" value="1982-11-03"/>
+		<t type="DATE" span="15-357-41, 15-357-42, 15-357-43" id="t_511" value="1982-10-23"/>
+		<t type="DATE" span="15-358-11, 15-358-12, 15-358-13, 15-358-14" id="t_512" value="1982-10-18"/>
+		<t type="DATE" span="15-360-26" id="t_513" value="PAST_REF"/>
+		<t type="DATE" span="15-361-12, 15-361-13, 15-361-14" id="t_514" value="1982-10-11"/>
+		<t type="DATE" span="15-366-7, 15-366-8, 15-366-9" id="t_515" value="1982-10-12"/>
+		<t type="DATE" span="15-370-6, 15-370-7, 15-370-8" id="t_516" value="1982-05-28"/>
+		<t type="DATE" span="15-372-6, 15-372-7" id="t_517" value="1981-10"/>
+		<t type="DATE" span="15-373-10, 15-373-11, 15-373-12" id="t_518" value="1981-12-24"/>
+		<t type="DATE" span="15-379-20, 15-379-21, 15-379-22" id="t_519" value="1981-05-20"/>
+		<t type="DATE" span="15-379-46, 15-379-47, 15-379-48" id="t_520" value="1981-06-26"/>
+		<t type="DATE" span="15-380-11, 15-380-12, 15-380-13" id="t_521" value="1981-07-27"/>
+		<t type="DATE" span="15-385-8, 15-385-9, 15-385-10" id="t_522" value="1981-05-25"/>
+		<t type="DATE" span="15-387-11, 15-387-12, 15-387-13" id="t_523" value="1981-07-25"/>
+		<t type="DATE" span="15-388-2, 15-388-3, 15-388-4" id="t_524" value="1981-08" mod="START"/>
+		<t type="DATE" span="15-391-19, 15-391-20, 15-391-21" id="t_525" value="1981-07-25"/>
+		<t type="DATE" span="15-393-5" id="t_526" value="1981"/>
+		<t type="DATE" span="15-398-7, 15-398-8, 15-398-9" id="t_527" value="1981-06-21"/>
+		<t type="DATE" span="15-399-13" id="t_528" value="1982"/>
+		<t type="DATE" span="15-399-35, 15-399-36, 15-399-37" id="t_529" value="1982-06-23"/>
+		<t type="DATE" span="15-400-17" id="t_530" value="1983"/>
+		<t type="DATE" span="15-400-39, 15-400-40, 15-400-41, 15-400-42" id="t_531" value="1982-10-17"/>
+		<t type="DATE" span="15-401-2" id="t_532" value="1982-07-20"/>
+		<t type="DATE" span="15-401-4, 15-401-5" id="t_533" value="1982-07-23"/>
+		<t type="DATE" span="15-406-9, 15-406-10, 15-406-11" id="t_534" value="1982-08-22"/>
+		<t type="DATE" span="15-410-45, 15-410-46, 15-410-47" id="t_535" value="1982-06-15"/>
+		<t type="DATE" span="15-413-34, 15-413-35, 15-413-36" id="t_536" value="1982-06-29"/>
+		<t type="DATE" span="15-413-38, 15-413-39, 15-413-40" id="t_537" value="1982-07-01"/>
+		<t type="DATE" span="15-416-5, 15-416-6, 15-416-7" id="t_538" value="1982-08-31"/>
+		<t type="DATE" span="15-419-2" id="t_539" value="1982-02"/>
+		<t type="DATE" span="15-423-6" id="t_540" value="1982-02"/>
+		<t type="DATE" span="15-424-7, 15-424-8, 15-424-9" id="t_541" value="1982-03" mod="START"/>
+		<t type="DATE" span="15-429-28, 15-429-29, 15-429-30" id="t_542" value="1982-06-24"/>
+		<t type="DATE" span="15-429-60, 15-429-61, 15-429-62" id="t_543" value="1982-06-28"/>
+		<t type="DATE" span="15-432-2" id="t_544" value="1983-10-09"/>
+		<t type="DATE" span="15-433-16" id="t_545" value="PAST_REF"/>
+		<t type="DATE" span="15-435-21" id="t_546" value="1979"/>
+		<t type="DATE" span="15-436-10, 15-436-11, 15-436-12" id="t_547" value="1979-06-29"/>
+		<t type="DATE" span="15-437-1, 15-437-2, 15-437-3" id="t_548" value="1979-06-30"/>
+		<t type="DATE" span="15-439-10, 15-439-11, 15-439-12" id="t_549" value="1979-07-01"/>
+		<t type="DATE" span="15-442-1, 15-442-2, 15-442-3" id="t_550" value="1979-06-30"/>
+		<t type="DATE" span="15-443-1, 15-443-2, 15-443-3" id="t_551" value="1979-07-02"/>
+		<t type="DATE" span="15-449-10, 15-449-11, 15-449-12" id="t_552" value="1979-05-29"/>
+		<t type="DATE" span="15-453-7, 15-453-8" id="t_553" value="1979-04-16"/>
+		<t type="DATE" span="15-453-10, 15-453-11" id="t_554" value="1979-06-15"/>
+		<t type="DATE" span="15-455-23" id="t_555" value="1979-06"/>
+		<t type="DATE" span="15-455-25" id="t_556" value="1979-07"/>
+		<t type="DATE" span="15-459-22, 15-459-23" id="t_557" value="1982-06"/>
+		<t type="DATE" span="15-459-38, 15-459-39, 15-459-40" id="t_558" value="1982-06-28"/>
+		<t type="DATE" span="15-462-15, 15-462-16, 15-462-17" id="t_559" value="1982-06-30"/>
+		<t type="DATE" span="15-466-13" id="t_560" value="1956"/>
+		<t type="DATE" span="15-469-10" id="t_561" value="1956-07"/>
+		<t type="DATE" span="15-471-24" id="t_562" value="1956-05"/>
+		<t type="DATE" span="15-471-26" id="t_563" value="1956-07"/>
+		<t type="DATE" span="15-473-26" id="t_564" value="1976"/>
+		<t type="DATE" span="15-482-31" id="t_565" value="1982-07-01"/>
+		<t type="DATE" span="15-485-14" id="t_566" value="1887"/>
+		<t type="DATE" span="15-486-59" id="t_567" value="1957"/>
+		<t type="DATE" span="15-487-4" id="t_568" value="1958"/>
+		<t type="DATE" span="15-487-25" id="t_569" value="1909"/>
+		<t type="DATE" span="15-488-1, 15-488-2, 15-488-3" id="t_570" value="1909-06-14"/>
+		<t type="DATE" span="15-489-5, 15-489-6, 15-489-7" id="t_571" value="1909-06-05"/>
+		<t type="DATE" span="15-490-12, 15-490-13, 15-490-14" id="t_572" value="1909-06-13"/>
+		<t type="DATE" span="15-492-37" id="t_573" value="1982-07-02"/>
+		<t type="DATE" span="15-496-28" id="t_574" value="1960"/>
+		<t type="DATE" span="15-496-31" id="t_575" value="1981"/>
+		<t type="DATE" span="15-497-9, 15-497-10, 15-497-11, 15-497-12" id="t_576" value="1908-08-17"/>
+		<t type="DATE" span="15-499-30, 15-499-31, 15-499-32" id="t_577" value="1908-07-03"/>
+		<t type="DATE" span="15-500-15, 15-500-16, 15-500-17" id="t_578" value="1908-07-27"/>
+		<t type="DATE" span="15-501-14, 15-501-15, 15-501-16" id="t_579" value="1908-08-12"/>
+		<t type="DATE" span="15-501-22" id="t_580" value="PAST_REF"/>
+		<t type="DATE" span="15-503-2" id="t_581" value="1977"/>
+		<t type="DATE" span="15-504-2" id="t_582" value="1978"/>
+		<t type="DATE" span="15-505-14" id="t_583" value="1978-05"/>
+		<t type="DATE" span="15-505-16" id="t_584" value="1978-06"/>
+		<t type="DATE" span="15-509-11, 15-509-12, 15-509-13" id="t_585" value="1978-05-24"/>
+		<t type="DATE" span="15-509-26, 15-509-27, 15-509-28" id="t_586" value="1978-06-05"/>
+		<t type="DATE" span="15-511-1, 15-511-2, 15-511-3" id="t_587" value="1978-06-09"/>
+		<t type="DATE" span="15-512-13, 15-512-14, 15-512-15" id="t_588" value="1978-06-15"/>
+		<t type="DATE" span="15-515-1, 15-515-2, 15-515-3" id="t_589" value="1978-06-17"/>
+		<t type="DATE" span="15-517-9" id="t_590" value="1978-06"/>
+		<t type="DATE" span="15-517-40" id="t_591" value="1982"/>
+		<t type="DATE" span="15-522-31" id="t_592" value="1982-07"/>
+		<t type="DATE" span="15-523-23, 15-523-24, 15-523-25" id="t_593" value="1982-07-10"/>
+		<t type="DATE" span="15-526-11, 15-526-12, 15-526-13" id="t_594" value="1982-07-24"/>
+		<t type="DATE" span="15-527-9, 15-527-10, 15-527-11" id="t_595" value="1982-07-28"/>
+		<t type="DATE" span="15-528-8" id="t_596" value="1980"/>
+		<t type="DATE" span="15-529-26, 15-529-27, 15-529-28" id="t_597" value="1980-08-02"/>
+		<t type="DATE" span="15-529-37" id="t_598" value="1958"/>
+		<t type="DATE" span="15-530-35, 15-530-36, 15-530-37" id="t_599" value="1958-07-07"/>
+		<t type="DATE" span="15-531-21, 15-531-22, 15-531-23" id="t_600" value="1958-07-10"/>
+		<t type="DATE" span="15-531-25, 15-531-26, 15-531-27" id="t_601" value="1958-08-01"/>
+		<t type="DATE" span="15-532-14, 15-532-15, 15-532-16" id="t_602" value="1958-08-02"/>
+		<t type="DATE" span="15-533-17" id="t_603" value="1979"/>
+		<t type="DATE" span="15-536-8, 15-536-9, 15-536-10" id="t_604" value="1979-07-05"/>
+		<t type="DATE" span="15-538-10, 15-538-11, 15-538-12" id="t_605" value="1979-06-17"/>
+		<t type="DATE" span="15-540-18, 15-540-19, 15-540-20" id="t_606" value="1979-06-30"/>
+		<t type="DATE" span="15-541-9, 15-541-10, 15-541-11" id="t_607" value="1979-07-02"/>
+		<t type="DATE" span="15-542-44" id="t_608" value="1976"/>
+		<t type="DATE" span="15-543-15" id="t_609" value="1976-01"/>
+		<t type="DATE" span="15-543-15, 15-543-16" id="t_610" value="1981-02"/>
+		<t type="DATE" span="15-545-25, 15-545-26, 15-545-27" id="t_611" value="1981-06-01"/>
+		<t type="DATE" span="15-546-2" id="t_612" value="1981-06-02"/>
+		<t type="DATE" span="15-546-4, 15-546-5" id="t_613" value="1981-06-15"/>
+		<t type="DATE" span="15-548-9" id="t_614" value="1981-06-21"/>
+		<t type="DATE" span="15-548-11, 15-548-12" id="t_615" value="1981-06-25"/>
+		<t type="DATE" span="15-551-3, 15-551-4, 15-551-5" id="t_616" value="1981-06-25"/>
+		<t type="DATE" span="15-553-8, 15-553-9, 15-553-10" id="t_617" value="1981-08-31"/>
+		<t type="DATE" span="15-561-1" id="t_618" value="1981-05-28"/>
+		<t type="DATE" span="15-561-3, 15-561-4, 15-561-5" id="t_619" value="1981-09-02"/>
+		<t type="DATE" span="15-564-33, 15-564-34, 15-564-35" id="t_620" value="1981-07-07"/>
+		<t type="DATE" span="15-567-1, 15-567-2, 15-567-3" id="t_621" value="1981-07-18"/>
+		<t type="DATE" span="15-567-23, 15-567-24, 15-567-25" id="t_622" value="1981-07-20"/>
+		<t type="DATE" span="15-573-18" id="t_623" value="1981-05"/>
+		<t type="DATE" span="15-573-20" id="t_624" value="1981-09"/>
+		<t type="DATE" span="15-580-34, 15-580-35, 15-580-36" id="t_625" value="1981-07-10"/>
+		<t type="DATE" span="15-581-6, 15-581-7, 15-581-8" id="t_626" value="1981-07-12"/>
+		<t type="DATE" span="15-583-4, 15-583-5, 15-583-6" id="t_627" value="1981-07-08"/>
+		<t type="DATE" span="15-585-9, 15-585-10, 15-585-11" id="t_628" value="1981-07-17"/>
+		<t type="DATE" span="15-591-5, 15-591-6, 15-591-7" id="t_629" value="1981-07-15"/>
+		<t type="DATE" span="15-593-33, 15-593-34, 15-593-35" id="t_630" value="1981-08-03"/>
+		<t type="DATE" span="15-594-16, 15-594-17, 15-594-18" id="t_631" value="1981-08-05"/>
+		<t type="DATE" span="15-599-1, 15-599-2, 15-599-3" id="t_632" value="1981-06-10"/>
+		<t type="DATE" span="15-601-4, 15-601-5, 15-601-6" id="t_633" value="1981-08-02"/>
+		<t type="DATE" span="15-602-1, 15-602-2, 15-602-3" id="t_634" value="1981-08-18"/>
+		<t type="DATE" span="15-604-35, 15-604-36, 15-604-37" id="t_635" value="1981-07-24"/>
+		<t type="DATE" span="15-605-17" id="t_636" value="1950"/>
+		<t type="DATE" span="15-606-35, 15-606-36, 15-606-37" id="t_637" value="1950-08-02"/>
+		<t type="DATE" span="15-607-1, 15-607-2, 15-607-3" id="t_638" value="1950-08-11"/>
+		<t type="DATE" span="15-607-24, 15-607-25, 15-607-26" id="t_639" value="1950-08-12"/>
+		<t type="DATE" span="15-610-9" id="t_640" value="1982"/>
+		<t type="DATE" span="15-616-32" id="t_641" value="1979"/>
+		<t type="DATE" span="15-619-26, 15-619-27, 15-619-28" id="t_642" value="1979-05-08"/>
+		<t type="DATE" span="15-620-25, 15-620-26, 15-620-27" id="t_643" value="1979-03-24"/>
+		<t type="DATE" span="15-621-1, 15-621-2, 15-621-3" id="t_644" value="1979-05-17"/>
+		<t type="DATE" span="15-623-39" id="t_645" value="1980"/>
+		<t type="DATE" span="15-624-12" id="t_646" value="1980-08" mod="MID"/>
+		<t type="DATE" span="15-625-1, 15-625-2, 15-625-3" id="t_647" value="1980-09-16"/>
+		<t type="DATE" span="15-626-8, 15-626-9" id="t_648" value="1980-10-12"/>
+		<t type="DATE" span="15-627-28" id="t_649" value="1980-09" mod="MID"/>
+		<t type="DATE" span="15-627-39" id="t_650" value="1980-04"/>
+		<t type="DATE" span="15-627-39" id="t_651" value="1980-05"/>
+		<t type="DATE" span="15-630-11, 15-630-12, 15-630-13" id="t_652" value="1980-08-12"/>
+		<t type="DATE" span="15-634-5, 15-634-6, 15-634-7" id="t_653" value="1980-08-26"/>
+		<t type="DATE" span="15-634-60" id="t_654" value="1980-09-01"/>
+		<t type="DATE" span="15-634-62, 15-634-63" id="t_655" value="1980-09-10"/>
+		<t type="DATE" span="15-635-13" id="t_656" value="1981"/>
+		<t type="DATE" span="15-636-9, 15-636-10, 15-636-11" id="t_657" value="1981-09-28"/>
+		<t type="DATE" span="15-636-14, 15-636-15, 15-636-16" id="t_658" value="1981-10-04"/>
+		<t type="DATE" span="15-637-33, 15-637-34, 15-637-35" id="t_659" value="1981-10-08"/>
+		<t type="DATE" span="15-639-7, 15-639-8, 15-639-9" id="t_660" value="1981-10-09"/>
+		<t type="DATE" span="15-640-5, 15-640-6, 15-640-7" id="t_661" value="1981-10-10"/>
+		<t type="DATE" span="15-641-3, 15-641-4, 15-641-5" id="t_662" value="1981-10-12"/>
+		<t type="DATE" span="15-645-30" id="t_663" value="1982"/>
+		<t type="DATE" span="15-649-23" id="t_664" value="1982-05" mod="MID"/>
+		<t type="DATE" span="15-653-1, 15-653-2, 15-653-3" id="t_665" value="1982-07-31"/>
+		<t type="DATE" span="15-653-18" id="t_666" value="1979"/>
+		<t type="DATE" span="15-653-32" id="t_667" value="1981"/>
+		<t type="DATE" span="15-654-1, 15-654-2, 15-654-3" id="t_668" value="1982-08-04"/>
+		<t type="DATE" span="15-656-39" id="t_669" value="1981"/>
+		<t type="DATE" span="15-659-15, 15-659-16, 15-659-17" id="t_670" value="1981-06-25"/>
+		<t type="DATE" span="15-659-48" id="t_671" value="1981"/>
+		<t type="DATE" span="15-661-3, 15-661-4, 15-661-5" id="t_672" value="1981-10-08"/>
+		<t type="DATE" span="15-663-19, 15-663-20, 15-663-21" id="t_673" value="1981-10-08"/>
+		<t type="DATE" span="15-667-8, 15-667-9, 15-667-10, 15-667-11" id="t_674" value="1956-05-18"/>
+		<t type="DATE" span="15-668-9" id="t_675" value="1980"/>
+		<t type="DATE" span="15-669-12" id="t_676" value="1980-09"/>
+		<t type="DATE" span="15-670-21, 15-670-22, 15-670-23" id="t_677" value="1980-09-30"/>
+		<t type="DATE" span="15-688-9" id="t_678" value="1980-08"/>
+		<t type="DATE" span="15-688-12" id="t_679" value="1980-09"/>
+		<t type="DATE" span="15-693-13" id="t_680" value="1947"/>
+		<t type="DATE" span="15-694-11" id="t_681" value="1982"/>
+		<t type="DATE" span="15-694-15" id="t_682" value="PRESENT_REF"/>
+		<t type="DATE" span="15-696-19" id="t_683" value="1982-05"/>
+		<t type="DATE" span="15-699-7, 15-699-8" id="t_684" value="1982-08" mod="END"/>
+		<t type="DATE" span="15-699-17" id="t_685" value="PAST_REF"/>
+		<t type="DATE" span="15-701-14" id="t_686" value="1981"/>
+		<t type="DATE" span="15-702-37, 15-702-38, 15-702-39" id="t_687" value="1981-09-09"/>
+		<t type="DATE" span="15-705-1" id="t_688" value="1981-05-28"/>
+		<t type="DATE" span="15-705-8" id="t_689" value="1981-09-13"/>
+		<t type="DATE" span="15-705-10, 15-705-11" id="t_690" value="1981-09-18"/>
+		<t type="DATE" span="15-707-9, 15-707-10, 15-707-11" id="t_691" value="1981-09-18"/>
+		<t type="DATE" span="15-712-5, 15-712-6, 15-712-7, 15-712-8" id="t_692" value="1983-09-05"/>
+		<t type="DATE" span="15-718-16" id="t_693" value="1981"/>
+		<t type="DATE" span="15-720-3, 15-720-4, 15-720-5" id="t_694" value="1981-06-10"/>
+		<t type="DATE" span="15-723-21" id="t_695" value="1981-08-16"/>
+		<t type="DATE" span="15-723-23, 15-723-24" id="t_696" value="1981-08-23"/>
+		<t type="DATE" span="15-724-27, 15-724-28, 15-724-29" id="t_697" value="1981-08-23"/>
+		<t type="DATE" span="15-727-16" id="t_698" value="PAST_REF"/>
+		<t type="DATE" span="15-728-20" id="t_699" value="1981-09"/>
+		<t type="DATE" span="15-731-23" id="t_700" value="1981-08-16"/>
+		<t type="DATE" span="15-731-25, 15-731-26" id="t_701" value="1981-08-23"/>
+		<t type="DATE" span="15-738-2" id="t_702" value="1981"/>
+		<t type="DATE" span="15-738-5" id="t_703" value="1982"/>
+		<t type="DATE" span="15-738-8" id="t_704" value="1983"/>
+		<t type="DATE" span="15-739-14, 15-739-15, 15-739-16" id="t_705" value="1983-05-15"/>
+		<t type="DATE" span="15-739-31" id="t_706" value="1981"/>
+		<t type="DATE" span="15-740-14, 15-740-15" id="t_707" value="1981-05-22"/>
+		<t type="DATE" span="15-744-6, 15-744-7, 15-744-8" id="t_708" value="1981-06-15"/>
+		<t type="DATE" span="15-744-12" id="t_709" value="1938"/>
+		<t type="DATE" span="15-745-1" id="t_710" value="1938-05-26"/>
+		<t type="DATE" span="15-745-8" id="t_711" value="1938-08"/>
+		<t type="DATE" span="15-747-13, 15-747-14, 15-747-15, 15-747-16" id="t_712" value="1982-10-08"/>
+		<t type="DATE" span="15-748-26" id="t_713" value="1978"/>
+		<t type="DATE" span="15-750-11, 15-750-12, 15-750-13" id="t_714" value="1978-09-11"/>
+		<t type="DATE" span="15-752-9" id="t_715" value="1978-09-22"/>
+		<t type="DATE" span="15-752-11, 15-752-12" id="t_716" value="1978-09-27"/>
+		<t type="DATE" span="15-752-22, 15-752-23" id="t_717" value="1978-09-28"/>
+		<t type="DATE" span="15-752-25, 15-752-26" id="t_718" value="1978-10-08"/>
+		<t type="DATE" span="15-756-8, 15-756-9, 15-756-10" id="t_719" value="1978-09-08"/>
+		<t type="DATE" span="15-758-21" id="t_720" value="1978-10"/>
+		<t type="DATE" span="15-759-12" id="t_721" value="1980"/>
+		<t type="DATE" span="15-760-2, 15-760-3" id="t_722" value="1983-08"/>
+		<t type="DATE" span="15-763-1, 15-763-2, 15-763-3, 15-763-4" id="t_723" value="1982-09-27"/>
+		<t type="DATE" span="15-767-7" id="t_724" value="1982"/>
+		<t type="DATE" span="15-767-45" id="t_725" value="1982-05"/>
+		<t type="DATE" span="15-767-47" id="t_726" value="1982-06"/>
+		<t type="DATE" span="15-770-4, 15-770-5, 15-770-6" id="t_727" value="1982-07-01"/>
+		<t type="DATE" span="15-772-1, 15-772-2, 15-772-3" id="t_728" value="1982-07-08"/>
+		<t type="DATE" span="15-773-40, 15-773-41, 15-773-42" id="t_729" value="1982-06-23"/>
+		<t type="DATE" span="15-781-6, 15-781-7, 15-781-8" id="t_730" value="1982-06-24"/>
+		<t type="DATE" span="15-782-4" id="t_731" value="1982-07"/>
+		<t type="DATE" span="15-783-25" id="t_732" value="1982-07"/>
+		<t type="DATE" span="15-783-27" id="t_733" value="1982-08"/>
+		<t type="DATE" span="15-786-28" id="t_734" value="1982-08-12"/>
+		<t type="DATE" span="15-786-30, 15-786-31" id="t_735" value="1982-08-13"/>
+		<t type="DATE" span="15-789-5" id="t_736" value="1982-08-14"/>
+		<t type="DATE" span="15-789-7, 15-789-8" id="t_737" value="1982-08-18"/>
+		<t type="DATE" span="15-790-6" id="t_738" value="1982-08-12"/>
+		<t type="DATE" span="15-790-8, 15-790-9" id="t_739" value="1982-08-17"/>
+		<t type="DATE" span="15-793-6" id="t_740" value="1982-08"/>
+		<t type="DATE" span="15-793-6" id="t_741" value="1982-09"/>
+		<t type="DATE" span="15-800-29" id="t_742" value="1982-07"/>
+		<t type="DATE" span="15-800-32" id="t_743" value="1982-08"/>
+		<t type="DATE" span="15-806-35" id="t_744" value="1976"/>
+		<t type="DATE" span="15-806-46" id="t_745" value="1979"/>
+		<t type="DATE" span="15-806-50" id="t_746" value="1980"/>
+		<t type="DATE" span="15-806-62" id="t_747" value="1979"/>
+		<t type="DATE" span="15-807-7" id="t_748" value="1981"/>
+		<t type="DATE" span="15-808-8" id="t_749" value="1981-06"/>
+		<t type="DATE" span="15-808-23, 15-808-24" id="t_750" value="1981"/>
+		<t type="DATE" span="15-809-12" id="t_751" value="PRESENT_REF"/>
+		<t type="DATE" span="15-813-31, 15-813-32, 15-813-33, 15-813-34, 15-813-35" id="t_752" value="1981-MINUS-quatre"/>
+		<t type="DATE" span="17-3-4" id="t_753" value="1981-FA"/>
+		<t type="DATE" span="17-3-29" id="t_754" value="PRESENT_REF"/>
+		<t type="DATE" span="17-5-21" id="t_755" value="FUTURE_REF"/>
+		<t type="DATE" span="17-34-24" id="t_756" value="PRESENT_REF"/>
+		<t type="DATE" span="18-32-2" id="t_757" value="PRESENT_REF"/>
+		<t type="DATE" span="18-63-38" id="t_758" value="1982-WI"/>
+		<t type="DATE" span="18-68-14" id="t_759" value="PRESENT_REF"/>
+		<t type="DATE" span="18-76-25" id="t_760" value="PRESENT_REF"/>
+		<t type="DATE" span="18-81-24" id="t_761" value="1982-WI"/>
+		<t type="DATE" span="19-5-2, 19-5-3, 19-5-4" id="t_762" value="1981-06-27"/>
+		<t type="DATE" span="19-5-8" id="t_763" value="1981-SU"/>
+		<t type="DATE" span="19-17-8" id="t_764" value="FUTURE_REF"/>
+		<t type="DATE" span="19-45-1" id="t_765" value="PRESENT_REF"/>
+		<t type="DATE" span="19-68-13" id="t_766" value="PAST_REF"/>
+		<t type="DATE" span="19-80-8" id="t_767" value="PRESENT_REF"/>
+		<t type="DATE" span="19-83-5" id="t_768" value="FUTURE_REF"/>
+		<t type="DATE" span="19-92-38" id="t_769" value="PAST_REF"/>
+		<t type="DATE" span="20-3-16, 20-3-17, 20-3-18, 20-3-19" id="t_770" value="1981-09" mod="END"/>
+		<t type="DATE" span="20-4-2" id="t_771" value="PRESENT_REF"/>
+		<t type="DATE" span="20-4-5" id="t_772" value="1981-FA"/>
+		<t type="DATE" span="20-7-7" id="t_773" value="PRESENT_REF"/>
+		<t type="DATE" span="20-14-8" id="t_774" value="PAST_REF"/>
+		<t type="DATE" span="20-25-1" id="t_775" value="FUTURE_REF"/>
+		<t type="DATE" span="20-29-1" id="t_776" value="FUTURE_REF"/>
+		<t type="DATE" span="20-30-8" id="t_777" value="1981-FA"/>
+		<t type="DATE" span="20-46-12, 20-46-13" id="t_778" value="PAST_REF"/>
+		<t type="DATE" span="20-47-1, 20-47-2, 20-47-3, 20-47-4, 20-47-5" id="t_779" value="PAST_REF"/>
+		<t type="DATE" span="20-49-7" id="t_780" value="PRESENT_REF"/>
+		<t type="DATE" span="20-50-16" id="t_781" value="1981-WI"/>
+		<t type="DATE" span="20-56-19, 20-56-20" id="t_782" value="PRESENT_REF"/>
+		<t type="DATE" span="20-56-22" id="t_783" value="1981-FA"/>
+		<t type="DATE" span="20-58-7, 20-58-8, 20-58-9" id="t_784" value="1981-10" mod="START"/>
+		<t type="DATE" span="20-69-12" id="t_785" value="1981-FA"/>
+		<t type="DATE" span="20-75-1" id="t_786" value="FUTURE_REF"/>
+		<t type="DATE" span="20-86-12, 20-86-13, 20-86-14" id="t_787" value="PRESENT_REF"/>
+		<t type="DATE" span="20-87-16" id="t_788" value="PRESENT_REF"/>
+		<t type="DATE" span="20-95-4" id="t_789" value="FUTURE_REF"/>
+		<t type="DATE" span="20-109-13, 20-109-14" id="t_790" value="1980-SU"/>
+		<t type="DATE" span="20-110-1" id="t_791" value="FUTURE_REF"/>
+		<t type="DATE" span="20-166-8" id="t_792" value="PRESENT_REF"/>
+		<t type="DATE" span="20-168-9" id="t_793" value="1981-FA"/>
+		<t type="DATE" span="20-172-2" id="t_794" value="1981-FA"/>
+		<t type="DATE" span="20-173-2" id="t_795" value="1981-SU"/>
+		<t type="DATE" span="20-182-15" id="t_796" value="1971"/>
+		<t type="DATE" span="21-11-18" id="t_797" value="1971-WI"/>
+		<t type="DATE" span="21-13-9" id="t_798" value="1971-WI"/>
+		<t type="DATE" span="21-13-19" id="t_799" value="1971-SU"/>
+		<t type="DATE" span="21-14-5" id="t_800" value="PAST_REF"/>
+		<t type="DATE" span="21-76-2" id="t_801" value="1981-FA"/>
+		<t type="DATE" span="21-81-20" id="t_802" value="FUTURE_REF"/>
+		<t type="DATE" span="21-82-40" id="t_803" value="1981-WI"/>
+		<t type="DATE" span="21-83-10" id="t_804" value="1981-WI"/>
+		<t type="DATE" span="21-86-3" id="t_805" value="1981-WI"/>
+		<t type="DATE" span="21-87-16" id="t_806" value="1981-WI"/>
+		<t type="DATE" span="21-90-37" id="t_807" value="1981-WI"/>
+		<t type="DATE" span="21-92-14" id="t_808" value="1981-WI"/>
+		<t type="DATE" span="21-96-4" id="t_809" value="PRESENT_REF"/>
+		<t type="DATE" span="21-99-9" id="t_810" value="1981-04" mod="MID"/>
+		<t type="DATE" span="21-99-11, 21-99-12, 21-99-13, 21-99-14" id="t_811" value="1981-05" mod="START"/>
+		<t type="DATE" span="21-111-6" id="t_812" value="1981-07"/>
+		<t type="DATE" span="21-116-4" id="t_813" value="1981-SU"/>
+		<t type="DATE" span="21-119-17" id="t_814" value="1981-SU"/>
+		<t type="DATE" span="21-122-12" id="t_815" value="1981-WI"/>
+		<t type="DATE" span="22-15-11" id="t_816" value="1981-WI"/>
+		<t type="DATE" span="22-32-28" id="t_817" value="1981-WI"/>
+		<t type="DATE" span="22-41-2" id="t_818" value="1981-SP"/>
+		<t type="DATE" span="22-46-2" id="t_819" value="1981-SP"/>
+		<t type="DATE" span="22-49-2" id="t_820" value="1981-FA"/>
+		<t type="DATE" span="22-55-2" id="t_821" value="1981-SU"/>
+		<t type="DATE" span="22-55-18" id="t_822" value="1981-WI"/>
+		<t type="DATE" span="22-56-2" id="t_823" value="1981-SU"/>
+		<t type="DATE" span="22-64-4" id="t_824" value="PRESENT_REF"/>
+		<t type="DATE" span="22-79-4, 22-79-5, 22-79-6, 22-79-7, 22-79-8" id="t_825" value="UNDEF-WI" mod="END"/>
+		<t type="DATE" span="22-80-1" id="t_826" value="PRESENT_REF"/>
+		<t type="DATE" span="22-94-6" id="t_827" value="PRESENT_REF"/>
+		<t type="DATE" span="22-99-15" id="t_828" value="1981-WI"/>
+		<t type="DATE" span="22-105-5" id="t_829" value="1981-SP"/>
+		<t type="DATE" span="22-107-2" id="t_830" value="1981-WI"/>
+		<t type="DATE" span="22-121-11" id="t_831" value="PRESENT_REF"/>
+		<t type="DATE" span="22-125-31" id="t_832" value="PRESENT_REF"/>
+		<t type="DATE" span="22-130-23, 22-130-24, 22-130-25, 22-130-26, 22-130-27" id="t_833" value="18XX" mod="END"/>
+		<t type="DATE" span="22-144-9" id="t_834" value="PRESENT_REF"/>
+		<t type="DATE" span="22-152-9" id="t_835" value="1883"/>
+		<t type="DATE" span="22-152-9" id="t_836" value="1955"/>
+		<t type="DATE" span="22-156-22" id="t_837" value="PRESENT_REF"/>
+		<t type="DATE" span="24-9-10" id="t_838" value="1981-09"/>
+		<t type="DATE" span="24-10-21" id="t_839" value="FUTURE_REF"/>
+		<t type="DATE" span="24-12-20" id="t_840" value="PRESENT_REF"/>
+		<t type="DATE" span="24-19-3" id="t_841" value="PRESENT_REF"/>
+		<t type="DATE" span="24-29-12" id="t_842" value="FUTURE_REF"/>
+		<t type="DATE" span="24-31-4" id="t_843" value="FUTURE_REF"/>
+		<t type="DATE" span="24-39-4" id="t_844" value="PRESENT_REF"/>
+		<t type="DATE" span="24-44-14" id="t_845" value="PRESENT_REF"/>
+		<t type="DATE" span="24-47-8" id="t_846" value="FUTURE_REF"/>
+		<t type="DATE" span="24-64-6" id="t_847" value="PRESENT_REF"/>
+		<t type="DATE" span="24-80-27" id="t_848" value="1981-06-26"/>
+		<t type="DATE" span="25-5-2, 25-5-3" id="t_849" value="14XX"/>
+		<t type="DATE" span="25-9-8" id="t_850" value="PRESENT_REF"/>
+		<t type="DATE" span="25-9-15" id="t_851" value="1569"/>
+		<t type="DATE" span="25-11-16, 25-11-17" id="t_852" value="16XX"/>
+		<t type="DATE" span="25-11-42" id="t_853" value="1874"/>
+		<t type="DATE" span="25-12-15" id="t_854" value="1875"/>
+		<t type="DATE" span="25-17-1, 25-17-2, 25-17-3, 25-17-4" id="t_855" value="1981-08-19"/>
+		<t type="DATE" span="25-17-25" id="t_856" value="1981"/>
+		<t type="DATE" span="25-17-27" id="t_857" value="1986"/>
+		<t type="DATE" span="25-18-8" id="t_858" value="PRESENT_REF"/>
+		<t type="DATE" span="25-23-37" id="t_859" value="PRESENT_REF"/>
+		<t type="DATE" span="25-26-32, 25-26-33" id="t_860" value="18XX"/>
+		<t type="DATE" span="25-27-28, 25-27-29" id="t_861" value="16XX"/>
+		<t type="DATE" span="25-28-2, 25-28-3" id="t_862" value="18XX"/>
+		<t type="DATE" span="25-33-3" id="t_863" value="PRESENT_REF"/>
+		<t type="DATE" span="25-39-5" id="t_864" value="1906"/>
+		<t type="DATE" span="25-40-13, 25-40-14, 25-40-15, 25-40-16" id="t_865" value="1911-05-08"/>
+		<t type="DATE" span="25-44-11" id="t_866" value="PRESENT_REF"/>
+		<t type="DATE" span="25-58-10" id="t_867" value="PRESENT_REF"/>
+		<t type="DATE" span="25-58-24" id="t_868" value="PRESENT_REF"/>
+		<t type="DATE" span="25-64-4" id="t_869" value="PRESENT_REF"/>
+		<t type="DATE" span="25-64-12" id="t_870" value="1875"/>
+		<t type="DATE" span="25-65-24" id="t_871" value="PRESENT_REF"/>
+		<t type="DATE" span="25-69-8" id="t_872" value="PRESENT_REF"/>
+		<t type="DATE" span="25-72-2" id="t_873" value="PRESENT_REF"/>
+		<t type="DATE" span="25-74-12" id="t_874" value="PRESENT_REF"/>
+		<t type="DATE" span="25-76-11" id="t_875" value="PAST_REF"/>
+		<t type="DATE" span="26-2-5" id="t_876" value="1875-WI"/>
+		<t type="DATE" span="26-9-10" id="t_877" value="1911-FA"/>
+		<t type="DATE" span="26-10-16" id="t_878" value="1911-WI"/>
+		<t type="DATE" span="26-11-2, 26-11-3, 26-11-4, 26-11-5" id="t_879" value="1911-10" mod="END"/>
+		<t type="DATE" span="26-13-17" id="t_880" value="1911-FA"/>
+		<t type="DATE" span="26-13-20" id="t_881" value="1911-WI"/>
+		<t type="DATE" span="26-19-51" id="t_882" value="1911-WI"/>
+		<t type="DATE" span="26-21-23" id="t_883" value="1911-WI"/>
+		<t type="DATE" span="26-28-11" id="t_884" value="1911-WI"/>
+		<t type="DATE" span="26-53-5" id="t_885" value="1911-WI"/>
+		<t type="DATE" span="26-53-15" id="t_886" value="1911-WI"/>
+		<t type="DATE" span="26-54-24" id="t_887" value="1911-WI"/>
+		<t type="DATE" span="26-57-5" id="t_888" value="1911-WI"/>
+		<t type="DATE" span="26-57-20" id="t_889" value="1911-WI"/>
+		<t type="DATE" span="26-58-29" id="t_890" value="1911-SP"/>
+		<t type="DATE" span="26-59-4" id="t_891" value="PAST_REF"/>
+		<t type="DATE" span="26-64-29" id="t_892" value="1911-WI"/>
+		<t type="DATE" span="26-67-2" id="t_893" value="1911-WI"/>
+		<t type="DATE" span="26-68-6" id="t_894" value="1911-WI"/>
+		<t type="DATE" span="26-69-21" id="t_895" value="1911-WI"/>
+		<t type="DATE" span="26-71-8" id="t_896" value="1911-WI"/>
+		<t type="DATE" span="26-72-2" id="t_897" value="1911-WI"/>
+		<t type="DATE" span="26-74-23" id="t_898" value="1911-WI"/>
+		<t type="DATE" span="26-86-6" id="t_899" value="1911-WI"/>
+		<t type="DATE" span="26-88-4" id="t_900" value="PRESENT_REF"/>
+		<t type="DATE" span="27-4-6" id="t_901" value="1911-WI"/>
+		<t type="DATE" span="27-5-11" id="t_902" value="1911-WI"/>
+		<t type="DATE" span="27-7-3" id="t_903" value="1911-WI"/>
+		<t type="DATE" span="27-9-16" id="t_904" value="1911-WI"/>
+		<t type="DATE" span="27-9-53" id="t_905" value="1911-WI"/>
+		<t type="DATE" span="27-16-32" id="t_906" value="1911-WI"/>
+		<t type="DATE" span="27-22-11" id="t_907" value="1911-WI"/>
+		<t type="DATE" span="27-25-32" id="t_908" value="1911-WI"/>
+		<t type="DATE" span="27-29-4" id="t_909" value="1911-WI"/>
+		<t type="DATE" span="27-31-2" id="t_910" value="1911-SU"/>
+		<t type="DATE" span="27-32-4" id="t_911" value="1911-WI"/>
+		<t type="DATE" span="27-35-1" id="t_912" value="PRESENT_REF"/>
+		<t type="DATE" span="27-36-2" id="t_913" value="1911-SU"/>
+		<t type="DATE" span="27-48-26" id="t_914" value="1911-WI"/>
+		<t type="DATE" span="27-51-12" id="t_915" value="1911-WI"/>
+		<t type="DATE" span="27-53-10" id="t_916" value="PRESENT_REF"/>
+		<t type="DATE" span="27-54-12" id="t_917" value="1911-WI"/>
+		<t type="DATE" span="27-58-18" id="t_918" value="PAST_REF"/>
+		<t type="DATE" span="27-61-20" id="t_919" value="PRESENT_REF"/>
+		<t type="DATE" span="27-63-12" id="t_920" value="PAST_REF"/>
+		<t type="DATE" span="27-76-2, 27-76-3, 27-76-4, 27-76-5, 27-76-6" id="t_921" value="UNDEF-WI" mod="END"/>
+		<t type="DATE" span="27-77-8" id="t_922" value="1911-WI"/>
+		<t type="DATE" span="27-77-26" id="t_923" value="1911-SP"/>
+		<t type="DATE" span="27-78-21" id="t_924" value="1911-WI"/>
+		<t type="DATE" span="27-79-32" id="t_925" value="1911-WI"/>
+		<t type="DATE" span="27-81-4" id="t_926" value="1911-WI"/>
+		<t type="DATE" span="27-87-3" id="t_927" value="PRESENT_REF"/>
+		<t type="DATE" span="27-88-16" id="t_928" value="1911-WI"/>
+		<t type="DATE" span="28-3-3" id="t_929" value="PRESENT_REF"/>
+		<t type="DATE" span="28-5-9" id="t_930" value="1911-WI"/>
+		<t type="DATE" span="28-16-3, 28-16-4" id="t_931" value="1982-WI"/>
+		<t type="DATE" span="28-16-4" id="t_932" value="1983"/>
+		<t type="DATE" span="28-20-24" id="t_933" value="1983-WI"/>
+		<t type="DATE" span="28-29-5" id="t_934" value="1945"/>
+		<t type="DATE" span="28-30-14" id="t_935" value="1982"/>
+		<t type="DATE" span="28-30-27" id="t_936" value="1650"/>
+		<t type="DATE" span="28-31-5" id="t_937" value="1650-02"/>
+		<t type="DATE" span="28-32-18" id="t_938" value="1000"/>
+		<t type="DATE" span="28-47-2" id="t_939" value="FUTURE_REF"/>
+		<t type="DATE" span="28-56-26" id="t_940" value="1000-WI"/>
+		<t type="DATE" span="28-61-10" id="t_941" value="PRESENT_REF"/>
+		<t type="DATE" span="28-70-15" id="t_942" value="1000-WI"/>
+		<t type="DATE" span="28-75-19" id="t_943" value="1000-WI"/>
+		<t type="DATE" span="28-76-12, 28-76-13" id="t_944" value="999-WI"/>
+		<t type="DATE" span="28-81-20" id="t_945" value="PRESENT_REF"/>
+		<t type="DATE" span="28-98-13" id="t_946" value="1911-WI"/>
+		<t type="DATE" span="28-156-8" id="t_947" value="PRESENT_REF"/>
+		<t type="DATE" span="28-160-20" id="t_948" value="1911-SU"/>
+		<t type="DATE" span="28-161-16" id="t_949" value="PRESENT_REF"/>
+		<t type="DATE" span="28-165-1" id="t_950" value="PRESENT_REF"/>
+		<t type="DATE" span="28-166-9" id="t_951" value="1911-SU"/>
+		<t type="DATE" span="28-168-3" id="t_952" value="1911-WI"/>
+		<t type="DATE" span="28-193-17" id="t_953" value="1911-FA"/>
+		<t type="DATE" span="28-219-3" id="t_954" value="PAST_REF"/>
+		<t type="DATE" span="28-219-19" id="t_955" value="PRESENT_REF"/>
+		<t type="DATE" span="28-233-34, 28-233-35" id="t_956" value="1910-WI"/>
+		<t type="DATE" span="28-256-5" id="t_957" value="FUTURE_REF"/>
+		<t type="DATE" span="28-262-4" id="t_958" value="PRESENT_REF"/>
+		<t type="DATE" span="30-4-16" id="t_959" value="1984-01-28"/>
+		<t type="DATE" span="30-4-18, 30-4-19, 30-4-20" id="t_960" value="1984-01-29"/>
+		<t type="DATE" span="30-16-6" id="t_961" value="PRESENT_REF"/>
+		<t type="DATE" span="30-26-1, 30-26-2" id="t_962" value="1984-WI"/>
+		<t type="DATE" span="30-75-3" id="t_963" value="PRESENT_REF"/>
+		<t type="DATE" span="30-86-4" id="t_964" value="1984-01-28"/>
+		<t type="DATE" span="30-98-7" id="t_965" value="1984-01-24"/>
+		<t type="DATE" span="30-99-3" id="t_966" value="1984-WI"/>
+		<t type="DATE" span="30-105-5" id="t_967" value="1981"/>
+		<t type="DATE" span="30-106-5" id="t_968" value="1984"/>
+		<t type="DATE" span="31-1-7" id="t_969" value="1982"/>
+		<t type="DATE" span="31-4-10" id="t_970" value="1982"/>
+		<t type="DATE" span="31-4-32, 31-4-33" id="t_971" value="1982-09"/>
+		<t type="DATE" span="31-4-35, 31-4-36" id="t_972" value="1983-10"/>
+		<t type="DATE" span="31-9-15, 31-9-16" id="t_973" value="1982-WI"/>
+		<t type="DATE" span="31-11-1" id="t_974" value="PRESENT_REF"/>
+		<t type="DATE" span="31-15-16" id="t_975" value="1982-05"/>
+		<t type="DATE" span="31-15-18" id="t_976" value="1982-09"/>
+		<t type="DATE" span="31-15-22" id="t_977" value="1981"/>
+		<t type="DATE" span="31-15-31" id="t_978" value="1981"/>
+		<t type="DATE" span="31-16-6" id="t_979" value="1982"/>
+		<t type="DATE" span="31-16-7" id="t_980" value="1983"/>
+		<t type="DATE" span="31-16-14" id="t_981" value="2287"/>
+		<t type="DATE" span="31-16-16" id="t_982" value="1040"/>
+		<t type="DATE" span="31-16-18" id="t_983" value="2490"/>
+		<t type="DATE" span="31-16-21" id="t_984" value="2690"/>
+		<t type="DATE" span="31-16-63" id="t_985" value="2700"/>
+		<t type="DATE" span="31-16-66" id="t_986" value="2900"/>
+		<t type="DATE" span="31-16-69" id="t_987" value="2750"/>
+		<t type="DATE" span="31-17-4" id="t_988" value="1981"/>
+		<t type="DATE" span="31-17-10" id="t_989" value="1978"/>
+		<t type="DATE" span="31-26-13, 31-26-14" id="t_990" value="1982-09"/>
+		<t type="DATE" span="31-27-10, 31-27-11" id="t_991" value="1982-09"/>
+		<t type="DATE" span="31-28-30" id="t_992" value="1982-09-06"/>
+		<t type="DATE" span="31-28-32, 31-28-33" id="t_993" value="1982-09-26"/>
+		<t type="DATE" span="31-31-28" id="t_994" value="1901"/>
+		<t type="DATE" span="31-31-35" id="t_995" value="1938"/>
+		<t type="DATE" span="31-33-1, 31-33-2, 31-33-3" id="t_996" value="1938-09-26"/>
+		<t type="DATE" span="31-33-21, 31-33-22, 31-33-23" id="t_997" value="1938-09-30"/>
+		<t type="DATE" span="31-34-16, 31-34-17, 31-34-18" id="t_998" value="1938-10-01"/>
+		<t type="DATE" span="31-34-26, 31-34-27, 31-34-28" id="t_999" value="1938-10-05"/>
+		<t type="DATE" span="31-34-45, 31-34-46, 31-34-47" id="t_1000" value="1938-11-01"/>
+		<t type="DATE" span="31-35-12" id="t_1001" value="1938-10-06"/>
+		<t type="DATE" span="31-35-14, 31-35-15" id="t_1002" value="1938-10-08"/>
+		<t type="DATE" span="31-35-61" id="t_1003" value="1980"/>
+		<t type="DATE" span="31-35-63" id="t_1004" value="1982"/>
+		<t type="DATE" span="31-35-71" id="t_1005" value="1980"/>
+		<t type="DATE" span="31-35-77" id="t_1006" value="1981"/>
+		<t type="DATE" span="31-35-80" id="t_1007" value="1982"/>
+		<t type="DATE" span="31-41-10" id="t_1008" value="2431"/>
+		<t type="DATE" span="31-50-8" id="t_1009" value="2431-10"/>
+		<t type="DATE" span="31-53-10" id="t_1010" value="2431-11"/>
+		<t type="DATE" span="31-56-2" id="t_1011" value="2431-11-07"/>
+		<t type="DATE" span="31-56-4, 31-56-5" id="t_1012" value="2431-11-10"/>
+		<t type="DATE" span="31-57-9" id="t_1013" value="2431-11-13"/>
+		<t type="DATE" span="31-57-11, 31-57-12" id="t_1014" value="2431-11-15"/>
+		<t type="DATE" span="31-59-18" id="t_1015" value="2431-11-16"/>
+		<t type="DATE" span="31-59-20, 31-59-21" id="t_1016" value="2431-11-18"/>
+		<t type="DATE" span="31-60-13" id="t_1017" value="1980"/>
+		<t type="DATE" span="31-60-15" id="t_1018" value="1982"/>
+		<t type="DATE" span="31-61-34" id="t_1019" value="1276"/>
+		<t type="DATE" span="31-70-5, 31-70-6, 31-70-7, 31-70-8" id="t_1020" value="1981-11-01"/>
+		<t type="DATE" span="31-71-5, 31-71-6, 31-71-7, 31-71-8" id="t_1021" value="1982-10-01"/>
+		<t type="DATE" span="31-72-5, 31-72-6, 31-72-7, 31-72-8" id="t_1022" value="1983-09-27"/>
+		<t type="DATE" span="31-73-5, 31-73-6, 31-73-7, 31-73-8" id="t_1023" value="1981-09-19"/>
+		<t type="DATE" span="31-75-5, 31-75-6, 31-75-7, 31-75-8" id="t_1024" value="1982-08-30"/>
+		<t type="DATE" span="31-76-5, 31-76-6, 31-76-7, 31-76-8" id="t_1025" value="1983-09-21"/>
+		<t type="DATE" span="31-78-4, 31-78-5, 31-78-6" id="t_1026" value="1977-09-15"/>
+		<t type="DATE" span="31-79-4, 31-79-5, 31-79-6" id="t_1027" value="1973-09-12"/>
+		<t type="DATE" span="31-80-4" id="t_1028" value="1973-12"/>
+		<t type="DATE" span="31-81-4, 31-81-5" id="t_1029" value="1973-12"/>
+		<t type="DATE" span="31-81-25" id="t_1030" value="1973-10"/>
+		<t type="DATE" span="31-82-13" id="t_1031" value="1973-WI"/>
+		<t type="DATE" span="31-82-43, 31-82-44, 31-82-45" id="t_1032" value="1973-12-12"/>
+		<t type="DATE" span="31-84-1, 31-84-2" id="t_1033" value="1983-01"/>
+		<t type="DATE" span="31-85-4" id="t_1034" value="1983-01-13"/>
+		<t type="DATE" span="31-85-6, 31-85-7" id="t_1035" value="1983-01-16"/>
+		<t type="DATE" span="31-86-22, 31-86-23" id="t_1036" value="1982-WI"/>
+		<t type="DATE" span="31-86-61" id="t_1037" value="1250"/>
+		<t type="DATE" span="31-90-3" id="t_1038" value="1570"/>
+		<t type="DATE" span="31-94-2" id="t_1039" value="1670"/>
+		<t type="DATE" span="31-99-2" id="t_1040" value="1970"/>
+		<t type="DATE" span="31-102-2" id="t_1041" value="1290"/>
+		<t type="DATE" span="31-106-2" id="t_1042" value="1440"/>
+		<t type="DATE" span="31-110-2" id="t_1043" value="1800"/>
+		<t type="DATE" span="31-114-2" id="t_1044" value="2287"/>
+		<t type="DATE" span="31-117-2" id="t_1045" value="1290"/>
+		<t type="DATE" span="31-121-2" id="t_1046" value="1320"/>
+		<t type="DATE" span="31-125-2" id="t_1047" value="1600"/>
+		<t type="DATE" span="31-129-2" id="t_1048" value="2500"/>
+		<t type="DATE" span="31-132-2" id="t_1049" value="1345"/>
+		<t type="DATE" span="31-136-2" id="t_1050" value="1500"/>
+		<t type="DATE" span="31-140-2" id="t_1051" value="1610"/>
+		<t type="DATE" span="31-145-2" id="t_1052" value="1650"/>
+		<t type="DATE" span="31-149-3" id="t_1053" value="1667"/>
+		<t type="DATE" span="31-152-2" id="t_1054" value="1800"/>
+		<t type="DATE" span="31-156-3" id="t_1055" value="1200"/>
+		<t type="DATE" span="31-160-3" id="t_1056" value="1560"/>
+		<t type="DATE" span="31-164-2" id="t_1057" value="1735"/>
+		<t type="DATE" span="31-168-2" id="t_1058" value="1818"/>
+		<t type="DATE" span="31-172-2" id="t_1059" value="2540"/>
+		<t type="DATE" span="31-175-1" id="t_1060" value="1125"/>
+		<t type="DATE" span="31-176-2" id="t_1061" value="1710"/>
+		<t type="DATE" span="31-180-3" id="t_1062" value="1710"/>
+		<t type="DATE" span="31-184-2" id="t_1063" value="1710"/>
+		<t type="DATE" span="31-187-2" id="t_1064" value="1840"/>
+		<t type="DATE" span="31-190-3" id="t_1065" value="2090"/>
+		<t type="DATE" span="31-193-2" id="t_1066" value="1000"/>
+		<t type="DATE" span="31-196-3" id="t_1067" value="1490"/>
+		<t type="DATE" span="31-200-4" id="t_1068" value="1630"/>
+		<t type="DATE" span="31-204-3" id="t_1069" value="2000"/>
+		<t type="DATE" span="31-207-2" id="t_1070" value="1014"/>
+		<t type="DATE" span="31-210-3" id="t_1071" value="1400"/>
+		<t type="DATE" span="31-214-2" id="t_1072" value="1810"/>
+		<t type="DATE" span="31-218-11" id="t_1073" value="1982"/>
+		<t type="DATE" span="31-218-24" id="t_1074" value="1981"/>
+		<t type="DATE" span="31-218-25" id="t_1075" value="1982"/>
+		<t type="DATE" span="31-219-1" id="t_1076" value="1983"/>
+		<t type="DATE" span="31-220-1" id="t_1077" value="1981"/>
+		<t type="DATE" span="31-220-2" id="t_1078" value="1982"/>
+		<t type="DATE" span="31-220-17" id="t_1079" value="2124"/>
+		<t type="DATE" span="31-223-9" id="t_1080" value="2590"/>
+		<t type="DATE" span="31-247-7" id="t_1081" value="2640"/>
+		<t type="DATE" span="31-275-8" id="t_1082" value="2068"/>
+		<t type="DATE" span="31-279-8" id="t_1083" value="2241"/>
+		<t type="DATE" span="31-296-8" id="t_1084" value="2020"/>
+		<t type="DATE" span="31-300-11" id="t_1085" value="2262"/>
+		<t type="DATE" span="31-305-8" id="t_1086" value="2452"/>
+		<t type="DATE" span="31-313-8" id="t_1087" value="2030"/>
+		<t type="DATE" span="31-317-8" id="t_1088" value="2370"/>
+		<t type="DATE" span="31-342-8" id="t_1089" value="2625"/>
+		<t type="DATE" span="31-353-12" id="t_1090" value="2740"/>
+		<t type="DATE" span="31-363-10" id="t_1091" value="2290"/>
+		<t type="DATE" span="31-375-8" id="t_1092" value="2180"/>
+		<t type="DATE" span="31-379-8" id="t_1093" value="2395"/>
+		<t type="DATE" span="31-383-8" id="t_1094" value="2423"/>
+		<t type="DATE" span="31-391-8" id="t_1095" value="1699"/>
+		<t type="DATE" span="31-396-8" id="t_1096" value="1981"/>
+		<t type="DATE" span="31-396-9" id="t_1097" value="1982"/>
+		<t type="DATE" span="31-397-9" id="t_1098" value="1981"/>
+		<t type="DATE" span="31-397-10" id="t_1099" value="1982"/>
+		<t type="DATE" span="31-397-11" id="t_1100" value="1983"/>
+		<t type="DATE" span="31-397-19" id="t_1101" value="1758"/>
+		<t type="DATE" span="31-437-7" id="t_1102" value="2220"/>
+		<t type="DATE" span="31-442-8" id="t_1103" value="1934"/>
+		<t type="DATE" span="31-447-7" id="t_1104" value="2092"/>
+		<t type="DATE" span="31-475-9" id="t_1105" value="2115"/>
+		<t type="DATE" span="31-480-8" id="t_1106" value="2267"/>
+		<t type="DATE" span="31-485-8" id="t_1107" value="1990"/>
+		<t type="DATE" span="31-490-11" id="t_1108" value="2250"/>
+		<t type="DATE" span="31-495-19" id="t_1109" value="2215"/>
+		<t type="DATE" span="31-500-9" id="t_1110" value="2520"/>
+		<t type="DATE" span="31-512-8" id="t_1111" value="2345"/>
+		<t type="DATE" span="31-517-9" id="t_1112" value="2370"/>
+		<t type="DATE" span="31-543-8" id="t_1113" value="2234"/>
+		<t type="DATE" span="31-549-9" id="t_1114" value="1640"/>
+		<t type="DATE" span="31-554-8" id="t_1115" value="2217"/>
+		<t type="DATE" span="31-578-8" id="t_1116" value="1788"/>
+		<t type="DATE" span="31-582-8" id="t_1117" value="2293"/>
+		<t type="DATE" span="31-587-8" id="t_1118" value="2550"/>
+		<t type="DATE" span="31-596-8" id="t_1119" value="2350"/>
+		<t type="DATE" span="31-599-8" id="t_1120" value="2290"/>
+		<t type="DATE" span="31-605-8" id="t_1121" value="2389"/>
+		<t type="DATE" span="31-608-8" id="t_1122" value="2213"/>
+		<t type="DATE" span="31-611-17" id="t_1123" value="2642"/>
+		<t type="DATE" span="31-614-8" id="t_1124" value="2390"/>
+		<t type="DATE" span="31-620-8" id="t_1125" value="2500"/>
+		<t type="DATE" span="31-623-14" id="t_1126" value="2175"/>
+		<t type="DATE" span="31-626-8" id="t_1127" value="2140"/>
+		<t type="DATE" span="31-629-8" id="t_1128" value="2000"/>
+		<t type="DATE" span="31-632-8" id="t_1129" value="2720"/>
+		<t type="DATE" span="31-635-9" id="t_1130" value="2500"/>
+		<t type="DATE" span="31-638-8" id="t_1131" value="2800"/>
+		<t type="DATE" span="31-641-8" id="t_1132" value="2745"/>
+		<t type="DATE" span="31-651-8" id="t_1133" value="2225"/>
+		<t type="DATE" span="31-660-8" id="t_1134" value="2725"/>
+		<t type="DATE" span="31-663-8" id="t_1135" value="2560"/>
+		<t type="DATE" span="31-666-8" id="t_1136" value="2520"/>
+		<t type="DATE" span="31-669-8" id="t_1137" value="1950"/>
+		<t type="DATE" span="31-683-11" id="t_1138" value="1967"/>
+		<t type="DATE" span="31-687-5" id="t_1139" value="1981"/>
+		<t type="DATE" span="31-687-6" id="t_1140" value="1982"/>
+		<t type="DATE" span="31-687-7" id="t_1141" value="1983"/>
+		<t type="DATE" span="31-687-8" id="t_1142" value="1981"/>
+		<t type="DATE" span="31-687-9" id="t_1143" value="1982"/>
+		<t type="DATE" span="31-687-10" id="t_1144" value="1983"/>
+		<t type="DATE" span="31-692-4" id="t_1145" value="1983-02"/>
+		<t type="DATE" span="31-693-1" id="t_1146" value="1983-03"/>
+		<t type="DATE" span="31-694-2" id="t_1147" value="1983-04"/>
+		<t type="DATE" span="31-695-4" id="t_1148" value="1983-05"/>
+		<t type="DATE" span="31-695-26, 31-695-27" id="t_1149" value="1983-05"/>
+		<t type="DATE" span="31-695-35" id="t_1150" value="1901"/>
+		<t type="DATE" span="31-697-17" id="t_1151" value="1901-06"/>
+		<t type="DATE" span="31-698-8" id="t_1152" value="1901-07"/>
+		<t type="DATE" span="31-699-2, 31-699-3" id="t_1153" value="1901-07"/>
+		<t type="DATE" span="31-702-14" id="t_1154" value="1901-08"/>
+		<t type="DATE" span="31-702-16" id="t_1155" value="1901-10"/>
+		<t type="DATE" span="31-703-7" id="t_1156" value="1901-08"/>
+		<t type="DATE" span="31-704-2" id="t_1157" value="1901-09"/>
+		<t type="DATE" span="31-704-24" id="t_1158" value="1901-10"/>
+		<t type="DATE" span="31-704-42" id="t_1159" value="1983"/>
+		<t type="DATE" span="31-705-13" id="t_1160" value="1600"/>
+		<t type="DATE" span="31-705-22" id="t_1161" value="1600-09" mod="MID"/>
+		<t type="DATE" span="31-706-2, 31-706-3" id="t_1162" value="1983-WI"/>
+		<t type="DATE" span="31-707-16, 31-707-17, 31-707-18" id="t_1163" value="1983-11-27"/>
+		<t type="DATE" span="31-708-9, 31-708-10" id="t_1164" value="1982-10"/>
+		<t type="DATE" span="31-708-12, 31-708-13" id="t_1165" value="1983-09"/>
+		<t type="DATE" span="31-708-20" id="t_1166" value="1983-05"/>
+		<t type="DATE" span="31-708-22, 31-708-23" id="t_1167" value="1983-09"/>
+		<t type="DATE" span="31-714-11, 31-714-12" id="t_1168" value="1982-10"/>
+		<t type="DATE" span="31-714-14, 31-714-15" id="t_1169" value="1983-09"/>
+		<t type="DATE" span="31-721-18, 31-721-19" id="t_1170" value="1982-WI"/>
+		<t type="DATE" span="31-722-13" id="t_1171" value="1982-FA"/>
+		<t type="DATE" span="31-722-25, 31-722-26" id="t_1172" value="1979-WI"/>
+		<t type="DATE" span="31-723-10" id="t_1173" value="1979-WI"/>
+		<t type="DATE" span="31-723-13, 31-723-14, 31-723-15, 31-723-16" id="t_1174" value="1979-09" mod="END"/>
+		<t type="DATE" span="31-723-19, 31-723-20, 31-723-21, 31-723-22" id="t_1175" value="1982-10" mod="START"/>
+		<t type="DATE" span="31-724-2, 31-724-3, 31-724-4" id="t_1176" value="1982-12" mod="START"/>
+		<t type="DATE" span="31-725-39" id="t_1177" value="1982-11"/>
+		<t type="DATE" span="31-726-20" id="t_1178" value="1982-12-25"/>
+		<t type="DATE" span="31-729-11, 31-729-12" id="t_1179" value="1982-01" mod="MID"/>
+		<t type="DATE" span="31-731-7" id="t_1180" value="1983-02"/>
+		<t type="DATE" span="31-731-14" id="t_1181" value="1983-03"/>
+		<t type="DATE" span="31-733-5" id="t_1182" value="1983-04"/>
+		<t type="DATE" span="31-733-8" id="t_1183" value="1983-05"/>
+		<t type="DATE" span="31-734-15, 31-734-16" id="t_1184" value="1983-05"/>
+		<t type="DATE" span="31-734-18" id="t_1185" value="1983-05"/>
+		<t type="DATE" span="31-735-2, 31-735-3, 31-735-4" id="t_1186" value="1983-WI"/>
+		<t type="DATE" span="31-739-15, 31-739-16" id="t_1187" value="1940-WI"/>
+		<t type="DATE" span="31-741-19, 31-741-20" id="t_1188" value="1983-FA"/>
+		<t type="DATE" span="31-742-5, 31-742-6, 31-742-7, 31-742-8" id="t_1189" value="UNDEF-SU" mod="MID"/>
+		<t type="DATE" span="31-744-6" id="t_1190" value="1983-09"/>
+		<t type="DATE" span="31-744-9" id="t_1191" value="1983-10"/>
+		<t type="DATE" span="31-748-14" id="t_1192" value="1983"/>
+		<t type="DATE" span="31-753-24" id="t_1193" value="PAST_REF"/>
+		<t type="DATE" span="31-769-5" id="t_1194" value="1982"/>
+		<t type="DATE" span="31-770-11" id="t_1195" value="1901"/>
+		<t type="DATE" span="31-770-17" id="t_1196" value="1901-01"/>
+		<t type="DATE" span="31-771-1" id="t_1197" value="1901-03"/>
+		<t type="DATE" span="31-771-2" id="t_1198" value="1901-04"/>
+		<t type="DATE" span="31-771-11" id="t_1199" value="PRESENT_REF"/>
+		<t type="DATE" span="31-775-21" id="t_1200" value="1894"/>
+		<t type="DATE" span="31-776-11" id="t_1201" value="1901"/>
+		<t type="DATE" span="31-797-4" id="t_1202" value="1901-10"/>
+		<t type="DATE" span="31-801-1" id="t_1203" value="1901-01"/>
+		<t type="DATE" span="31-802-1" id="t_1204" value="1901-02"/>
+		<t type="DATE" span="31-803-1" id="t_1205" value="1901-03"/>
+		<t type="DATE" span="31-803-3" id="t_1206" value="1901-04"/>
+		<t type="DATE" span="31-803-13" id="t_1207" value="1901-08"/>
+		<t type="DATE" span="31-804-1" id="t_1208" value="1901-10"/>
+		<t type="DATE" span="31-805-9" id="t_1209" value="1895"/>
+		<t type="DATE" span="31-806-41" id="t_1210" value="1967"/>
+		<t type="DATE" span="31-808-20" id="t_1211" value="1976"/>
+		<t type="DATE" span="31-808-22" id="t_1212" value="1980"/>
+		<t type="DATE" span="31-808-33" id="t_1213" value="1983"/>
+		<t type="DATE" span="31-808-36" id="t_1214" value="PRESENT_REF"/>
+		<t type="DATE" span="31-810-11" id="t_1215" value="1938"/>
+		<t type="DATE" span="31-811-37" id="t_1216" value="1976"/>
+		<t type="DATE" span="31-812-24" id="t_1217" value="PRESENT_REF"/>
+		<t type="DATE" span="31-813-15" id="t_1218" value="1984"/>
+		<t type="DATE" span="31-816-20" id="t_1219" value="1979"/>
+		<t type="DATE" span="31-818-20" id="t_1220" value="1983"/>
+		<t type="DATE" span="31-823-2" id="t_1221" value="1983-01"/>
+		<t type="DATE" span="31-824-1" id="t_1222" value="1983-02"/>
+		<t type="DATE" span="31-825-1" id="t_1223" value="1983-03"/>
+		<t type="DATE" span="31-826-50, 31-826-51" id="t_1224" value="1983-09"/>
+		<t type="DATE" span="31-831-1" id="t_1225" value="1983-04"/>
+		<t type="DATE" span="31-831-2" id="t_1226" value="1983-06"/>
+		<t type="DATE" span="31-832-2" id="t_1227" value="1950-08"/>
+		<t type="DATE" span="31-835-16, 31-835-17" id="t_1228" value="1982-WI"/>
+		<t type="DATE" span="31-837-2, 31-837-3, 31-837-4, 31-837-5, 31-837-6" id="t_1229" value="UNDEF-SU" mod="END"/>
+		<t type="DATE" span="31-839-17" id="t_1230" value="PAST_REF"/>
+		<t type="DATE" span="31-840-3" id="t_1231" value="1981"/>
+		<t type="DATE" span="31-842-4" id="t_1232" value="1982"/>
+		<t type="DATE" span="31-843-1, 31-843-2, 31-843-3" id="t_1233" value="1982-09-05"/>
+		<t type="DATE" span="31-844-12, 31-844-13, 31-844-14" id="t_1234" value="1982-11-06"/>
+		<t type="DATE" span="31-845-16, 31-845-17" id="t_1235" value="1983-05"/>
+		<t type="DATE" span="31-846-11, 31-846-12, 31-846-13" id="t_1236" value="1983-05-12"/>
+		<t type="DATE" span="31-847-9, 31-847-10, 31-847-11" id="t_1237" value="1983-06-15"/>
+		<t type="DATE" span="31-848-11, 31-848-12, 31-848-13" id="t_1238" value="1983-09-19"/>
+		<t type="DATE" span="31-850-16, 31-850-17" id="t_1239" value="15XX"/>
+		<t type="DATE" span="31-852-6" id="t_1240" value="1984"/>
+		<t type="DATE" span="31-854-12, 31-854-13, 31-854-14, 31-854-15" id="t_1241" value="1983-08-09"/>
+		<t type="DATE" span="31-858-10, 31-858-11" id="t_1242" value="1983-FA"/>
+		<t type="DATE" span="31-859-17" id="t_1243" value="1983-09"/>
+		<t type="DATE" span="31-859-19" id="t_1244" value="1983-10"/>
+		<t type="DATE" span="31-864-29" id="t_1245" value="1983-07"/>
+		<t type="DATE" span="31-864-31" id="t_1246" value="1983-10"/>
+		<t type="DATE" span="31-865-3" id="t_1247" value="FUTURE_REF"/>
+		<t type="DATE" span="31-879-16" id="t_1248" value="1983-05"/>
+		<t type="DATE" span="31-880-2, 31-880-3" id="t_1249" value="1983-05"/>
+		<t type="DATE" span="31-880-33, 31-880-34, 31-880-35, 31-880-36" id="t_1250" value="1983-08-29"/>
+		<t type="DATE" span="31-883-7" id="t_1251" value="1982"/>
+		<t type="DATE" span="31-883-12" id="t_1252" value="1983"/>
+		<t type="DATE" span="31-883-25" id="t_1253" value="1901"/>
+		<t type="DATE" span="31-883-27" id="t_1254" value="1960"/>
+		<t type="DATE" span="31-883-52" id="t_1255" value="1960-WI"/>
+		<t type="DATE" span="31-884-21" id="t_1256" value="1960-05"/>
+		<t type="DATE" span="31-884-23" id="t_1257" value="1960-07"/>
+		<t type="DATE" span="31-885-55" id="t_1258" value="1976"/>
+		<t type="DATE" span="31-887-36" id="t_1259" value="1976"/>
+		<t type="DATE" span="31-887-38" id="t_1260" value="1979"/>
+		<t type="DATE" span="31-888-41, 31-888-42" id="t_1261" value="1979-05-01"/>
+		<t type="DATE" span="31-888-44, 31-888-45, 31-888-46" id="t_1262" value="1983-09-30"/>
+		<t type="DATE" span="31-889-20, 31-889-21" id="t_1263" value="1983-08" mod="MID"/>
+		<t type="DATE" span="31-889-24, 31-889-25" id="t_1264" value="1982-09" mod="MID"/>
+		<t type="DATE" span="31-890-13" id="t_1265" value="1982"/>
+		<t type="DATE" span="31-891-7, 31-891-8" id="t_1266" value="1981-FA"/>
+		<t type="DATE" span="31-891-12" id="t_1267" value="1983"/>
+		<t type="DATE" span="31-891-44" id="t_1268" value="1969"/>
+		<t type="DATE" span="31-893-19" id="t_1269" value="1982"/>
+		<t type="DATE" span="31-893-22" id="t_1270" value="1983"/>
+		<t type="DATE" span="31-894-10" id="t_1271" value="1978"/>
+		<t type="DATE" span="31-898-42" id="t_1272" value="1977"/>
+		<t type="DATE" span="31-898-44" id="t_1273" value="1980"/>
+		<t type="DATE" span="31-899-25" id="t_1274" value="PAST_REF"/>
+		<t type="DATE" span="31-901-48" id="t_1275" value="1890"/>
+		<t type="DATE" span="31-901-48" id="t_1276" value="1982"/>
+		<t type="DATE" span="32-3-11, 32-3-12" id="t_1277" value="1976-06-06"/>
+		<t type="DATE" span="32-17-9" id="t_1278" value="PRESENT_REF"/>
+		<t type="DATE" span="32-18-18" id="t_1279" value="FUTURE_REF"/>
+		<t type="DATE" span="32-19-6" id="t_1280" value="1983-SP"/>
+		<t type="DATE" span="32-23-2" id="t_1281" value="1983-10-01"/>
+		<t type="DATE" span="32-33-2" id="t_1282" value="1983-10-01"/>
+		<t type="DATE" span="32-46-1" id="t_1283" value="FUTURE_REF"/>
+		<t type="DATE" span="32-49-26, 32-49-27" id="t_1284" value="1983-W39-WE"/>
+		<t type="DATE" span="32-51-6, 32-51-7" id="t_1285" value="1982-FA"/>
+		<t type="DATE" span="32-54-4" id="t_1286" value="PAST_REF"/>
+		<t type="DATE" span="32-61-19, 32-61-20" id="t_1287" value="1982-SU"/>
+		<t type="DATE" span="32-63-2" id="t_1288" value="PRESENT_REF"/>
+		<t type="DATE" span="33-17-3, 33-17-4, 33-17-5, 33-17-6" id="t_1289" value="1983-05-19"/>
+		<t type="DATE" span="33-20-9" id="t_1290" value="PRESENT_REF"/>
+		<t type="DATE" span="33-20-35, 33-20-36, 33-20-37, 33-20-38, 33-20-39" id="t_1291" value="PAST_REF"/>
+		<t type="DATE" span="33-21-24" id="t_1292" value="1956"/>
+		<t type="DATE" span="33-26-24, 33-26-25" id="t_1293" value="PAST_REF"/>
+		<t type="DATE" span="33-31-20" id="t_1294" value="PAST_REF"/>
+		<t type="DATE" span="33-34-17" id="t_1295" value="PRESENT_REF"/>
+		<t type="DATE" span="33-47-25" id="t_1296" value="PRESENT_REF"/>
+		<t type="DATE" span="34-8-5" id="t_1297" value="PRESENT_REF"/>
+		<t type="DATE" span="34-14-3" id="t_1298" value="PRESENT_REF"/>
+		<t type="DATE" span="34-14-12" id="t_1299" value="1983-05-18"/>
+		<t type="DATE" span="34-38-29" id="t_1300" value="1983-05-17"/>
+		<t type="DATE" span="34-38-33" id="t_1301" value="PRESENT_REF"/>
+		<t type="DATE" span="34-44-2" id="t_1302" value="FUTURE_REF"/>
+		<t type="DATE" span="34-91-1" id="t_1303" value="PRESENT_REF"/>
+		<t type="DATE" span="34-158-7" id="t_1304" value="PRESENT_REF"/>
+		<t type="DATE" span="35-21-1, 35-21-2, 35-21-3" id="t_1305" value="1983-07-16"/>
+		<t type="DATE" span="35-27-2" id="t_1306" value="PAST_REF"/>
+		<t type="DATE" span="35-42-8" id="t_1307" value="2400"/>
+		<t type="DATE" span="35-52-1, 35-52-2" id="t_1308" value="2400-07-31"/>
+		<t type="DATE" span="35-58-2" id="t_1309" value="2400-08-07"/>
+		<t type="DATE" span="35-58-4, 35-58-5" id="t_1310" value="2400-08-08"/>
+		<t type="DATE" span="35-59-4, 35-59-5" id="t_1311" value="2400-08-08"/>
+		<t type="DATE" span="35-59-16" id="t_1312" value="1983-07-17"/>
+		<t type="DATE" span="35-123-1, 35-123-2, 35-123-3, 35-123-4, 35-123-5" id="t_1313" value="UNDEF-this-hour-MINUS-quinze"/>
+		<t type="DATE" span="35-160-4" id="t_1314" value="1983-07-18"/>
+		<t type="DATE" span="36-6-15" id="t_1315" value="PRESENT_REF"/>
+		<t type="DATE" span="36-8-2" id="t_1316" value="1966"/>
+		<t type="DATE" span="36-9-14, 36-9-15" id="t_1317" value="1981-08"/>
+		<t type="DATE" span="36-14-3, 36-14-4, 36-14-5" id="t_1318" value="1981-08-04"/>
+		<t type="DATE" span="36-32-5" id="t_1319" value="PAST_REF"/>
+		<t type="DATE" span="36-96-4" id="t_1320" value="PRESENT_REF"/>
+		<t type="DATE" span="36-105-5" id="t_1321" value="PRESENT_REF"/>
+		<t type="DATE" span="36-131-1" id="t_1322" value="PRESENT_REF"/>
+		<t type="DATE" span="36-152-1" id="t_1323" value="PRESENT_REF"/>
+		<t type="DURATION" span="1-30-7, 1-30-8" id="t_1324" value="P1D"/>
+		<t type="DURATION" span="1-44-22, 1-44-23" id="t_1325" value="PT1H"/>
+		<t type="DURATION" span="1-102-6, 1-102-7" id="t_1326" value="PTXM"/>
+		<t type="DURATION" span="5-3-10, 5-3-11" id="t_1327" value="PT7H"/>
+		<t type="DURATION" span="5-22-2, 5-22-3" id="t_1328" value="PT8H"/>
+		<t type="DURATION" span="5-26-2, 5-26-3" id="t_1329" value="PT9H"/>
+		<t type="DURATION" span="5-35-2, 5-35-3" id="t_1330" value="PT9H"/>
+		<t type="DURATION" span="6-13-6, 6-13-7" id="t_1331" value="P1D"/>
+		<t type="DURATION" span="7-11-6, 7-11-7" id="t_1332" value="PT4H"/>
+		<t type="DURATION" span="7-40-1, 7-40-2" id="t_1333" value="PT8H"/>
+		<t type="DURATION" span="8-16-1, 8-16-2" id="t_1334" value="P8Y"/>
+		<t type="DURATION" span="8-18-1, 8-18-2" id="t_1335" value="P10Y"/>
+		<t type="DURATION" span="8-46-1, 8-46-2" id="t_1336" value="PXW"/>
+		<t type="DURATION" span="8-60-10, 8-60-11" id="t_1337" value="PT3H"/>
+		<t type="DURATION" span="8-65-10, 8-65-11" id="t_1338" value="P3Y"/>
+		<t type="DURATION" span="8-67-1, 8-67-2" id="t_1339" value="PT5H"/>
+		<t type="DURATION" span="8-74-12, 8-74-13" id="t_1340" value="PT9H"/>
+		<t type="DURATION" span="8-82-7, 8-82-8" id="t_1341" value="PT1H"/>
+		<t type="DURATION" span="8-92-10, 8-92-11" id="t_1342" value="PT2H"/>
+		<t type="DURATION" span="8-112-7, 8-112-8" id="t_1343" value="PT5M"/>
+		<t type="DURATION" span="8-114-3, 8-114-4" id="t_1344" value="P3Y"/>
+		<t type="DURATION" span="8-138-7, 8-138-8" id="t_1345" value="PT4H"/>
+		<t type="DURATION" span="8-141-10, 8-141-11" id="t_1346" value="PT5H"/>
+		<t type="DURATION" span="8-142-1, 8-142-2" id="t_1347" value="PT1H"/>
+		<t type="DURATION" span="8-151-14, 8-151-15" id="t_1348" value="PT18H"/>
+		<t type="DURATION" span="9-25-48, 9-25-49" id="t_1349" value="PT10H"/>
+		<t type="DURATION" span="9-29-8, 9-29-9" id="t_1350" value="PT10H"/>
+		<t type="DURATION" span="9-39-2, 9-39-3" id="t_1351" value="PT2H"/>
+		<t type="DURATION" span="9-66-9, 9-66-10" id="t_1352" value="P18Y"/>
+		<t type="DURATION" span="9-87-25, 9-87-26" id="t_1353" value="P1M"/>
+		<t type="DURATION" span="9-95-2, 9-95-3" id="t_1354" value="PXD"/>
+		<t type="DURATION" span="10-35-29, 10-35-30, 10-35-31" id="t_1355" value="P1W"/>
+		<t type="DURATION" span="10-97-22, 10-97-23" id="t_1356" value="PT1H"/>
+		<t type="DURATION" span="10-102-3, 10-102-4" id="t_1357" value="P3M"/>
+		<t type="DURATION" span="10-235-2, 10-235-3" id="t_1358" value="P1D"/>
+		<t type="DURATION" span="10-270-7, 10-270-8" id="t_1359" value="PT1H"/>
+		<t type="DURATION" span="12-50-28, 12-50-29" id="t_1360" value="P5W"/>
+		<t type="DURATION" span="12-59-40, 12-59-41" id="t_1361" value="P2W"/>
+		<t type="DURATION" span="12-64-19, 12-64-20" id="t_1362" value="P3D"/>
+		<t type="DURATION" span="12-67-3, 12-67-4" id="t_1363" value="P2D"/>
+		<t type="DURATION" span="12-68-48" id="t_1364" value="P4D"/>
+		<t type="DURATION" span="12-68-50, 12-68-51" id="t_1365" value="P5D"/>
+		<t type="DURATION" span="12-79-9, 12-79-10" id="t_1366" value="P3D"/>
+		<t type="DURATION" span="12-80-20, 12-80-21" id="t_1367" value="P3W"/>
+		<t type="DURATION" span="12-99-4, 12-99-5" id="t_1368" value="P2W"/>
+		<t type="DURATION" span="12-99-16, 12-99-17" id="t_1369" value="P1D"/>
+		<t type="DURATION" span="12-99-21, 12-99-22" id="t_1370" value="P1D"/>
+		<t type="DURATION" span="12-102-12, 12-102-13" id="t_1371" value="P2D"/>
+		<t type="DURATION" span="12-118-14, 12-118-15" id="t_1372" value="P6D"/>
+		<t type="DURATION" span="12-162-9, 12-162-10" id="t_1373" value="P2D"/>
+		<t type="DURATION" span="12-163-3, 12-163-4, 12-163-5" id="t_1374" value="P1D"/>
+		<t type="DURATION" span="12-173-22, 12-173-23" id="t_1375" value="P3D"/>
+		<t type="DURATION" span="12-174-15, 12-174-16" id="t_1376" value="P1D"/>
+		<t type="DURATION" span="12-233-36, 12-233-37" id="t_1377" value="P3W"/>
+		<t type="DURATION" span="12-249-4, 12-249-5" id="t_1378" value="PT1H"/>
+		<t type="DURATION" span="12-260-11, 12-260-12" id="t_1379" value="P2D"/>
+		<t type="DURATION" span="14-22-49, 14-22-50" id="t_1380" value="P4CE"/>
+		<t type="DURATION" span="14-26-30, 14-26-31" id="t_1381" value="P20Y"/>
+		<t type="DURATION" span="14-37-15, 14-37-16" id="t_1382" value="P1W"/>
+		<t type="DURATION" span="14-49-12, 14-49-13" id="t_1383" value="P20Y"/>
+		<t type="DURATION" span="14-110-5, 14-110-6" id="t_1384" value="PT2H"/>
+		<t type="DURATION" span="14-150-12, 14-150-13" id="t_1385" value="PXCE"/>
+		<t type="DURATION" span="14-158-17, 14-158-18" id="t_1386" value="PXY"/>
+		<t type="DURATION" span="14-164-1, 14-164-2" id="t_1387" value="PXY"/>
+		<t type="DURATION" span="14-190-1, 14-190-2" id="t_1388" value="PT3H"/>
+		<t type="DURATION" span="14-233-9, 14-233-10" id="t_1389" value="PTXH"/>
+		<t type="DURATION" span="14-235-2, 14-235-3" id="t_1390" value="PTXH"/>
+		<t type="DURATION" span="14-238-1, 14-238-2" id="t_1391" value="P2Y"/>
+		<t type="DURATION" span="14-259-8, 14-259-9" id="t_1392" value="P1D"/>
+		<t type="DURATION" span="15-10-31" id="t_1393" value="PT2H"/>
+		<t type="DURATION" span="15-10-33, 15-10-34" id="t_1394" value="PT3H"/>
+		<t type="DURATION" span="15-42-3, 15-42-4" id="t_1395" value="P6D"/>
+		<t type="DURATION" span="15-49-11, 15-49-12" id="t_1396" value="PT2H"/>
+		<t type="DURATION" span="15-49-28, 15-49-29, 15-49-30" id="t_1397" value="PT1H" mod="APPROX"/>
+		<t type="DURATION" span="15-57-39, 15-57-40" id="t_1398" value="P54Y"/>
+		<t type="DURATION" span="15-59-39, 15-59-40" id="t_1399" value="PT11H"/>
+		<t type="DURATION" span="15-69-11, 15-69-12" id="t_1400" value="PT2H"/>
+		<t type="DURATION" span="15-115-10, 15-115-11" id="t_1401" value="P4D"/>
+		<t type="DURATION" span="15-116-28, 15-116-29" id="t_1402" value="P2W"/>
+		<t type="DURATION" span="15-119-1, 15-119-2" id="t_1403" value="P53Y"/>
+		<t type="DURATION" span="15-141-3, 15-141-4" id="t_1404" value="P5W"/>
+		<t type="DURATION" span="15-155-1, 15-155-2" id="t_1405" value="P2W"/>
+		<t type="DURATION" span="15-176-16, 15-176-17" id="t_1406" value="PT12H"/>
+		<t type="DURATION" span="15-184-15, 15-184-16" id="t_1407" value="P6D"/>
+		<t type="DURATION" span="15-184-29, 15-184-30, 15-184-31, 15-184-32" id="t_1408" value="P2D"/>
+		<t type="DURATION" span="15-192-5, 15-192-6" id="t_1409" value="P28Y"/>
+		<t type="DURATION" span="15-192-16, 15-192-17" id="t_1410" value="P31Y"/>
+		<t type="DURATION" span="15-196-2, 15-196-3" id="t_1411" value="P5D"/>
+		<t type="DURATION" span="15-261-14, 15-261-15" id="t_1412" value="P31Y"/>
+		<t type="DURATION" span="15-261-36, 15-261-37" id="t_1413" value="PT3H"/>
+		<t type="DURATION" span="15-298-42, 15-298-43" id="t_1414" value="P5D"/>
+		<t type="DURATION" span="15-327-6, 15-327-7" id="t_1415" value="P16D"/>
+		<t type="DURATION" span="15-344-41, 15-344-42" id="t_1416" value="PT4H"/>
+		<t type="DURATION" span="15-378-6, 15-378-7" id="t_1417" value="P2M"/>
+		<t type="DURATION" span="15-389-7, 15-389-8" id="t_1418" value="P2D"/>
+		<t type="DURATION" span="15-399-40, 15-399-41" id="t_1419" value="P1D"/>
+		<t type="DURATION" span="15-410-71, 15-410-72" id="t_1420" value="P3D"/>
+		<t type="DURATION" span="15-411-17, 15-411-18" id="t_1421" value="PT14H"/>
+		<t type="DURATION" span="15-416-26, 15-416-27" id="t_1422" value="P3D"/>
+		<t type="DURATION" span="15-423-3, 15-423-4" id="t_1423" value="P2W"/>
+		<t type="DURATION" span="15-429-55, 15-429-56" id="t_1424" value="P2D"/>
+		<t type="DURATION" span="15-430-15, 15-430-16" id="t_1425" value="PT1H"/>
+		<t type="DURATION" span="15-431-2, 15-431-3" id="t_1426" value="PT22H"/>
+		<t type="DURATION" span="15-434-11, 15-434-12" id="t_1427" value="P2D"/>
+		<t type="DURATION" span="15-442-18, 15-442-19" id="t_1428" value="P2D"/>
+		<t type="DURATION" span="15-478-5, 15-478-6" id="t_1429" value="P6D"/>
+		<t type="DURATION" span="15-492-18, 15-492-19" id="t_1430" value="PT19H"/>
+		<t type="DURATION" span="15-495-7, 15-495-8" id="t_1431" value="P6D"/>
+		<t type="DURATION" span="15-508-10, 15-508-11" id="t_1432" value="P15D"/>
+		<t type="DURATION" span="15-512-26, 15-512-27" id="t_1433" value="P6D"/>
+		<t type="DURATION" span="15-514-8, 15-514-9" id="t_1434" value="P1D"/>
+		<t type="DURATION" span="15-524-4, 15-524-5" id="t_1435" value="P18D"/>
+		<t type="DURATION" span="15-530-17, 15-530-18" id="t_1436" value="P3D"/>
+		<t type="DURATION" span="15-547-1, 15-547-2" id="t_1437" value="P5D"/>
+		<t type="DURATION" span="15-551-7, 15-551-8" id="t_1438" value="PT9H"/>
+		<t type="DURATION" span="15-572-14, 15-572-15" id="t_1439" value="P3D"/>
+		<t type="DURATION" span="15-573-11" id="t_1440" value="P4M"/>
+		<t type="DURATION" span="15-573-13, 15-573-14" id="t_1441" value="P5M"/>
+		<t type="DURATION" span="15-586-18, 15-586-19" id="t_1442" value="PT17H"/>
+		<t type="DURATION" span="15-588-3, 15-588-4" id="t_1443" value="P6D"/>
+		<t type="DURATION" span="15-594-20, 15-594-21" id="t_1444" value="PT16H"/>
+		<t type="DURATION" span="15-603-4, 15-603-5" id="t_1445" value="P23Y"/>
+		<t type="DURATION" span="15-608-7, 15-608-8" id="t_1446" value="P19D"/>
+		<t type="DURATION" span="15-630-37, 15-630-38" id="t_1447" value="P2M"/>
+		<t type="DURATION" span="15-635-48, 15-635-49" id="t_1448" value="P2W"/>
+		<t type="DURATION" span="15-646-9, 15-646-10" id="t_1449" value="P2M"/>
+		<t type="DURATION" span="15-663-32, 15-663-33" id="t_1450" value="P57Y"/>
+		<t type="DURATION" span="15-668-5, 15-668-6" id="t_1451" value="P59Y"/>
+		<t type="DURATION" span="15-675-12, 15-675-13" id="t_1452" value="P5Y"/>
+		<t type="DURATION" span="15-702-1, 15-702-2" id="t_1453" value="P8D"/>
+		<t type="DURATION" span="15-707-4, 15-707-5" id="t_1454" value="PT8H"/>
+		<t type="DURATION" span="15-709-9, 15-709-10" id="t_1455" value="PT8H"/>
+		<t type="DURATION" span="15-711-28, 15-711-29" id="t_1456" value="P5D"/>
+		<t type="DURATION" span="15-751-2, 15-751-3" id="t_1457" value="P7D"/>
+		<t type="DURATION" span="15-776-14, 15-776-15" id="t_1458" value="P2D"/>
+		<t type="DURATION" span="17-3-1, 17-3-2" id="t_1459" value="P1D"/>
+		<t type="DURATION" span="19-50-25, 19-50-26" id="t_1460" value="P3W"/>
+		<t type="DURATION" span="19-54-2, 19-54-3" id="t_1461" value="PTXM"/>
+		<t type="DURATION" span="19-96-10, 19-96-11" id="t_1462" value="PXD"/>
+		<t type="DURATION" span="20-5-4, 20-5-5" id="t_1463" value="PXD"/>
+		<t type="DURATION" span="20-58-1, 20-58-2" id="t_1464" value="P1W"/>
+		<t type="DURATION" span="20-73-7, 20-73-8" id="t_1465" value="P11Y"/>
+		<t type="DURATION" span="20-73-13, 20-73-14, 20-73-15" id="t_1466" value="P1W"/>
+		<t type="DURATION" span="20-103-7, 20-103-8" id="t_1467" value="PXD"/>
+		<t type="DURATION" span="20-131-16, 20-131-17" id="t_1468" value="P1W"/>
+		<t type="DURATION" span="20-176-10, 20-176-11" id="t_1469" value="P1D"/>
+		<t type="DURATION" span="21-77-15, 21-77-16" id="t_1470" value="PXD"/>
+		<t type="DURATION" span="21-89-12, 21-89-13" id="t_1471" value="PTXM"/>
+		<t type="DURATION" span="21-95-5, 21-95-6" id="t_1472" value="P3W"/>
+		<t type="DURATION" span="21-100-13, 21-100-14" id="t_1473" value="P1Y"/>
+		<t type="DURATION" span="21-100-32, 21-100-33" id="t_1474" value="P4W"/>
+		<t type="DURATION" span="21-107-8" id="t_1475" value="P32D"/>
+		<t type="DURATION" span="21-107-10, 21-107-11" id="t_1476" value="P34D"/>
+		<t type="DURATION" span="21-117-4, 21-117-5" id="t_1477" value="P5M"/>
+		<t type="DURATION" span="21-121-12, 21-121-13" id="t_1478" value="PXD"/>
+		<t type="DURATION" span="21-124-10, 21-124-11" id="t_1479" value="P18Y"/>
+		<t type="DURATION" span="22-69-10, 22-69-11" id="t_1480" value="P1D"/>
+		<t type="DURATION" span="22-93-23, 22-93-24" id="t_1481" value="PXY"/>
+		<t type="DURATION" span="22-116-20, 22-116-21, 22-116-22" id="t_1482" value="PXY"/>
+		<t type="DURATION" span="24-17-24, 24-17-25" id="t_1483" value="PT2H"/>
+		<t type="DURATION" span="24-20-19, 24-20-20" id="t_1484" value="PTXM"/>
+		<t type="DURATION" span="24-21-1, 24-21-2" id="t_1485" value="PT8H"/>
+		<t type="DURATION" span="24-60-23, 24-60-24" id="t_1486" value="PT5H"/>
+		<t type="DURATION" span="24-80-11, 24-80-12" id="t_1487" value="P1D"/>
+		<t type="DURATION" span="25-52-7, 25-52-8, 25-52-9" id="t_1488" value="PXY"/>
+		<t type="DURATION" span="26-11-31, 26-11-32" id="t_1489" value="P1M"/>
+		<t type="DURATION" span="26-15-3, 26-15-4" id="t_1490" value="P1D"/>
+		<t type="DURATION" span="26-26-13, 26-26-14" id="t_1491" value="P2D"/>
+		<t type="DURATION" span="26-47-13, 26-47-14, 26-47-15" id="t_1492" value="P1D"/>
+		<t type="DURATION" span="28-40-6, 28-40-7" id="t_1493" value="P15Y"/>
+		<t type="DURATION" span="28-174-2, 28-174-3" id="t_1494" value="PT3H"/>
+		<t type="DURATION" span="30-44-6, 30-44-7" id="t_1495" value="P1D"/>
+		<t type="DURATION" span="30-97-11, 30-97-12" id="t_1496" value="PXW"/>
+		<t type="DURATION" span="31-4-91, 31-4-92" id="t_1497" value="PT13H"/>
+		<t type="DURATION" span="31-11-17, 31-11-18, 31-11-19" id="t_1498" value="PXY"/>
+		<t type="DURATION" span="31-20-33, 31-20-34" id="t_1499" value="PT12H"/>
+		<t type="DURATION" span="31-28-24, 31-28-25" id="t_1500" value="P3D"/>
+		<t type="DURATION" span="31-45-4, 31-45-5" id="t_1501" value="P2Y"/>
+		<t type="DURATION" span="31-45-9, 31-45-10" id="t_1502" value="P3Y"/>
+		<t type="DURATION" span="31-46-5, 31-46-6" id="t_1503" value="P4Y"/>
+		<t type="DURATION" span="31-46-10, 31-46-11" id="t_1504" value="P5Y"/>
+		<t type="DURATION" span="31-680-11, 31-680-12" id="t_1505" value="PXY"/>
+		<t type="DURATION" span="31-681-8, 31-681-9" id="t_1506" value="P3Y"/>
+		<t type="DURATION" span="31-692-45, 31-692-46" id="t_1507" value="P9M"/>
+		<t type="DURATION" span="31-712-9" id="t_1508" value="P4Y"/>
+		<t type="DURATION" span="31-712-11, 31-712-12" id="t_1509" value="P11Y"/>
+		<t type="DURATION" span="31-733-29, 31-733-30" id="t_1510" value="PXW"/>
+		<t type="DURATION" span="31-742-37, 31-742-38" id="t_1511" value="PXY"/>
+		<t type="DURATION" span="31-811-7, 31-811-8" id="t_1512" value="PT13H"/>
+		<t type="DURATION" span="31-859-14, 31-859-15" id="t_1513" value="PXW"/>
+		<t type="DURATION" span="31-862-7, 31-862-8" id="t_1514" value="P1Y"/>
+		<t type="DURATION" span="31-883-47, 31-883-48, 31-883-49" id="t_1515" value="PXM"/>
+		<t type="DURATION" span="31-884-18, 31-884-19" id="t_1516" value="P2M"/>
+		<t type="DURATION" span="31-886-13, 31-886-14, 31-886-15" id="t_1517" value="PXY"/>
+		<t type="DURATION" span="31-887-18, 31-887-19" id="t_1518" value="P60Y"/>
+		<t type="DURATION" span="31-890-19, 31-890-20" id="t_1519" value="P6W"/>
+		<t type="DURATION" span="31-891-2, 31-891-3" id="t_1520" value="P2Y"/>
+		<t type="DURATION" span="32-3-1, 32-3-2" id="t_1521" value="P8Y"/>
+		<t type="DURATION" span="32-54-2, 32-54-3" id="t_1522" value="P6Y"/>
+		<t type="DURATION" span="33-32-3, 33-32-4" id="t_1523" value="P1D"/>
+		<t type="DURATION" span="33-38-15, 33-38-16" id="t_1524" value="PTXM"/>
+		<t type="DURATION" span="33-41-1, 33-41-2" id="t_1525" value="PT2H"/>
+		<t type="DURATION" span="34-3-2, 34-3-3" id="t_1526" value="P1CE"/>
+		<t type="DURATION" span="34-22-8, 34-22-9" id="t_1527" value="PT2H"/>
+		<t type="DURATION" span="34-81-5, 34-81-6" id="t_1528" value="P23Y"/>
+		<t type="DURATION" span="34-91-6, 34-91-7" id="t_1529" value="P10M"/>
+		<t type="DURATION" span="34-91-12, 34-91-13" id="t_1530" value="PT5H"/>
+		<t type="DURATION" span="35-6-3, 35-6-4" id="t_1531" value="P1D"/>
+		<t type="DURATION" span="35-24-6, 35-24-7" id="t_1532" value="PT18H"/>
+		<t type="DURATION" span="35-25-19, 35-25-20" id="t_1533" value="PT10H"/>
+		<t type="DURATION" span="35-27-12, 35-27-13" id="t_1534" value="P15Y"/>
+		<t type="DURATION" span="35-33-3, 35-33-4" id="t_1535" value="P1D"/>
+		<t type="DURATION" span="35-34-5, 35-34-6" id="t_1536" value="PT4H"/>
+		<t type="DURATION" span="35-37-2, 35-37-3" id="t_1537" value="PXD"/>
+		<t type="DURATION" span="35-54-1, 35-54-2" id="t_1538" value="P6D"/>
+		<t type="DURATION" span="35-60-7, 35-60-8" id="t_1539" value="PT8H"/>
+		<t type="DURATION" span="35-64-6, 35-64-7" id="t_1540" value="PT1H"/>
+		<t type="DURATION" span="35-65-23, 35-65-24" id="t_1541" value="PT1H"/>
+		<t type="DURATION" span="35-77-2, 35-77-3" id="t_1542" value="PT8H"/>
+		<t type="DURATION" span="35-80-6, 35-80-7" id="t_1543" value="PT2H"/>
+		<t type="DURATION" span="35-86-3, 35-86-4" id="t_1544" value="PT13H"/>
+		<t type="DURATION" span="35-93-5, 35-93-6" id="t_1545" value="PT2H"/>
+		<t type="DURATION" span="35-149-3, 35-149-4" id="t_1546" value="PT21H"/>
+		<t type="DURATION" span="35-149-10, 35-149-11" id="t_1547" value="PT20H"/>
+		<t type="DURATION" span="35-155-1, 35-155-2" id="t_1548" value="PTXM"/>
+		<t type="DURATION" span="35-165-1, 35-165-2" id="t_1549" value="PT6H"/>
+		<t type="DURATION" span="35-170-13, 35-170-14" id="t_1550" value="P4D"/>
+		<t type="DURATION" span="36-9-10, 36-9-11" id="t_1551" value="P3D"/>
+		<t type="DURATION" span="36-14-20, 36-14-21" id="t_1552" value="PT10H"/>
+		<t type="DURATION" span="36-33-29, 36-33-30" id="t_1553" value="P2D"/>
+		<t type="DURATION" span="36-35-9, 36-35-10" id="t_1554" value="PTXH"/>
+		<t type="DURATION" span="36-113-8, 36-113-9" id="t_1555" value="PT1H"/>
+		<t type="DURATION" span="36-158-4, 36-158-5" id="t_1556" value="PT2H"/>
+		<t type="DURATION" span="36-163-8, 36-163-9" id="t_1557" value="P3D"/>
+		<t type="SET" span="8-8-26" id="t_1558" value="XXXX"/>
+		<t type="SET" span="8-16-20, 8-16-21" id="t_1559" value="XXXX-SU" freq="1S" quant="EVERY"/>
+		<t type="SET" span="9-58-2, 9-58-3, 9-58-4" id="t_1560" value="P1D" quant="EVERY"/>
+		<t type="SET" span="15-51-15" id="t_1561" value="XXXX"/>
+		<t type="SET" span="15-674-25" id="t_1562" value="XXXX"/>
+		<t type="SET" span="15-674-33, 15-674-34" id="t_1563" value="XXXX-SU" freq="1S" quant="EVERY"/>
+		<t type="SET" span="22-15-1, 22-15-2" id="t_1564" value="XXXX-FA" freq="1S" quant="EVERY"/>
+		<t type="SET" span="26-27-16, 26-27-17, 26-27-18, 26-27-19" id="t_1565" value="P1D" freq="1"/>
+		<t type="SET" span="26-75-7, 26-75-8" id="t_1566" value="XXXX-WI" freq="1S" quant="EVERY"/>
+		<t type="SET" span="27-60-12, 27-60-13, 27-60-14, 27-60-15" id="t_1567" value="P15D" quant="EVERY"/>
+		<t type="SET" span="28-12-3" id="t_1568" value="XXXX-XX"/>
+		<t type="SET" span="28-54-6, 28-54-7" id="t_1569" value="P1D" quant="EVERY"/>
+		<t type="SET" span="28-108-43, 28-108-44" id="t_1570" value="P1D" quant="EVERY"/>
+		<t type="SET" span="28-124-6, 28-124-7, 28-124-8, 28-124-9" id="t_1571" value="P1D" freq="1"/>
+		<t type="SET" span="28-150-6" id="t_1572" value="XXXX-XX"/>
+		<t type="SET" span="28-152-5" id="t_1573" value="XXXX-XX"/>
+		<t type="SET" span="31-5-18" id="t_1574" value="XXXX-XX"/>
+		<t type="SET" span="31-5-33" id="t_1575" value="XXXX"/>
+		<t type="SET" span="31-60-6" id="t_1576" value="XXXX"/>
+		<t type="SET" span="31-709-27, 31-709-28, 31-709-29, 31-709-30" id="t_1577" value="P4Y" quant="EVERY"/>
+		<t type="SET" span="31-713-22, 31-713-23, 31-713-24, 31-713-25" id="t_1578" value="P11Y" quant="EVERY"/>
+		<t type="SET" span="31-741-4" id="t_1579" value="XXXX"/>
+		<t type="SET" span="31-765-10, 31-765-11" id="t_1580" value="P1Y" quant="EVERY"/>
+		<t type="SET" span="31-767-4, 31-767-5" id="t_1581" value="P1Y" quant="EVERY"/>
+		<t type="SET" span="31-771-5" id="t_1582" value="XXXX"/>
+		<t type="SET" span="31-836-9, 31-836-10" id="t_1583" value="XXXX-SP" freq="1S" quant="EVERY"/>
+		<t type="SET" span="31-860-26, 31-860-27, 31-860-28" id="t_1584" value="P1D" quant="EVERY"/>
+		<t type="SET" span="31-870-4" id="t_1585" value="XXXX"/>
+		<t type="SET" span="31-885-52, 31-885-53" id="t_1586" value="P1Y" quant="EVERY"/>
+		<t type="SET" span="34-145-2, 34-145-3" id="t_1587" value="P1D" quant="EVERY"/>
+	</TIMEX3>
+</TimeML>

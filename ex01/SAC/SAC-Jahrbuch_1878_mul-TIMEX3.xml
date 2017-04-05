@@ -1,0 +1,2260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TimeML>
+	<TIMEX3>
+		<t type="TIME" span="a4-s57-w22" id="t_1" value="1878-09-28TNI"/>
+		<t type="TIME" span="a4-s58-w6" id="t_2" value="1878-09-28TMO"/>
+		<t type="TIME" span="a4-s77-w3, a4-s77-w4, a4-s77-w5" id="t_3" value="1878-09-28T03:30"/>
+		<t type="TIME" span="a4-s80-w19" id="t_4" value="1878-FA-TNI"/>
+		<t type="TIME" span="a4-s80-w26, a4-s80-w27" id="t_5" value="1878-09-28T07:00"/>
+		<t type="TIME" span="a4-s80-w32, a4-s80-w33" id="t_6" value="1878-09-28T08:00"/>
+		<t type="TIME" span="a4-s98-w3, a4-s98-w4, a4-s98-w5, a4-s98-w6, a4-s98-w7, a4-s98-w8" id="t_7" value="1868-09-13TMO"/>
+		<t type="TIME" span="a4-s99-w1, a4-s99-w2, a4-s99-w3" id="t_8" value="1878-09-28T05:00" mod="BEFORE"/>
+		<t type="TIME" span="a4-s100-w2, a4-s100-w3" id="t_9" value="1878-09-28T08:00"/>
+		<t type="TIME" span="a4-s112-w2, a4-s112-w3" id="t_10" value="1878-09-28T05:00"/>
+		<t type="TIME" span="a4-s113-w16" id="t_11" value="1878-09-28TNI"/>
+		<t type="TIME" span="a4-s113-w18, a4-s113-w19, a4-s113-w20" id="t_12" value="1878-09-28T10:30"/>
+		<t type="TIME" span="a4-s119-w2, a4-s119-w3" id="t_13" value="1878-09-28T05:00"/>
+		<t type="TIME" span="a4-s121-w28" id="t_14" value="1878-09-28T12:00"/>
+		<t type="TIME" span="a4-s129-w12" id="t_15" value="1878-09-28TAF"/>
+		<t type="TIME" span="a4-s133-w7" id="t_16" value="1878-09-28TNI"/>
+		<t type="TIME" span="a4-s154-w4, a4-s154-w5" id="t_17" value="1868-09-06T03:00"/>
+		<t type="TIME" span="a4-s156-w6, a4-s156-w7" id="t_18" value="1868-09-10T10:00"/>
+		<t type="TIME" span="a4-s175-w33" id="t_19" value="1868-09-06TNI"/>
+		<t type="TIME" span="a4-s177-w5, a4-s177-w6, a4-s177-w7" id="t_20" value="1868-08-11T03:00" mod="BEFORE"/>
+		<t type="TIME" span="a4-s187-w6" id="t_21" value="1868-08-11TNI"/>
+		<t type="TIME" span="a4-s187-w7, a4-s187-w8, a4-s187-w9" id="t_22" value="1868-08-11T09:30"/>
+		<t type="TIME" span="a4-s199-w2" id="t_23" value="1868-08-11TMO"/>
+		<t type="TIME" span="a4-s199-w23, a4-s199-w24, a4-s199-w25" id="t_24" value="1868-08-11T08:30"/>
+		<t type="TIME" span="a4-s222-w1, a4-s222-w2" id="t_25" value="1868-08-11T03:00"/>
+		<t type="TIME" span="a4-s222-w20, a4-s222-w21, a4-s222-w22, a4-s222-w23" id="t_26" value="1868-08-11T09:20"/>
+		<t type="TIME" span="a4-s226-w7, a4-s226-w8, a4-s226-w9, a4-s226-w10" id="t_27" value="1868-08-11T05:30"/>
+		<t type="TIME" span="a4-s265-w15" id="t_28" value="1868-08-11TNI"/>
+		<t type="TIME" span="a4-s266-w2, a4-s266-w3, a4-s266-w4, a4-s266-w5, a4-s266-w6" id="t_29" value="1868-07-26TAF"/>
+		<t type="TIME" span="a4-s268-w1, a4-s268-w2, a4-s268-w3" id="t_30" value="1868-07-26TMO"/>
+		<t type="TIME" span="a4-s268-w10, a4-s268-w11, a4-s268-w12" id="t_31" value="1868-07-26T08:30"/>
+		<t type="TIME" span="a4-s298-w2" id="t_32" value="1868-07-26TNI"/>
+		<t type="TIME" span="a4-s300-w6" id="t_33" value="1868-07-27T24:00"/>
+		<t type="TIME" span="a4-s302-w10" id="t_34" value="1868-07-27TNI"/>
+		<t type="TIME" span="a4-s303-w3, a4-s303-w4, a4-s303-w5" id="t_35" value="1868-07-27T03:30"/>
+		<t type="TIME" span="a4-s305-w2, a4-s305-w3" id="t_36" value="1868-07-27T08:00"/>
+		<t type="TIME" span="a4-s315-w2, a4-s315-w3" id="t_37" value="1868-07-27T01:00"/>
+		<t type="TIME" span="a4-s315-w17, a4-s315-w18" id="t_38" value="1868-07-27T05:00"/>
+		<t type="TIME" span="a4-s320-w2" id="t_39" value="1868-07-27TNI"/>
+		<t type="TIME" span="a4-s330-w9, a4-s330-w10, a4-s330-w11" id="t_40" value="1875-08-07T03:30"/>
+		<t type="TIME" span="a4-s330-w22, a4-s330-w23, a4-s330-w24" id="t_41" value="1868-07-28T08:30"/>
+		<t type="TIME" span="a4-s335-w1, a4-s335-w2, a4-s335-w3, a4-s335-w4, a4-s335-w5" id="t_42" value="1868-07-28T11:40"/>
+		<t type="TIME" span="a4-s335-w19, a4-s335-w20, a4-s335-w21" id="t_43" value="1868-07-28T01:30"/>
+		<t type="TIME" span="a4-s346-w1" id="t_44" value="1868-07-28TEV"/>
+		<t type="TIME" span="a4-s360-w14" id="t_45" value="1877-10-04TNI"/>
+		<t type="TIME" span="a4-s373-w2, a4-s373-w3" id="t_46" value="1877-10-04T04:00"/>
+		<t type="TIME" span="a4-s373-w36, a4-s373-w37, a4-s373-w38" id="t_47" value="1877-10-04T09:30"/>
+		<t type="TIME" span="a4-s383-w49, a4-s383-w50, a4-s383-w51" id="t_48" value="1877-10-04T06:30"/>
+		<t type="TIME" span="a4-s398-w2" id="t_49" value="1877-10-04TNI"/>
+		<t type="TIME" span="a4-s405-w3" id="t_50" value="1877-10-04T01:5"/>
+		<t type="TIME" span="a4-s431-w7" id="t_51" value="1878-10-03TMO"/>
+		<t type="TIME" span="a4-s433-w9, a4-s433-w10" id="t_52" value="1878-10-03T09:00"/>
+		<t type="TIME" span="a4-s448-w3, a4-s448-w4" id="t_53" value="1878-10-03T06:00"/>
+		<t type="TIME" span="a4-s456-w2, a4-s456-w3" id="t_54" value="1878-10-04T03:00"/>
+		<t type="TIME" span="a4-s468-w11, a4-s468-w12" id="t_55" value="1877-10-04T01:00"/>
+		<t type="TIME" span="a5-s22-w10, a5-s22-w11" id="t_56" value="1878-08-12T07:00"/>
+		<t type="TIME" span="a5-s22-w48" id="t_57" value="1878-08-12TNI"/>
+		<t type="TIME" span="a5-s71-w21" id="t_58" value="1878-08-12TMO"/>
+		<t type="TIME" span="a5-s79-w5, a5-s79-w6, a5-s79-w7" id="t_59" value="1878-08-12T10:00" mod="AFTER"/>
+		<t type="TIME" span="a5-s96-w2, a5-s96-w3, a5-s96-w4" id="t_60" value="1878-08-12T10:30"/>
+		<t type="TIME" span="a5-s142-w3, a5-s142-w4, a5-s142-w5, a5-s142-w6, a5-s142-w7" id="t_61" value="1878-08-12T12:30"/>
+		<t type="TIME" span="a5-s157-w1, a5-s157-w2, a5-s157-w3, a5-s157-w4" id="t_62" value="1878-08-12T12:40"/>
+		<t type="TIME" span="a5-s169-w2, a5-s169-w3, a5-s169-w4, a5-s169-w5" id="t_63" value="1878-08-12T01:28"/>
+		<t type="TIME" span="a5-s187-w33, a5-s187-w34, a5-s187-w35, a5-s187-w36" id="t_64" value="1878-08-12T02:30"/>
+		<t type="TIME" span="a5-s198-w16" id="t_65" value="1878-08-12TAF"/>
+		<t type="TIME" span="a5-s209-w2, a5-s209-w3" id="t_66" value="1878-08-12T05:00"/>
+		<t type="TIME" span="a5-s234-w50" id="t_67" value="1878-08-12TNI"/>
+		<t type="TIME" span="a6-s10-w22" id="t_68" value="1878-08-12TMO"/>
+		<t type="TIME" span="a6-s92-w4, a6-s92-w5, a6-s92-w6" id="t_69" value="1878-08-12T00:30"/>
+		<t type="TIME" span="a6-s121-w15, a6-s121-w16, a6-s121-w17, a6-s121-w18, a6-s121-w19" id="t_70" value="1878-08-12T02:25"/>
+		<t type="TIME" span="a6-s121-w24, a6-s121-w25, a6-s121-w26, a6-s121-w27" id="t_71" value="1878-08-12T05:50"/>
+		<t type="TIME" span="a6-s121-w29, a6-s121-w30, a6-s121-w31, a6-s121-w32" id="t_72" value="1878-08-12T06:20"/>
+		<t type="TIME" span="a6-s121-w54, a6-s121-w55, a6-s121-w56, a6-s121-w57" id="t_73" value="1878-08-12T07:40"/>
+		<t type="TIME" span="a6-s121-w70, a6-s121-w71" id="t_74" value="1876-09-19T09:00"/>
+		<t type="TIME" span="a6-s121-w82, a6-s121-w83, a6-s121-w84, a6-s121-w85" id="t_75" value="1876-09-19T09:30"/>
+		<t type="TIME" span="a6-s125-w2, a6-s125-w3, a6-s125-w4, a6-s125-w5" id="t_76" value="1878-08-12T10:6"/>
+		<t type="TIME" span="a6-s133-w2, a6-s133-w3, a6-s133-w4, a6-s133-w5" id="t_77" value="1878-08-12T10:30"/>
+		<t type="TIME" span="a6-s133-w16, a6-s133-w17, a6-s133-w18, a6-s133-w19" id="t_78" value="1878-08-12T11:35"/>
+		<t type="TIME" span="a6-s138-w2, a6-s138-w3, a6-s138-w4, a6-s138-w5" id="t_79" value="1878-08-12T11:45"/>
+		<t type="TIME" span="a6-s139-w2, a6-s139-w3, a6-s139-w4, a6-s139-w5" id="t_80" value="1878-08-12T01:30"/>
+		<t type="TIME" span="a6-s141-w2, a6-s141-w3" id="t_81" value="1878-08-12T03:00"/>
+		<t type="TIME" span="a6-s141-w18, a6-s141-w19, a6-s141-w20, a6-s141-w21" id="t_82" value="1878-08-12T04:30"/>
+		<t type="TIME" span="a6-s141-w38, a6-s141-w39, a6-s141-w40, a6-s141-w41" id="t_83" value="1878-08-12T06:50"/>
+		<t type="TIME" span="a6-s145-w5, a6-s145-w6" id="t_84" value="1878-08-13TMO"/>
+		<t type="TIME" span="a6-s146-w6" id="t_85" value="1878-08-13TNI"/>
+		<t type="TIME" span="a6-s146-w16" id="t_86" value="1878-08-13TMO"/>
+		<t type="TIME" span="a7-s12-w11" id="t_87" value="1876-09-20T12:00"/>
+		<t type="TIME" span="a7-s46-w45" id="t_88" value="1877-08-26TEV"/>
+		<t type="TIME" span="a7-s49-w18, a7-s49-w19" id="t_89" value="1877-08-27T06:00"/>
+		<t type="TIME" span="a7-s49-w20, a7-s49-w21, a7-s49-w22" id="t_90" value="1877-08-27TMO"/>
+		<t type="TIME" span="a7-s62-w8, a7-s62-w9, a7-s62-w10, a7-s62-w11" id="t_91" value="1859-07-12T07:30"/>
+		<t type="TIME" span="a7-s66-w5, a7-s66-w6, a7-s66-w7, a7-s66-w8" id="t_92" value="1877-08-27T08:30"/>
+		<t type="TIME" span="a7-s91-w4, a7-s91-w5" id="t_93" value="1877-08-27T10:00"/>
+		<t type="TIME" span="a7-s97-w2, a7-s97-w3, a7-s97-w4, a7-s97-w5" id="t_94" value="1877-08-27T10:30"/>
+		<t type="TIME" span="a7-s116-w28, a7-s116-w29" id="t_95" value="1859-07-12T12:00"/>
+		<t type="TIME" span="a7-s156-w16" id="t_96" value="1859-06-28T12:00"/>
+		<t type="TIME" span="a7-s172-w6, a7-s172-w7" id="t_97" value="1859-06-28T02:00"/>
+		<t type="TIME" span="a7-s173-w34" id="t_98" value="1859-06-28TEV"/>
+		<t type="TIME" span="a7-s180-w30, a7-s180-w31, a7-s180-w32, a7-s180-w33" id="t_99" value="1859-06-28T03:30"/>
+		<t type="TIME" span="a7-s182-w18, a7-s182-w19, a7-s182-w20" id="t_100" value="1859-06-28T05:15"/>
+		<t type="TIME" span="a9-s24-w2" id="t_101" value="1862-07-20TMO"/>
+		<t type="TIME" span="a9-s28-w8, a9-s28-w9, a9-s28-w10, a9-s28-w11, a9-s28-w12, a9-s28-w13" id="t_102" value="1862-07-21T03:5"/>
+		<t type="TIME" span="a9-s30-w2, a9-s30-w3, a9-s30-w4, a9-s30-w5" id="t_103" value="1862-07-21T07:35"/>
+		<t type="TIME" span="a9-s36-w2, a9-s36-w3, a9-s36-w4" id="t_104" value="1862-07-21T12:00"/>
+		<t type="TIME" span="a9-s42-w10" id="t_105" value="1873-08-11T12:00"/>
+		<t type="TIME" span="a9-s59-w2, a9-s59-w3, a9-s59-w4, a9-s59-w5" id="t_106" value="1873-08-11T05:5"/>
+		<t type="TIME" span="a9-s60-w15, a9-s60-w16, a9-s60-w17, a9-s60-w18" id="t_107" value="1873-08-11T06:30"/>
+		<t type="TIME" span="a9-s64-w2" id="t_108" value="1873-08-11TEV"/>
+		<t type="TIME" span="a9-s65-w3" id="t_109" value="1873-08-11TMO"/>
+		<t type="TIME" span="a9-s65-w8, a9-s65-w9, a9-s65-w10, a9-s65-w11" id="t_110" value="1873-08-11T02:45"/>
+		<t type="TIME" span="a9-s66-w24" id="t_111" value="1873-08-11TEV"/>
+		<t type="TIME" span="a9-s67-w12" id="t_112" value="1873-08-11TEV"/>
+		<t type="TIME" span="a9-s74-w3, a9-s74-w4" id="t_113" value="1873-08-11T07:00"/>
+		<t type="TIME" span="a9-s77-w3" id="t_114" value="1873-08-11TMO"/>
+		<t type="TIME" span="a9-s135-w2, a9-s135-w3, a9-s135-w4, a9-s135-w5" id="t_115" value="1873-08-10T11:30"/>
+		<t type="TIME" span="a9-s137-w2, a9-s137-w3" id="t_116" value="1873-08-10T01:00"/>
+		<t type="TIME" span="a9-s137-w12, a9-s137-w13" id="t_117" value="1873-08-10T03:00"/>
+		<t type="TIME" span="a9-s138-w18" id="t_118" value="1873-08-10TNI"/>
+		<t type="TIME" span="a9-s141-w2, a9-s141-w3" id="t_119" value="1873-08-10T04:00"/>
+		<t type="TIME" span="a9-s146-w2" id="t_120" value="1873-08-10TEV"/>
+		<t type="TIME" span="a9-s148-w20, a9-s148-w21, a9-s148-w22, a9-s148-w23, a9-s148-w24" id="t_121" value="1873-08-10T20:45"/>
+		<t type="TIME" span="a9-s150-w3" id="t_122" value="1873-08-10TMO"/>
+		<t type="TIME" span="a9-s151-w3" id="t_123" value="1873-08-10T12:00"/>
+		<t type="TIME" span="a10-s6-w3, a10-s6-w4, a10-s6-w5, a10-s6-w6" id="t_124" value="1877-08-28TEV"/>
+		<t type="TIME" span="a10-s10-w48" id="t_125" value="1873-08-06TEV"/>
+		<t type="TIME" span="a10-s19-w12" id="t_126" value="1877-08-30TMO"/>
+		<t type="TIME" span="a10-s23-w2, a10-s23-w3" id="t_127" value="1877-08-30T08:00"/>
+		<t type="TIME" span="a10-s36-w3, a10-s36-w4" id="t_128" value="1877-08-30T11:00"/>
+		<t type="TIME" span="a10-s57-w12" id="t_129" value="1877-08-30TAF"/>
+		<t type="TIME" span="a10-s63-w1, a10-s63-w2, a10-s63-w3" id="t_130" value="1877-08-30T05:00" mod="AFTER"/>
+		<t type="TIME" span="a10-s64-w31" id="t_131" value="1877-08-30TAF"/>
+		<t type="TIME" span="a10-s65-w4, a10-s65-w5" id="t_132" value="1877-08-31TNI"/>
+		<t type="TIME" span="a10-s80-w10, a10-s80-w11" id="t_133" value="1877-09-03T08:00"/>
+		<t type="TIME" span="a10-s86-w21" id="t_134" value="1877-09-03TEV"/>
+		<t type="TIME" span="a10-s91-w19, a10-s91-w20, a10-s91-w21" id="t_135" value="1877-09-04T07:00" mod="AFTER"/>
+		<t type="TIME" span="a10-s94-w7" id="t_136" value="1877-09-04TMO"/>
+		<t type="TIME" span="a10-s116-w4, a10-s116-w5" id="t_137" value="1877-09-04T01:00"/>
+		<t type="TIME" span="a10-s140-w28, a10-s140-w29" id="t_138" value="1877-09-04T04:00"/>
+		<t type="TIME" span="a10-s150-w2, a10-s150-w3" id="t_139" value="1877-09-04T07:00"/>
+		<t type="TIME" span="a10-s150-w27" id="t_140" value="1877-09-04TEV"/>
+		<t type="TIME" span="a10-s152-w29" id="t_141" value="1877-09-04TNI"/>
+		<t type="TIME" span="a10-s153-w8, a10-s153-w9" id="t_142" value="1877-09-05T05:00"/>
+		<t type="TIME" span="a10-s153-w23" id="t_143" value="1877-09-05TMO"/>
+		<t type="TIME" span="a10-s155-w15, a10-s155-w16" id="t_144" value="1877-09-05T06:00"/>
+		<t type="TIME" span="a10-s167-w7, a10-s167-w8" id="t_145" value="1877-09-06T05:00"/>
+		<t type="TIME" span="a10-s181-w19" id="t_146" value="1877-09-06TNI"/>
+		<t type="TIME" span="a10-s190-w4, a10-s190-w5" id="t_147" value="1877-09-06T08:00"/>
+		<t type="TIME" span="a10-s205-w16, a10-s205-w17" id="t_148" value="1877-09-06T11:00"/>
+		<t type="TIME" span="a10-s207-w10, a10-s207-w11, a10-s207-w12, a10-s207-w13" id="t_149" value="1877-09-06T11:40"/>
+		<t type="TIME" span="a10-s250-w31, a10-s250-w32" id="t_150" value="1877-09-06T08:00"/>
+		<t type="TIME" span="a10-s255-w1, a10-s255-w2, a10-s255-w3" id="t_151" value="1877-09-11TMO"/>
+		<t type="TIME" span="a10-s255-w11" id="t_152" value="1877-09-11TAF"/>
+		<t type="TIME" span="a10-s259-w8" id="t_153" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s260-w8" id="t_154" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s275-w2, a10-s275-w3" id="t_155" value="1877-09-13T09:00"/>
+		<t type="TIME" span="a10-s291-w4, a10-s291-w5" id="t_156" value="1877-09-13T11:00"/>
+		<t type="TIME" span="a10-s292-w8, a10-s292-w9" id="t_157" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s292-w16, a10-s292-w17" id="t_158" value="1877-09-13T10:00"/>
+		<t type="TIME" span="a10-s315-w44" id="t_159" value="1877-09-13T12:00"/>
+		<t type="TIME" span="a10-s323-w5, a10-s323-w6" id="t_160" value="1877-09-13T01:00"/>
+		<t type="TIME" span="a10-s327-w8" id="t_161" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s329-w17" id="t_162" value="1877-09-13T12:00"/>
+		<t type="TIME" span="a10-s330-w3, a10-s330-w4" id="t_163" value="1877-09-13T03:00"/>
+		<t type="TIME" span="a10-s333-w11, a10-s333-w12, a10-s333-w13" id="t_164" value="1877-09-13T18:00"/>
+		<t type="TIME" span="a10-s333-w29" id="t_165" value="1877-09-13TNI"/>
+		<t type="TIME" span="a10-s352-w39" id="t_166" value="1877-09-13TNI"/>
+		<t type="TIME" span="a10-s360-w60" id="t_167" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s361-w3, a10-s361-w4" id="t_168" value="1877-09-13T10:00"/>
+		<t type="TIME" span="a10-s363-w4, a10-s363-w5" id="t_169" value="1877-09-13T11:00"/>
+		<t type="TIME" span="a10-s376-w40" id="t_170" value="1877-09-13TNI"/>
+		<t type="TIME" span="a10-s388-w9" id="t_171" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s389-w3, a10-s389-w4" id="t_172" value="1877-09-13T03:00"/>
+		<t type="TIME" span="a10-s403-w16" id="t_173" value="1877-09-13TNI"/>
+		<t type="TIME" span="a10-s406-w5" id="t_174" value="1877-09-13TNI"/>
+		<t type="TIME" span="a10-s407-w11, a10-s407-w12" id="t_175" value="1878-08-11TMO"/>
+		<t type="TIME" span="a10-s407-w21" id="t_176" value="1877-09-13TMO"/>
+		<t type="TIME" span="a10-s408-w4, a10-s408-w5" id="t_177" value="1877-09-13T09:00"/>
+		<t type="TIME" span="a10-s408-w10, a10-s408-w11, a10-s408-w12" id="t_178" value="1877-09-13T00:30"/>
+		<t type="TIME" span="a10-s414-w2" id="t_179" value="1877-09-13TEV"/>
+		<t type="TIME" span="a10-s418-w6, a10-s418-w7, a10-s418-w8, a10-s418-w9" id="t_180" value="1878-08-05T06:00"/>
+		<t type="TIME" span="a10-s419-w20" id="t_181" value="1878-08-05TNI"/>
+		<t type="TIME" span="a10-s455-w4, a10-s455-w5" id="t_182" value="1878-08-05T09:00"/>
+		<t type="TIME" span="a10-s496-w4" id="t_183" value="1878-08-05TEV"/>
+		<t type="TIME" span="a10-s497-w23, a10-s497-w24, a10-s497-w25" id="t_184" value="1878-08-06T20:00"/>
+		<t type="TIME" span="a11-s16-w18, a11-s16-w19, a11-s16-w20" id="t_185" value="1878-06-23T16:00"/>
+		<t type="TIME" span="a11-s20-w15, a11-s20-w16, a11-s20-w17" id="t_186" value="1878-06-22T17:00"/>
+		<t type="TIME" span="a11-s25-w1, a11-s25-w2, a11-s25-w3" id="t_187" value="1878-06-22T04:00"/>
+		<t type="TIME" span="a11-s48-w2, a11-s48-w3" id="t_188" value="1878-06-23T08:00"/>
+		<t type="TIME" span="a11-s63-w2, a11-s63-w3, a11-s63-w4" id="t_189" value="1878-06-23T10:30"/>
+		<t type="TIME" span="a11-s80-w3, a11-s80-w4, a11-s80-w5" id="t_190" value="1878-06-23T11:30"/>
+		<t type="TIME" span="a11-s131-w1, a11-s131-w2" id="t_191" value="1878-06-23T02:00"/>
+		<t type="TIME" span="a11-s148-w16, a11-s148-w17, a11-s148-w18" id="t_192" value="1878-06-21T06:00" mod="BEFORE"/>
+		<t type="TIME" span="a12-s4-w3, a12-s4-w4, a12-s4-w5, a12-s4-w6, a12-s4-w7, a12-s4-w8" id="t_193" value="1878-08-09TMO"/>
+		<t type="TIME" span="a12-s4-w36" id="t_194" value="1878-08-09T12:00"/>
+		<t type="TIME" span="a12-s23-w7, a12-s23-w8" id="t_195" value="1878-08-09T03:00"/>
+		<t type="TIME" span="a12-s24-w3, a12-s24-w4, a12-s24-w5, a12-s24-w6" id="t_196" value="1878-08-09T02:50"/>
+		<t type="TIME" span="a12-s46-w5" id="t_197" value="1878-08-09TEV"/>
+		<t type="TIME" span="a12-s64-w3" id="t_198" value="1876-07-22TEV"/>
+		<t type="TIME" span="a12-s66-w17, a12-s66-w18" id="t_199" value="1876-07-22TMO"/>
+		<t type="TIME" span="a12-s70-w4" id="t_200" value="1876-07-22TEV"/>
+		<t type="TIME" span="a12-s73-w22" id="t_201" value="1876-07-22TEV"/>
+		<t type="TIME" span="a12-s77-w5, a12-s77-w6, a12-s77-w7" id="t_202" value="1876-07-22T03:00"/>
+		<t type="TIME" span="a12-s78-w6" id="t_203" value="1876-07-22TMO"/>
+		<t type="TIME" span="a12-s79-w3, a12-s79-w4" id="t_204" value="1876-07-22T04:00"/>
+		<t type="TIME" span="a12-s157-w2, a12-s157-w3, a12-s157-w4, a12-s157-w5" id="t_205" value="1876-07-23T08:50"/>
+		<t type="TIME" span="a12-s186-w4, a12-s186-w5, a12-s186-w6" id="t_206" value="1876-07-23T01:00" mod="BEFORE"/>
+		<t type="TIME" span="a12-s191-w61" id="t_207" value="1876-07-23TNI"/>
+		<t type="TIME" span="a12-s203-w4" id="t_208" value="1876-07-23TEV"/>
+		<t type="TIME" span="a12-s209-w3" id="t_209" value="1876-07-23TNI"/>
+		<t type="TIME" span="a12-s210-w1, a12-s210-w2, a12-s210-w3" id="t_210" value="1876-07-23TMO"/>
+		<t type="TIME" span="a12-s255-w15" id="t_211" value="1871-08-12TNI"/>
+		<t type="TIME" span="a12-s267-w3, a12-s267-w4" id="t_212" value="1871-08-14T10:00"/>
+		<t type="TIME" span="a12-s267-w13" id="t_213" value="1871-08-14TNI"/>
+		<t type="TIME" span="a12-s269-w2, a12-s269-w3, a12-s269-w4, a12-s269-w5" id="t_214" value="1871-08-14T06:20"/>
+		<t type="TIME" span="a12-s331-w5" id="t_215" value="1871-08-14TNI"/>
+		<t type="TIME" span="a12-s401-w12, a12-s401-w13, a12-s401-w14" id="t_216" value="1871-08-14T19:00"/>
+		<t type="TIME" span="a13-s25-w9" id="t_217" value="1878-09-04TMO"/>
+		<t type="TIME" span="a13-s28-w16" id="t_218" value="1878-09-04TAF"/>
+		<t type="TIME" span="a13-s28-w17, a13-s28-w18, a13-s28-w19, a13-s28-w20, a13-s28-w21" id="t_219" value="1878-09-04TEV"/>
+		<t type="TIME" span="a13-s32-w8" id="t_220" value="1878-09-04TEV"/>
+		<t type="TIME" span="a13-s33-w6" id="t_221" value="1878-09-04TEV"/>
+		<t type="TIME" span="a13-s34-w1" id="t_222" value="1878-09-04TNI"/>
+		<t type="TIME" span="a13-s41-w46" id="t_223" value="1878-09-05TMO"/>
+		<t type="TIME" span="a13-s48-w1" id="t_224" value="1878-09-05TAF"/>
+		<t type="TIME" span="a13-s65-w15" id="t_225" value="1878-09-04TNI"/>
+		<t type="TIME" span="a13-s70-w23" id="t_226" value="1878-09-04TNI"/>
+		<t type="TIME" span="a13-s75-w13, a13-s75-w14" id="t_227" value="1878-09-06T05:00"/>
+		<t type="TIME" span="a13-s98-w47" id="t_228" value="1878-09-05TNI"/>
+		<t type="TIME" span="a13-s119-w19" id="t_229" value="1878-07-31TNI"/>
+		<t type="TIME" span="a13-s132-w2, a13-s132-w3" id="t_230" value="1878-09-07T01:00"/>
+		<t type="TIME" span="a13-s135-w9" id="t_231" value="1878-09-07TEV"/>
+		<t type="TIME" span="a13-s141-w7" id="t_232" value="1878-09-08TMO"/>
+		<t type="TIME" span="a13-s145-w17" id="t_233" value="1878-09-08TEV"/>
+		<t type="TIME" span="a14-s188-w23" id="t_234" value="1879-01-01TNI"/>
+		<t type="TIME" span="a14-s311-w2" id="t_235" value="1879-01-01TMO"/>
+		<t type="TIME" span="a15-s16-w11" id="t_236" value="1875-12-30T12:00"/>
+		<t type="TIME" span="a15-s17-w83" id="t_237" value="1875-12-30TMO"/>
+		<t type="TIME" span="a15-s105-w4" id="t_238" value="1875-12-30TMO"/>
+		<t type="TIME" span="a16-s20-w21" id="t_239" value="1875-12-30TNI"/>
+		<t type="TIME" span="a17-s22-w42" id="t_240" value="1879-03-21TEV"/>
+		<t type="TIME" span="a17-s66-w12" id="t_241" value="1879-03-21TNI"/>
+		<t type="TIME" span="a17-s165-w2" id="t_242" value="1155-06-18TEV"/>
+		<t type="TIME" span="a17-s166-w5, a17-s166-w6, a17-s166-w7" id="t_243" value="1879-03-21TMO"/>
+		<t type="TIME" span="a17-s194-w41, a17-s194-w42" id="t_244" value="1879-03-22TNI"/>
+		<t type="TIME" span="a18-s4-w39" id="t_245" value="1155-06-19TNI"/>
+		<t type="TIME" span="a18-s13-w19" id="t_246" value="1155-06-19TEV"/>
+		<t type="TIME" span="a18-s25-w3" id="t_247" value="1155-06-19TEV"/>
+		<t type="TIME" span="a18-s138-w17, a18-s138-w18" id="t_248" value="1155-05-01TMO"/>
+		<t type="TIME" span="a18-s184-w14" id="t_249" value="1155-05-01TMO"/>
+		<t type="TIME" span="a18-s214-w82" id="t_250" value="1155-05-01TNI"/>
+		<t type="TIME" span="a18-s263-w48" id="t_251" value="1155-12-28TNI"/>
+		<t type="TIME" span="a18-s265-w36" id="t_252" value="1155-12-28TNI"/>
+		<t type="TIME" span="a18-s296-w10" id="t_253" value="1155-12-28TNI"/>
+		<t type="TIME" span="a20-s5-w19" id="t_254" value="1155-12-28TNI"/>
+		<t type="TIME" span="a20-s9-w35" id="t_255" value="1155-12-28TNI"/>
+		<t type="TIME" span="a20-s13-w1, a20-s13-w2, a20-s13-w3, a20-s13-w4, a20-s13-w5" id="t_256" value="1155-12-28T13:30"/>
+		<t type="TIME" span="a20-s13-w11, a20-s13-w12, a20-s13-w13" id="t_257" value="1155-12-28T19:00"/>
+		<t type="TIME" span="a20-s15-w1, a20-s15-w2" id="t_258" value="1155-12-28T03:00"/>
+		<t type="TIME" span="a20-s15-w7, a20-s15-w8, a20-s15-w9, a20-s15-w10" id="t_259" value="1155-12-28T07:30"/>
+		<t type="TIME" span="a20-s15-w14, a20-s15-w15, a20-s15-w16, a20-s15-w17" id="t_260" value="1874-08-11T11:40"/>
+		<t type="TIME" span="a20-s15-w21, a20-s15-w22" id="t_261" value="1155-12-28T12:00"/>
+		<t type="TIME" span="a20-s15-w37, a20-s15-w38" id="t_262" value="1155-12-28T01:00"/>
+		<t type="TIME" span="a20-s15-w45, a20-s15-w46, a20-s15-w47, a20-s15-w48" id="t_263" value="1155-12-28T01:20"/>
+		<t type="TIME" span="a20-s15-w55, a20-s15-w56" id="t_264" value="1155-12-28T05:00"/>
+		<t type="TIME" span="a20-s17-w1, a20-s17-w2" id="t_265" value="1155-12-28T05:00"/>
+		<t type="TIME" span="a20-s17-w14, a20-s17-w15, a20-s17-w16, a20-s17-w17, a20-s17-w18" id="t_266" value="1155-12-28T13:30"/>
+		<t type="TIME" span="a20-s21-w2, a20-s21-w3" id="t_267" value="1874-08-12T03:00"/>
+		<t type="TIME" span="a20-s43-w2, a20-s43-w3" id="t_268" value="1874-08-13T08:00"/>
+		<t type="TIME" span="a20-s48-w1, a20-s48-w2, a20-s48-w3, a20-s48-w4, a20-s48-w5" id="t_269" value="1874-08-13T11:40"/>
+		<t type="TIME" span="a20-s48-w14, a20-s48-w15" id="t_270" value="1874-08-13T12:00"/>
+		<t type="TIME" span="a20-s65-w8, a20-s65-w9" id="t_271" value="1874-08-13T02:00"/>
+		<t type="TIME" span="a20-s66-w2, a20-s66-w3" id="t_272" value="1874-08-13T05:00"/>
+		<t type="TIME" span="a21-s77-w3" id="t_273" value="1878-08-12T12:00"/>
+		<t type="TIME" span="a21-s79-w6" id="t_274" value="1878-08-12T12:00"/>
+		<t type="TIME" span="a21-s102-w25" id="t_275" value="1878-08-12T12:00"/>
+		<t type="TIME" span="a22-s4-w23" id="t_276" value="1878-08-12TMO"/>
+		<t type="TIME" span="a22-s4-w49" id="t_277" value="1878-08-12TMO"/>
+		<t type="TIME" span="a22-s6-w7" id="t_278" value="1878-08-12TEV"/>
+		<t type="TIME" span="a22-s7-w2, a22-s7-w3, a22-s7-w4" id="t_279" value="1878-08-12T14:00"/>
+		<t type="TIME" span="a22-s8-w2" id="t_280" value="1878-08-12T12:00"/>
+		<t type="TIME" span="a23-s45-w6" id="t_281" value="1876-08-14TNI"/>
+		<t type="TIME" span="a24-s21-w14, a24-s21-w15" id="t_282" value="1876-08-14T07:00"/>
+		<t type="TIME" span="a24-s21-w27" id="t_283" value="1876-08-14TNI"/>
+		<t type="TIME" span="a24-s22-w10" id="t_284" value="1876-08-14T24:00"/>
+		<t type="TIME" span="a24-s44-w35" id="t_285" value="1876-08-14TNI"/>
+		<t type="TIME" span="a25-s11-w5, a25-s11-w6, a25-s11-w7, a25-s11-w8" id="t_286" value="1878-07-18T08:00" mod="APPROX"/>
+		<t type="TIME" span="a25-s12-w5, a25-s12-w6, a25-s12-w7" id="t_287" value="1878-07-18T16:00"/>
+		<t type="TIME" span="a25-s12-w14" id="t_288" value="1878-07-18TMO"/>
+		<t type="TIME" span="a25-s12-w38" id="t_289" value="1878-07-19TAF"/>
+		<t type="TIME" span="a25-s12-w39, a25-s12-w40, a25-s12-w41" id="t_290" value="1878-07-19T02:30"/>
+		<t type="TIME" span="a27-s1-w2" id="t_291" value="1878-07-22TNI"/>
+		<t type="TIME" span="a41-s12-w4" id="t_292" value="1872-07-15TEV"/>
+		<t type="TIME" span="2-26-20, a2-s26-w21" id="t_293" value="XXXX-XX-XXTNI"/>
+		<t type="TIME" span="2-157-3, a2-s157-w4" id="t_294" value="1859-07-12T03:00"/>
+		<t type="TIME" span="2-159-20" id="t_295" value="1866-11-07T12:00"/>
+		<t type="TIME" span="2-177-4, a2-s177-w5" id="t_296" value="1859-07-12TNI"/>
+		<t type="TIME" span="2-191-7" id="t_297" value="1866-11-08T12:00"/>
+		<t type="TIME" span="2-196-55, a2-s196-w56" id="t_298" value="1866-11-08T04:00"/>
+		<t type="TIME" span="2-197-22, a2-s197-w23" id="t_299" value="1866-11-08T05:00"/>
+		<t type="TIME" span="2-207-6, a2-s207-w7" id="t_300" value="1866-11-08T01:00"/>
+		<t type="TIME" span="2-243-1, a2-s243-w2" id="t_301" value="1867-06-26T04:00"/>
+		<t type="TIME" span="2-243-6, a2-s243-w7" id="t_302" value="1866-11-08T05:00"/>
+		<t type="TIME" span="2-271-8, a2-s271-w9" id="t_303" value="1866-11-08T01:00"/>
+		<t type="TIME" span="2-272-4, a2-s272-w5" id="t_304" value="1866-11-08T01:00"/>
+		<t type="TIME" span="2-277-35" id="t_305" value="1866-11-08TMO"/>
+		<t type="TIME" span="2-277-38" id="t_306" value="1866-11-08TEV"/>
+		<t type="TIME" span="2-313-12" id="t_307" value="1866-11-08TAF"/>
+		<t type="TIME" span="2-313-14, a2-s313-w15" id="t_308" value="1866-11-08TEV"/>
+		<t type="TIME" span="2-321-4" id="t_309" value="1866-11-08TMO"/>
+		<t type="TIME" span="2-394-2, a2-s394-w3" id="t_310" value="1866-11-08TNI"/>
+		<t type="TIME" span="2-404-7" id="t_311" value="1866-11-08T12:00"/>
+		<t type="TIME" span="2-409-8" id="t_312" value="1866-11-08T12:00"/>
+		<t type="TIME" span="2-438-19" id="t_313" value="1866-11-08TEV"/>
+		<t type="TIME" span="2-439-6" id="t_314" value="1866-11-08TNI"/>
+		<t type="TIME" span="2-447-8" id="t_315" value="1866-11-08TMO"/>
+		<t type="TIME" span="2-447-14" id="t_316" value="1866-11-08T24:00"/>
+		<t type="TIME" span="2-538-29, a2-s538-w30" id="t_317" value="1866-11-08TEV"/>
+		<t type="TIME" span="2-538-32, a2-s538-w33" id="t_318" value="1866-11-08TMO"/>
+		<t type="TIME" span="2-623-15" id="t_319" value="1866-11-08T12:00"/>
+		<t type="TIME" span="8-18-52, a8-s18-w53" id="t_320" value="1878-07-21TEV"/>
+		<t type="TIME" span="8-21-6, a8-s21-w7" id="t_321" value="1878-07-22T03:00"/>
+		<t type="TIME" span="8-21-10" id="t_322" value="1878-07-22TAF"/>
+		<t type="TIME" span="8-25-2, a8-s25-w3" id="t_323" value="1878-07-22T04:00"/>
+		<t type="TIME" span="8-26-2, a8-s26-w3" id="t_324" value="1878-07-22T04:00"/>
+		<t type="TIME" span="8-29-20, a8-s29-w21" id="t_325" value="1878-07-22T08:00"/>
+		<t type="TIME" span="8-29-39, a8-s29-w40" id="t_326" value="1878-07-22TNI"/>
+		<t type="TIME" span="8-30-9, a8-s30-w10" id="t_327" value="1878-07-23T05:00"/>
+		<t type="TIME" span="8-34-2, a8-s34-w3" id="t_328" value="1878-07-23T06:00"/>
+		<t type="TIME" span="8-35-2, a8-s35-w3" id="t_329" value="1878-07-23T08:00"/>
+		<t type="TIME" span="8-41-16, a8-s41-w17" id="t_330" value="1878-07-23T09:00"/>
+		<t type="TIME" span="8-43-15, a8-s43-w16" id="t_331" value="1878-07-23T10:00"/>
+		<t type="TIME" span="8-60-21, a8-s60-w22" id="t_332" value="1878-07-22T12:00"/>
+		<t type="TIME" span="8-63-2, a8-s63-w3" id="t_333" value="1878-07-22T12:00"/>
+		<t type="TIME" span="8-65-36, a8-s65-w37" id="t_334" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-68-2, a8-s68-w3" id="t_335" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-69-2, a8-s69-w3" id="t_336" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-69-23, a8-s69-w24" id="t_337" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-74-2, a8-s74-w3" id="t_338" value="1878-07-22T02:00"/>
+		<t type="TIME" span="8-80-2, a8-s80-w3" id="t_339" value="1878-07-22T03:00"/>
+		<t type="TIME" span="8-87-2, a8-s87-w3" id="t_340" value="1878-07-22T05:00"/>
+		<t type="TIME" span="8-93-6, a8-s93-w7" id="t_341" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-94-9, a8-s94-w10" id="t_342" value="1878-07-22T02:00"/>
+		<t type="TIME" span="8-94-34, a8-s94-w35" id="t_343" value="1878-07-22T01:00"/>
+		<t type="TIME" span="8-94-44, a8-s94-w45" id="t_344" value="1878-07-22T02:00"/>
+		<t type="TIME" span="8-96-1, a8-s96-w2" id="t_345" value="1878-07-22T09:00"/>
+		<t type="TIME" span="8-106-40" id="t_346" value="1878-07-22TMO"/>
+		<t type="TIME" span="8-108-32, a8-s108-w33" id="t_347" value="1878-07-22T02:00"/>
+		<t type="TIME" span="8-108-36" id="t_348" value="1878-07-22TAF"/>
+		<t type="TIME" span="8-113-11, a8-s113-w12" id="t_349" value="1878-07-22T04:00"/>
+		<t type="TIME" span="8-118-4, a8-s118-w5" id="t_350" value="1878-07-22T08:00"/>
+		<t type="TIME" span="8-127-10, a8-s127-w11" id="t_351" value="1878-07-23TNI"/>
+		<t type="TIME" span="8-131-1, a8-s131-w2" id="t_352" value="1878-07-23TEV"/>
+		<t type="TIME" span="8-137-10" id="t_353" value="1878-07-24TEV"/>
+		<t type="TIME" span="8-138-22, a8-s138-w23" id="t_354" value="1878-07-24T03:00"/>
+		<t type="TIME" span="8-138-25" id="t_355" value="1878-07-24TMO"/>
+		<t type="TIME" span="8-141-19, a8-s141-w20" id="t_356" value="1878-07-24T04:00"/>
+		<t type="TIME" span="8-149-20, a8-s149-w21" id="t_357" value="1878-07-24T06:00"/>
+		<t type="TIME" span="8-153-4, a8-s153-w5" id="t_358" value="1878-07-26T07:00"/>
+		<t type="TIME" span="8-165-3, a8-s165-w4" id="t_359" value="1878-07-24T08:00"/>
+		<t type="TIME" span="8-167-2, a8-s167-w3" id="t_360" value="1878-07-24T08:00"/>
+		<t type="TIME" span="8-174-2, a8-s174-w3" id="t_361" value="1878-07-24T10:00"/>
+		<t type="TIME" span="8-177-7, a8-s177-w8" id="t_362" value="1878-07-24T10:00"/>
+		<t type="TIME" span="8-177-31, a8-s177-w32" id="t_363" value="1878-07-24T11:00"/>
+		<t type="TIME" span="8-183-2, a8-s183-w3" id="t_364" value="1878-07-24T11:00"/>
+		<t type="TIME" span="8-189-4, a8-s189-w5" id="t_365" value="1878-07-24T12:00"/>
+		<t type="TIME" span="8-198-2, a8-s198-w3" id="t_366" value="1878-07-24T01:00"/>
+		<t type="TIME" span="8-198-27, a8-s198-w28" id="t_367" value="1878-07-24T02:00"/>
+		<t type="TIME" span="8-199-2, a8-s199-w3" id="t_368" value="1878-07-24T02:00"/>
+		<t type="TIME" span="8-200-6, a8-s200-w7" id="t_369" value="1878-07-24T03:00"/>
+		<t type="TIME" span="8-201-2, a8-s201-w3" id="t_370" value="1878-07-24T03:00"/>
+		<t type="TIME" span="8-203-9, a8-s203-w10" id="t_371" value="1878-07-24T05:00"/>
+		<t type="TIME" span="8-204-11, a8-s204-w12" id="t_372" value="1878-07-24T03:00"/>
+		<t type="TIME" span="8-205-1, a8-s205-w2" id="t_373" value="1878-07-24T15:00"/>
+		<t type="TIME" span="8-219-2, a8-s219-w3" id="t_374" value="1878-07-24T06:00"/>
+		<t type="TIME" span="8-220-17, a8-s220-w18" id="t_375" value="1878-07-26T07:00"/>
+		<t type="TIME" span="8-232-8, a8-s232-w9" id="t_376" value="1878-07-25TEV"/>
+		<t type="TIME" span="8-235-24, a8-s235-w25" id="t_377" value="1878-07-25T04:00"/>
+		<t type="TIME" span="8-241-11, a8-s241-w12" id="t_378" value="1878-07-29T07:00"/>
+		<t type="TIME" span="8-242-4" id="t_379" value="1878-07-26TEV"/>
+		<t type="TIME" span="8-246-7, a8-s246-w8" id="t_380" value="1878-07-26T04:00"/>
+		<t type="TIME" span="8-246-10" id="t_381" value="1878-07-26TMO"/>
+		<t type="TIME" span="8-250-9, a8-s250-w10" id="t_382" value="1878-07-26T06:00"/>
+		<t type="TIME" span="8-250-28, a8-s250-w29" id="t_383" value="1878-07-26TEV"/>
+		<t type="TIME" span="8-251-21, a8-s251-w22" id="t_384" value="1878-07-28T07:00"/>
+		<t type="TIME" span="8-255-17" id="t_385" value="1878-07-26T12:00"/>
+		<t type="TIME" span="8-260-2, a8-s260-w3" id="t_386" value="1878-07-26T12:00"/>
+		<t type="TIME" span="8-260-39, a8-s260-w40" id="t_387" value="1878-07-26T12:00"/>
+		<t type="TIME" span="8-261-2, a8-s261-w3" id="t_388" value="1878-07-26T01:00"/>
+		<t type="TIME" span="8-266-3, a8-s266-w4" id="t_389" value="1878-07-26T02:00"/>
+		<t type="TIME" span="8-269-9, a8-s269-w10" id="t_390" value="1878-07-26T03:00"/>
+		<t type="TIME" span="8-270-2, a8-s270-w3" id="t_391" value="1878-07-26T03:00"/>
+		<t type="TIME" span="8-270-29, a8-s270-w30" id="t_392" value="1878-07-26T05:00"/>
+		<t type="TIME" span="8-289-9" id="t_393" value="1878-07-27TMO"/>
+		<t type="TIME" span="8-290-9, a8-s290-w10" id="t_394" value="1878-07-27T04:00"/>
+		<t type="TIME" span="8-290-23, a8-s290-w24" id="t_395" value="1878-07-27T05:00"/>
+		<t type="TIME" span="8-292-2, a8-s292-w3" id="t_396" value="1878-07-27T08:00"/>
+		<t type="TIME" span="8-297-13, a8-s297-w14" id="t_397" value="1878-07-27T01:00"/>
+		<t type="TIME" span="8-298-7, a8-s298-w8" id="t_398" value="1878-07-27T02:00"/>
+		<t type="TIME" span="8-310-32, a8-s310-w33" id="t_399" value="1878-07-27T02:00"/>
+		<t type="TIME" span="8-314-2, a8-s314-w3" id="t_400" value="1878-07-27T04:00"/>
+		<t type="TIME" span="8-314-15, a8-s314-w16" id="t_401" value="1878-07-27T05:00"/>
+		<t type="TIME" span="8-316-2, a8-s316-w3" id="t_402" value="1878-08-02T12:00"/>
+		<t type="TIME" span="8-329-27, a8-s329-w28" id="t_403" value="1878-07-27TNI"/>
+		<t type="TIME" span="8-337-4, a8-s337-w5" id="t_404" value="1878-07-27TNI"/>
+		<t type="TIME" span="8-358-29, a8-s358-w30" id="t_405" value="1878-07-28TNI"/>
+		<t type="TIME" span="8-360-21, a8-s360-w22" id="t_406" value="1878-07-28T04:00"/>
+		<t type="TIME" span="8-363-4, a8-s363-w5" id="t_407" value="1878-07-28T04:00"/>
+		<t type="TIME" span="8-363-16, a8-s363-w17" id="t_408" value="1878-07-28T04:00"/>
+		<t type="TIME" span="8-368-2, a8-s368-w3" id="t_409" value="1878-08-05T05:00"/>
+		<t type="TIME" span="8-368-27, a8-s368-w28" id="t_410" value="1878-07-28T06:00"/>
+		<t type="TIME" span="8-378-4, a8-s378-w5" id="t_411" value="1878-07-28T07:00"/>
+		<t type="TIME" span="8-382-1, a8-s382-w2" id="t_412" value="1878-07-28T14:00"/>
+		<t type="TIME" span="8-383-10, a8-s383-w11" id="t_413" value="1878-08-05T08:00"/>
+		<t type="TIME" span="8-421-11, a8-s421-w12" id="t_414" value="1878-07-28T12:00"/>
+		<t type="TIME" span="8-435-20, a8-s435-w21" id="t_415" value="1878-07-28T12:00"/>
+		<t type="TIME" span="8-437-2, a8-s437-w3" id="t_416" value="1878-07-28T01:00"/>
+		<t type="TIME" span="8-437-18, a8-s437-w19" id="t_417" value="1878-07-28T01:00"/>
+		<t type="TIME" span="8-438-102, a8-s438-w103" id="t_418" value="1878-07-28T01:00"/>
+		<t type="TIME" span="8-445-9, a8-s445-w10" id="t_419" value="1878-07-28T03:00"/>
+		<t type="TIME" span="8-447-34, a8-s447-w35" id="t_420" value="1878-07-28T03:00"/>
+		<t type="TIME" span="8-449-3, a8-s449-w4" id="t_421" value="1878-07-28T04:00"/>
+		<t type="TIME" span="8-457-30, a8-s457-w31" id="t_422" value="1878-07-28T04:00"/>
+		<t type="TIME" span="8-464-12, a8-s464-w13" id="t_423" value="1878-07-28T06:00"/>
+		<t type="TIME" span="8-470-25, a8-s470-w26" id="t_424" value="1878-07-28TEV"/>
+		<t type="TIME" span="8-474-19, a8-s474-w20" id="t_425" value="1878-08-05T08:00"/>
+		<t type="TIME" span="8-476-28, a8-s476-w29" id="t_426" value="1878-07-29TMO"/>
+		<t type="TIME" span="8-478-9, a8-s478-w10" id="t_427" value="1878-07-29T02:00"/>
+		<t type="TIME" span="8-478-19, a8-s478-w20" id="t_428" value="1878-07-29T02:00"/>
+		<t type="TIME" span="8-478-65, a8-s478-w66" id="t_429" value="1878-07-29T03:00"/>
+		<t type="TIME" span="8-480-1, a8-s480-w2" id="t_430" value="1878-08-06T16:00"/>
+		<t type="TIME" span="8-480-5, a8-s480-w6" id="t_431" value="1878-07-29T09:00"/>
+		<t type="TIME" span="8-480-11, a8-s480-w12" id="t_432" value="1878-07-29T07:00"/>
+		<t type="TIME" span="8-482-9" id="t_433" value="1878-07-29TMO"/>
+		<t type="TIME" span="8-482-56, a8-s482-w57" id="t_434" value="1878-07-29T12:00"/>
+		<t type="TIME" span="8-490-4, a8-s490-w5" id="t_435" value="1878-08-06T12:00"/>
+		<t type="TIME" span="8-494-2, a8-s494-w3" id="t_436" value="1878-07-31T03:00"/>
+		<t type="TIME" span="8-494-33, a8-s494-w34" id="t_437" value="1878-07-31T03:00"/>
+		<t type="TIME" span="8-495-2, a8-s495-w3" id="t_438" value="1878-07-31T05:00"/>
+		<t type="TIME" span="8-497-34, a8-s497-w35" id="t_439" value="1878-07-31TNI"/>
+		<t type="TIME" span="8-498-6, a8-s498-w7" id="t_440" value="1878-07-31T04:00"/>
+		<t type="TIME" span="8-498-9" id="t_441" value="1878-07-31TMO"/>
+		<t type="TIME" span="8-502-21, a8-s502-w22" id="t_442" value="1878-08-06T06:00"/>
+		<t type="TIME" span="8-513-19, a8-s513-w20" id="t_443" value="1878-08-01T11:00"/>
+		<t type="TIME" span="8-514-20, a8-s514-w21" id="t_444" value="1878-08-01TMO"/>
+		<t type="TIME" span="8-527-15, a8-s527-w16" id="t_445" value="1878-08-01T04:00"/>
+		<t type="TIME" span="44-73-21" id="t_446" value="1878-09-02T12:00"/>
+		<t type="TIME" span="45-60-35" id="t_447" value="1878-12-31T12:00"/>
+		<t type="TIME" span="45-87-1" id="t_448" value="1878-12-31TEV"/>
+		<t type="TIME" span="46-289-7" id="t_449" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-306-2" id="t_450" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-331-1" id="t_451" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-336-12" id="t_452" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-341-3" id="t_453" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-342-12" id="t_454" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-351-1" id="t_455" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-352-1" id="t_456" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-579-3" id="t_457" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-587-3" id="t_458" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-608-3" id="t_459" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-610-3" id="t_460" value="1878-12-31T12:00"/>
+		<t type="TIME" span="46-678-8" id="t_461" value="1878-12-31T12:00"/>
+		<t type="DATE" span="a1-s3-w13, a1-s3-w14" id="t_462" value="FUTURE_REF"/>
+		<t type="DATE" span="a1-s5-w3" id="t_463" value="PRESENT_REF"/>
+		<t type="DATE" span="a1-s5-w4, a1-s5-w5" id="t_464" value="XXXX"/>
+		<t type="DATE" span="a1-s7-w4, a1-s7-w5" id="t_465" value="1876"/>
+		<t type="DATE" span="a1-s7-w7" id="t_466" value="1877"/>
+		<t type="DATE" span="a1-s12-w7" id="t_467" value="PRESENT_REF"/>
+		<t type="DATE" span="a1-s21-w39" id="t_468" value="PRESENT_REF"/>
+		<t type="DATE" span="a1-s24-w5, a1-s24-w6" id="t_469" value="1879"/>
+		<t type="DATE" span="a1-s26-w4, a1-s26-w5" id="t_470" value="1879-05"/>
+		<t type="DATE" span="a3-s1-w4" id="t_471" value="1878"/>
+		<t type="DATE" span="a3-s1-w4" id="t_472" value="1879"/>
+		<t type="DATE" span="a3-s4-w10" id="t_473" value="1876"/>
+		<t type="DATE" span="a3-s4-w31, a3-s4-w32" id="t_474" value="1878"/>
+		<t type="DATE" span="a3-s4-w34" id="t_475" value="1879"/>
+		<t type="DATE" span="a3-s8-w4" id="t_476" value="PRESENT_REF"/>
+		<t type="DATE" span="a3-s13-w8" id="t_477" value="1796"/>
+		<t type="DATE" span="a3-s13-w15" id="t_478" value="1794"/>
+		<t type="DATE" span="a3-s13-w19" id="t_479" value="1717"/>
+		<t type="DATE" span="a3-s17-w19" id="t_480" value="1717-SU"/>
+		<t type="DATE" span="a3-s28-w6, a3-s28-w7, a3-s28-w8" id="t_481" value="1878-07-21"/>
+		<t type="DATE" span="a3-s31-w34, a3-s31-w35" id="t_482" value="1878-07"/>
+		<t type="DATE" span="a3-s35-w43" id="t_483" value="1878"/>
+		<t type="DATE" span="a3-s45-w31, a3-s45-w32, a3-s45-w33" id="t_484" value="1878-07-21"/>
+		<t type="DATE" span="a3-s46-w9" id="t_485" value="1875"/>
+		<t type="DATE" span="a3-s46-w13, a3-s46-w14" id="t_486" value="1879"/>
+		<t type="DATE" span="a3-s46-w19, a3-s46-w20" id="t_487" value="1877"/>
+		<t type="DATE" span="a3-s48-w3" id="t_488" value="1878"/>
+		<t type="DATE" span="a3-s53-w35" id="t_489" value="1876"/>
+		<t type="DATE" span="a3-s54-w11" id="t_490" value="1878-07-21"/>
+		<t type="DATE" span="a3-s65-w7" id="t_491" value="PRESENT_REF"/>
+		<t type="DATE" span="a3-s67-w7" id="t_492" value="1876-SU"/>
+		<t type="DATE" span="a3-s67-w68" id="t_493" value="1876-WI"/>
+		<t type="DATE" span="a3-s71-w1" id="t_494" value="1876"/>
+		<t type="DATE" span="a3-s71-w3, a3-s71-w4" id="t_495" value="1876-06-04"/>
+		<t type="DATE" span="a3-s72-w1" id="t_496" value="1877"/>
+		<t type="DATE" span="a3-s72-w3, a3-s72-w4" id="t_497" value="1877-06-16"/>
+		<t type="DATE" span="a3-s73-w5, a3-s73-w6" id="t_498" value="1877-06-16"/>
+		<t type="DATE" span="a3-s74-w1" id="t_499" value="1878"/>
+		<t type="DATE" span="a3-s74-w4, a3-s74-w5" id="t_500" value="1878-06-24"/>
+		<t type="DATE" span="a3-s75-w29" id="t_501" value="1878-06"/>
+		<t type="DATE" span="a3-s76-w11, a3-s76-w12, a3-s76-w13" id="t_502" value="1878-05-21"/>
+		<t type="DATE" span="a3-s78-w17, a3-s78-w18" id="t_503" value="1878-H1"/>
+		<t type="DATE" span="a3-s78-w19" id="t_504" value="1878-04"/>
+		<t type="DATE" span="a3-s78-w23, a3-s78-w24" id="t_505" value="1878-H1"/>
+		<t type="DATE" span="a3-s78-w27" id="t_506" value="1878-10"/>
+		<t type="DATE" span="a3-s79-w16" id="t_507" value="1878-SP"/>
+		<t type="DATE" span="a3-s80-w5, a3-s80-w6" id="t_508" value="1878-SP"/>
+		<t type="DATE" span="a3-s81-w1" id="t_509" value="1877"/>
+		<t type="DATE" span="a3-s81-w3, a3-s81-w4" id="t_510" value="1877-05-18"/>
+		<t type="DATE" span="a3-s82-w1" id="t_511" value="1877"/>
+		<t type="DATE" span="a3-s82-w3, a3-s82-w4" id="t_512" value="1877-07-16"/>
+		<t type="DATE" span="a3-s83-w1" id="t_513" value="1878"/>
+		<t type="DATE" span="a3-s83-w3, a3-s83-w4" id="t_514" value="1878-07-26"/>
+		<t type="DATE" span="a3-s84-w41, a3-s84-w42" id="t_515" value="1877"/>
+		<t type="DATE" span="a3-s92-w11, a3-s92-w12" id="t_516" value="1877"/>
+		<t type="DATE" span="a3-s92-w14, a3-s92-w15" id="t_517" value="1878-FA"/>
+		<t type="DATE" span="a3-s93-w2, a3-s93-w3" id="t_518" value="1878"/>
+		<t type="DATE" span="a3-s95-w12" id="t_519" value="1878-WI"/>
+		<t type="DATE" span="a3-s97-w2, a3-s97-w3" id="t_520" value="1877"/>
+		<t type="DATE" span="a3-s99-w2, a3-s99-w3" id="t_521" value="1877-05"/>
+		<t type="DATE" span="a3-s100-w8, a3-s100-w9" id="t_522" value="1876-10"/>
+		<t type="DATE" span="a3-s100-w28, a3-s100-w29, a3-s100-w30" id="t_523" value="1881-09" mod="END"/>
+		<t type="DATE" span="a3-s103-w13" id="t_524" value="1866"/>
+		<t type="DATE" span="a3-s103-w13" id="t_525" value="1868"/>
+		<t type="DATE" span="a3-s105-w17, a3-s105-w18, a3-s105-w19" id="t_526" value="1866-06" mod="END"/>
+		<t type="DATE" span="a3-s106-w3" id="t_527" value="1866-SU"/>
+		<t type="DATE" span="a3-s106-w23" id="t_528" value="1866-WI"/>
+		<t type="DATE" span="a3-s107-w9" id="t_529" value="FUTURE_REF"/>
+		<t type="DATE" span="a3-s115-w35" id="t_530" value="1868"/>
+		<t type="DATE" span="a4-s7-w1" id="t_531" value="1785"/>
+		<t type="DATE" span="a4-s8-w5" id="t_532" value="1878"/>
+		<t type="DATE" span="a4-s8-w5" id="t_533" value="1879"/>
+		<t type="DATE" span="a4-s11-w5" id="t_534" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s38-w22" id="t_535" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s56-w1" id="t_536" value="1878"/>
+		<t type="DATE" span="a4-s57-w4, a4-s57-w5" id="t_537" value="1878-09-28"/>
+		<t type="DATE" span="a4-s57-w11, a4-s57-w12" id="t_538" value="1878-09-29"/>
+		<t type="DATE" span="a4-s57-w20, a4-s57-w21" id="t_539" value="1878-09-30"/>
+		<t type="DATE" span="a4-s58-w1, a4-s58-w2" id="t_540" value="1878-09-01"/>
+		<t type="DATE" span="a4-s58-w3" id="t_541" value="1878-10"/>
+		<t type="DATE" span="a4-s62-w5, a4-s62-w6" id="t_542" value="1878-W34"/>
+		<t type="DATE" span="a4-s64-w11, a4-s64-w12" id="t_543" value="1865"/>
+		<t type="DATE" span="a4-s75-w7, a4-s75-w8" id="t_544" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s86-w1, a4-s86-w2, a4-s86-w3" id="t_545" value="1868"/>
+		<t type="DATE" span="a4-s90-w7, a4-s90-w8, a4-s90-w9" id="t_546" value="1876"/>
+		<t type="DATE" span="a4-s92-w7, a4-s92-w8" id="t_547" value="1868-09"/>
+		<t type="DATE" span="a4-s109-w3" id="t_548" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s115-w2" id="t_549" value="1877"/>
+		<t type="DATE" span="a4-s115-w14" id="t_550" value="1876"/>
+		<t type="DATE" span="a4-s124-w1, a4-s124-w2, a4-s124-w3, a4-s124-w4" id="t_551" value="1868-09-05"/>
+		<t type="DATE" span="a4-s127-w21" id="t_552" value="1864"/>
+		<t type="DATE" span="a4-s134-w9, a4-s134-w10" id="t_553" value="1878-09-29"/>
+		<t type="DATE" span="a4-s134-w12, a4-s134-w13" id="t_554" value="1868-09-06"/>
+		<t type="DATE" span="a4-s138-w15" id="t_555" value="1875"/>
+		<t type="DATE" span="a4-s138-w26" id="t_556" value="1868"/>
+		<t type="DATE" span="a4-s139-w1" id="t_557" value="1875"/>
+		<t type="DATE" span="a4-s153-w12, a4-s153-w13, a4-s153-w14" id="t_558" value="1868-09-10"/>
+		<t type="DATE" span="a4-s170-w2, a4-s170-w3, a4-s170-w4" id="t_559" value="186X"/>
+		<t type="DATE" span="a4-s171-w1" id="t_560" value="1869"/>
+		<t type="DATE" span="a4-s173-w3, a4-s173-w4" id="t_561" value="187X"/>
+		<t type="DATE" span="a4-s174-w2, a4-s174-w3" id="t_562" value="1875-08"/>
+		<t type="DATE" span="a4-s174-w8" id="t_563" value="1869"/>
+		<t type="DATE" span="a4-s175-w36" id="t_564" value="1868-08"/>
+		<t type="DATE" span="a4-s177-w1, a4-s177-w2, a4-s177-w3" id="t_565" value="1868-08-11"/>
+		<t type="DATE" span="a4-s181-w1, a4-s181-w2, a4-s181-w3" id="t_566" value="1868-08-25"/>
+		<t type="DATE" span="a4-s186-w2" id="t_567" value="1864"/>
+		<t type="DATE" span="a4-s190-w7" id="t_568" value="1868"/>
+		<t type="DATE" span="a4-s195-w20" id="t_569" value="1864"/>
+		<t type="DATE" span="a4-s196-w1" id="t_570" value="1866"/>
+		<t type="DATE" span="a4-s196-w27, a4-s196-w28" id="t_571" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s198-w2, a4-s198-w3" id="t_572" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s202-w2" id="t_573" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s207-w18" id="t_574" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s211-w8, a4-s211-w9" id="t_575" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s212-w6" id="t_576" value="1877"/>
+		<t type="DATE" span="a4-s212-w21" id="t_577" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s216-w6" id="t_578" value="1865"/>
+		<t type="DATE" span="a4-s216-w6" id="t_579" value="1874"/>
+		<t type="DATE" span="a4-s220-w1" id="t_580" value="1874"/>
+		<t type="DATE" span="a4-s228-w4" id="t_581" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s230-w5" id="t_582" value="1865"/>
+		<t type="DATE" span="a4-s233-w10" id="t_583" value="1865"/>
+		<t type="DATE" span="a4-s248-w13, a4-s248-w14, a4-s248-w15" id="t_584" value="PAST_REF"/>
+		<t type="DATE" span="a4-s249-w7" id="t_585" value="1868"/>
+		<t type="DATE" span="a4-s249-w9" id="t_586" value="1874"/>
+		<t type="DATE" span="a4-s249-w11" id="t_587" value="1875"/>
+		<t type="DATE" span="a4-s257-w10, a4-s257-w11" id="t_588" value="187X"/>
+		<t type="DATE" span="a4-s258-w5" id="t_589" value="1878"/>
+		<t type="DATE" span="a4-s261-w3" id="t_590" value="1868"/>
+		<t type="DATE" span="a4-s263-w1, a4-s263-w2" id="t_591" value="1868-07" mod="END"/>
+		<t type="DATE" span="a4-s263-w4, a4-s263-w5, a4-s263-w6" id="t_592" value="1874-08" mod="START"/>
+		<t type="DATE" span="a4-s271-w4" id="t_593" value="1878"/>
+		<t type="DATE" span="a4-s283-w42, a4-s283-w43, a4-s283-w44" id="t_594" value="1868-SU"/>
+		<t type="DATE" span="a4-s288-w21" id="t_595" value="1859"/>
+		<t type="DATE" span="a4-s299-w9, a4-s299-w10" id="t_596" value="1868-07-27"/>
+		<t type="DATE" span="a4-s304-w1" id="t_597" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s305-w13" id="t_598" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s316-w18" id="t_599" value="1878"/>
+		<t type="DATE" span="a4-s318-w3" id="t_600" value="1875"/>
+		<t type="DATE" span="a4-s318-w5" id="t_601" value="1878"/>
+		<t type="DATE" span="a4-s319-w8" id="t_602" value="1878-08"/>
+		<t type="DATE" span="a4-s319-w14" id="t_603" value="1878-10"/>
+		<t type="DATE" span="a4-s322-w8, a4-s322-w9" id="t_604" value="1868-07-28"/>
+		<t type="DATE" span="a4-s322-w11, a4-s322-w12, a4-s322-w13" id="t_605" value="1874-07-29"/>
+		<t type="DATE" span="a4-s322-w22" id="t_606" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s324-w13, a4-s324-w14" id="t_607" value="1868-07-27"/>
+		<t type="DATE" span="a4-s328-w17, a4-s328-w18, a4-s328-w19" id="t_608" value="PAST_REF"/>
+		<t type="DATE" span="a4-s330-w1, a4-s330-w2, a4-s330-w3, a4-s330-w4" id="t_609" value="1874-07-07"/>
+		<t type="DATE" span="a4-s332-w2" id="t_610" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s343-w6" id="t_611" value="1863"/>
+		<t type="DATE" span="a4-s343-w13, a4-s343-w14, a4-s343-w15" id="t_612" value="1875-08-01"/>
+		<t type="DATE" span="a4-s348-w7" id="t_613" value="1877"/>
+		<t type="DATE" span="a4-s349-w5" id="t_614" value="1877-SU"/>
+		<t type="DATE" span="a4-s349-w15" id="t_615" value="1877-10"/>
+		<t type="DATE" span="a4-s350-w5" id="t_616" value="FUTURE_REF"/>
+		<t type="DATE" span="a4-s352-w3" id="t_617" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s354-w13, a4-s354-w14" id="t_618" value="1877-10-04"/>
+		<t type="DATE" span="a4-s368-w8, a4-s368-w9" id="t_619" value="1878-10"/>
+		<t type="DATE" span="a4-s370-w2" id="t_620" value="1866"/>
+		<t type="DATE" span="a4-s372-w2, a4-s372-w3, a4-s372-w4" id="t_621" value="1878"/>
+		<t type="DATE" span="a4-s372-w8, a4-s372-w9" id="t_622" value="1878-10"/>
+		<t type="DATE" span="a4-s395-w5" id="t_623" value="PAST_REF"/>
+		<t type="DATE" span="a4-s402-w9" id="t_624" value="1875"/>
+		<t type="DATE" span="a4-s404-w2, a4-s404-w3, a4-s404-w4" id="t_625" value="1891"/>
+		<t type="DATE" span="a4-s412-w1" id="t_626" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s412-w6" id="t_627" value="PRESENT_REF"/>
+		<t type="DATE" span="a4-s414-w23" id="t_628" value="1878"/>
+		<t type="DATE" span="a4-s423-w14" id="t_629" value="1875"/>
+		<t type="DATE" span="a4-s425-w2" id="t_630" value="1878"/>
+		<t type="DATE" span="a4-s431-w1, a4-s431-w2, a4-s431-w3, a4-s431-w4" id="t_631" value="1877-10-03"/>
+		<t type="DATE" span="a4-s447-w15" id="t_632" value="1866"/>
+		<t type="DATE" span="a4-s449-w1, a4-s449-w2" id="t_633" value="1877-10-04"/>
+		<t type="DATE" span="a4-s453-w2" id="t_634" value="1875"/>
+		<t type="DATE" span="a4-s456-w7, a4-s456-w8, a4-s456-w9" id="t_635" value="1875-08-24"/>
+		<t type="DATE" span="a5-s7-w19" id="t_636" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s7-w24" id="t_637" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s12-w5" id="t_638" value="PAST_REF"/>
+		<t type="DATE" span="a5-s12-w15, a5-s12-w16, a5-s12-w17" id="t_639" value="1876-08-12"/>
+		<t type="DATE" span="a5-s12-w29, a5-s12-w30" id="t_640" value="1877"/>
+		<t type="DATE" span="a5-s12-w39, a5-s12-w40, a5-s12-w41" id="t_641" value="1878-08-12"/>
+		<t type="DATE" span="a5-s13-w23, a5-s13-w24" id="t_642" value="1850"/>
+		<t type="DATE" span="a5-s15-w19" id="t_643" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s20-w3" id="t_644" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s22-w5, a5-s22-w6, a5-s22-w7" id="t_645" value="1878-08-12"/>
+		<t type="DATE" span="a5-s44-w2" id="t_646" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s44-w5" id="t_647" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s77-w1" id="t_648" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s77-w20" id="t_649" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s79-w4" id="t_650" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s97-w5" id="t_651" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s97-w9" id="t_652" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s100-w3" id="t_653" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s108-w1" id="t_654" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s108-w23" id="t_655" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s108-w37" id="t_656" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s108-w50" id="t_657" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s116-w4" id="t_658" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s118-w4" id="t_659" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s128-w1" id="t_660" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s137-w1" id="t_661" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s139-w23, a5-s139-w24" id="t_662" value="1868"/>
+		<t type="DATE" span="a5-s152-w7" id="t_663" value="1876-08-12"/>
+		<t type="DATE" span="a5-s157-w10, a5-s157-w11" id="t_664" value="1878-08"/>
+		<t type="DATE" span="a5-s161-w17" id="t_665" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s162-w19" id="t_666" value="1878-08"/>
+		<t type="DATE" span="a5-s162-w21" id="t_667" value="1878-09"/>
+		<t type="DATE" span="a5-s163-w4, a5-s163-w5, a5-s163-w6, a5-s163-w7" id="t_668" value="1878-SU"/>
+		<t type="DATE" span="a5-s169-w43" id="t_669" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s191-w1" id="t_670" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s199-w5" id="t_671" value="1869"/>
+		<t type="DATE" span="a5-s200-w8" id="t_672" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s211-w3" id="t_673" value="FUTURE_REF"/>
+		<t type="DATE" span="a5-s251-w9" id="t_674" value="PRESENT_REF"/>
+		<t type="DATE" span="a5-s252-w17" id="t_675" value="PAST_REF"/>
+		<t type="DATE" span="a6-s1-w5, a6-s1-w6" id="t_676" value="1878"/>
+		<t type="DATE" span="a6-s1-w8" id="t_677" value="1879"/>
+		<t type="DATE" span="a6-s5-w1" id="t_678" value="PRESENT_REF"/>
+		<t type="DATE" span="a6-s7-w56, a6-s7-w57" id="t_679" value="1879-SU"/>
+		<t type="DATE" span="a6-s24-w2" id="t_680" value="1878-08"/>
+		<t type="DATE" span="a6-s24-w10, a6-s24-w11, a6-s24-w12, a6-s24-w13" id="t_681" value="1878-09-29"/>
+		<t type="DATE" span="a6-s38-w6" id="t_682" value="PRESENT_REF"/>
+		<t type="DATE" span="a6-s39-w12, a6-s39-w13" id="t_683" value="1876"/>
+		<t type="DATE" span="a6-s47-w11" id="t_684" value="PRESENT_REF"/>
+		<t type="DATE" span="a6-s66-w14, a6-s66-w15" id="t_685" value="1876-09-19"/>
+		<t type="DATE" span="a6-s66-w17, a6-s66-w18" id="t_686" value="1875"/>
+		<t type="DATE" span="a6-s107-w8, a6-s107-w9" id="t_687" value="1875"/>
+		<t type="DATE" span="a6-s110-w10" id="t_688" value="PAST_REF"/>
+		<t type="DATE" span="a6-s113-w7" id="t_689" value="1875-10"/>
+		<t type="DATE" span="a6-s132-w9" id="t_690" value="PRESENT_REF"/>
+		<t type="DATE" span="a6-s142-w2, a6-s142-w3" id="t_691" value="1878-08-13"/>
+		<t type="DATE" span="a7-s14-w10, a7-s14-w11" id="t_692" value="1875-SU"/>
+		<t type="DATE" span="a7-s19-w3, a7-s19-w4" id="t_693" value="1877-SU"/>
+		<t type="DATE" span="a7-s22-w43" id="t_694" value="FUTURE_REF"/>
+		<t type="DATE" span="a7-s22-w59" id="t_695" value="1876-09-20"/>
+		<t type="DATE" span="a7-s23-w6" id="t_696" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s23-w19" id="t_697" value="1876-09-20"/>
+		<t type="DATE" span="a7-s24-w3, a7-s24-w4" id="t_698" value="1876"/>
+		<t type="DATE" span="a7-s24-w6" id="t_699" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s25-w18" id="t_700" value="1876-09-20"/>
+		<t type="DATE" span="a7-s28-w25" id="t_701" value="FUTURE_REF"/>
+		<t type="DATE" span="a7-s36-w73" id="t_702" value="FUTURE_REF"/>
+		<t type="DATE" span="a7-s37-w11" id="t_703" value="1877"/>
+		<t type="DATE" span="a7-s40-w46" id="t_704" value="1877"/>
+		<t type="DATE" span="a7-s45-w8" id="t_705" value="1877-08"/>
+		<t type="DATE" span="a7-s45-w65" id="t_706" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s46-w42, a7-s46-w43" id="t_707" value="1877-08-26"/>
+		<t type="DATE" span="a7-s46-w67, a7-s46-w68" id="t_708" value="1877-08-27"/>
+		<t type="DATE" span="a7-s47-w26, a7-s47-w27" id="t_709" value="1877"/>
+		<t type="DATE" span="a7-s50-w81, a7-s50-w82, a7-s50-w83" id="t_710" value="PAST_REF"/>
+		<t type="DATE" span="a7-s53-w20" id="t_711" value="PAST_REF"/>
+		<t type="DATE" span="a7-s54-w15, a7-s54-w16" id="t_712" value="1857"/>
+		<t type="DATE" span="a7-s54-w49, a7-s54-w50, a7-s54-w51" id="t_713" value="1859"/>
+		<t type="DATE" span="a7-s54-w54, a7-s54-w55, a7-s54-w56" id="t_714" value="1859-07-12"/>
+		<t type="DATE" span="a7-s81-w4" id="t_715" value="FUTURE_REF"/>
+		<t type="DATE" span="a7-s88-w5" id="t_716" value="1859-SU"/>
+		<t type="DATE" span="a7-s89-w7" id="t_717" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s89-w15" id="t_718" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s92-w21, a7-s92-w22, a7-s92-w23" id="t_719" value="1857"/>
+		<t type="DATE" span="a7-s95-w3, a7-s95-w4, a7-s95-w5" id="t_720" value="1855"/>
+		<t type="DATE" span="a7-s95-w20, a7-s95-w21" id="t_721" value="1855"/>
+		<t type="DATE" span="a7-s101-w20" id="t_722" value="FUTURE_REF"/>
+		<t type="DATE" span="a7-s112-w21" id="t_723" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s113-w1" id="t_724" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s118-w2" id="t_725" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s126-w4" id="t_726" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s150-w5, a7-s150-w6, a7-s150-w7" id="t_727" value="1859-06-28"/>
+		<t type="DATE" span="a7-s164-w4" id="t_728" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s166-w5" id="t_729" value="PAST_REF"/>
+		<t type="DATE" span="a7-s181-w15" id="t_730" value="PRESENT_REF"/>
+		<t type="DATE" span="a7-s183-w2, a7-s183-w3" id="t_731" value="1877-08-28"/>
+		<t type="DATE" span="a9-s8-w46" id="t_732" value="1550"/>
+		<t type="DATE" span="a9-s9-w35" id="t_733" value="PRESENT_REF"/>
+		<t type="DATE" span="a9-s10-w4" id="t_734" value="PRESENT_REF"/>
+		<t type="DATE" span="a9-s21-w21, a9-s21-w22" id="t_735" value="1862"/>
+		<t type="DATE" span="a9-s23-w4, a9-s23-w5" id="t_736" value="1862-07-20"/>
+		<t type="DATE" span="a9-s28-w6, a9-s28-w7" id="t_737" value="1862-07-21"/>
+		<t type="DATE" span="a9-s30-w14" id="t_738" value="PRESENT_REF"/>
+		<t type="DATE" span="a9-s37-w25" id="t_739" value="1873"/>
+		<t type="DATE" span="a9-s42-w5, a9-s42-w6" id="t_740" value="1873-08-11"/>
+		<t type="DATE" span="a9-s46-w1" id="t_741" value="1873-08-11"/>
+		<t type="DATE" span="a9-s55-w4" id="t_742" value="FUTURE_REF"/>
+		<t type="DATE" span="a9-s59-w51" id="t_743" value="1878"/>
+		<t type="DATE" span="a9-s68-w12" id="t_744" value="FUTURE_REF"/>
+		<t type="DATE" span="a9-s79-w12, a9-s79-w13" id="t_745" value="1872"/>
+		<t type="DATE" span="a9-s82-w23" id="t_746" value="1873-08-10"/>
+		<t type="DATE" span="a9-s86-w4" id="t_747" value="1873-FA"/>
+		<t type="DATE" span="a9-s93-w21" id="t_748" value="FUTURE_REF"/>
+		<t type="DATE" span="a9-s112-w5" id="t_749" value="PRESENT_REF"/>
+		<t type="DATE" span="a9-s120-w25" id="t_750" value="PAST_REF"/>
+		<t type="DATE" span="a9-s143-w19" id="t_751" value="FUTURE_REF"/>
+		<t type="DATE" span="a9-s150-w25, a9-s150-w26" id="t_752" value="1864"/>
+		<t type="DATE" span="a10-s2-w2" id="t_753" value="1877"/>
+		<t type="DATE" span="a10-s2-w4" id="t_754" value="1878"/>
+		<t type="DATE" span="a10-s6-w1" id="t_755" value="1873-08-05"/>
+		<t type="DATE" span="a10-s10-w41, a10-s10-w42" id="t_756" value="1873-08-06"/>
+		<t type="DATE" span="a10-s10-w44, a10-s10-w45" id="t_757" value="1877-08-29"/>
+		<t type="DATE" span="a10-s14-w16" id="t_758" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s19-w1" id="t_759" value="1877-09-06"/>
+		<t type="DATE" span="a10-s19-w3, a10-s19-w4" id="t_760" value="1877-08-30"/>
+		<t type="DATE" span="a10-s25-w24" id="t_761" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s29-w5" id="t_762" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s31-w9" id="t_763" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s33-w38" id="t_764" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s41-w8" id="t_765" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s52-w22" id="t_766" value="1877-08-30"/>
+		<t type="DATE" span="a10-s53-w29" id="t_767" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s56-w4" id="t_768" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s57-w9" id="t_769" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s59-w26" id="t_770" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s64-w1" id="t_771" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s69-w7, a10-s69-w8" id="t_772" value="1877-09-01"/>
+		<t type="DATE" span="a10-s79-w13, a10-s79-w14" id="t_773" value="1877-09-02"/>
+		<t type="DATE" span="a10-s80-w2" id="t_774" value="1877-08-27"/>
+		<t type="DATE" span="a10-s80-w4, a10-s80-w5" id="t_775" value="1877-09-03"/>
+		<t type="DATE" span="a10-s83-w9" id="t_776" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s87-w1" id="t_777" value="1877-08-28"/>
+		<t type="DATE" span="a10-s87-w3, a10-s87-w4" id="t_778" value="1877-09-04"/>
+		<t type="DATE" span="a10-s90-w1" id="t_779" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s90-w12" id="t_780" value="1877-09-04"/>
+		<t type="DATE" span="a10-s92-w1" id="t_781" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s96-w1" id="t_782" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s97-w1" id="t_783" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s98-w36" id="t_784" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s101-w13" id="t_785" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s102-w10" id="t_786" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s135-w39" id="t_787" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s140-w11" id="t_788" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s144-w14" id="t_789" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s145-w12" id="t_790" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s150-w15" id="t_791" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s153-w1" id="t_792" value="1877-08-29"/>
+		<t type="DATE" span="a10-s153-w3, a10-s153-w4" id="t_793" value="1877-09-05"/>
+		<t type="DATE" span="a10-s155-w4" id="t_794" value="1877-09-05"/>
+		<t type="DATE" span="a10-s159-w2" id="t_795" value="1877-09-05"/>
+		<t type="DATE" span="a10-s159-w40" id="t_796" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s162-w9" id="t_797" value="1877-09-04"/>
+		<t type="DATE" span="a10-s162-w11" id="t_798" value="1877-09-05"/>
+		<t type="DATE" span="a10-s167-w1" id="t_799" value="1877-08-30"/>
+		<t type="DATE" span="a10-s167-w3, a10-s167-w4" id="t_800" value="1877-09-06"/>
+		<t type="DATE" span="a10-s168-w24" id="t_801" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s169-w15" id="t_802" value="1877-09-06"/>
+		<t type="DATE" span="a10-s185-w1" id="t_803" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s188-w12" id="t_804" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s189-w1" id="t_805" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s202-w4" id="t_806" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s216-w3" id="t_807" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s217-w20" id="t_808" value="1872"/>
+		<t type="DATE" span="a10-s217-w20" id="t_809" value="1873"/>
+		<t type="DATE" span="a10-s218-w2" id="t_810" value="1873"/>
+		<t type="DATE" span="a10-s249-w25" id="t_811" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s252-w33" id="t_812" value="1877-09-11"/>
+		<t type="DATE" span="a10-s252-w35, a10-s252-w36" id="t_813" value="1877-09-11"/>
+		<t type="DATE" span="a10-s257-w2" id="t_814" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s259-w1" id="t_815" value="1877-09-13"/>
+		<t type="DATE" span="a10-s259-w3, a10-s259-w4" id="t_816" value="1877-09-13"/>
+		<t type="DATE" span="a10-s263-w2" id="t_817" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s269-w15" id="t_818" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s273-w2" id="t_819" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s277-w3" id="t_820" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s280-w1" id="t_821" value="1871"/>
+		<t type="DATE" span="a10-s280-w1" id="t_822" value="1872"/>
+		<t type="DATE" span="a10-s288-w1" id="t_823" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s296-w1" id="t_824" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s296-w20" id="t_825" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s304-w1" id="t_826" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s313-w7" id="t_827" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s341-w2, a10-s341-w3" id="t_828" value="1878-SU"/>
+		<t type="DATE" span="a10-s347-w19" id="t_829" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s355-w4, a10-s355-w5, a10-s355-w6" id="t_830" value="1878-07-31"/>
+		<t type="DATE" span="a10-s360-w16" id="t_831" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s360-w21" id="t_832" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s362-w26" id="t_833" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s362-w49, a10-s362-w50" id="t_834" value="1872"/>
+		<t type="DATE" span="a10-s366-w3" id="t_835" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s366-w6" id="t_836" value="1877-09-13"/>
+		<t type="DATE" span="a10-s367-w11" id="t_837" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s372-w13" id="t_838" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s373-w18" id="t_839" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s385-w1" id="t_840" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s391-w21" id="t_841" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s402-w3" id="t_842" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s407-w8" id="t_843" value="1878-09"/>
+		<t type="DATE" span="a10-s414-w4, a10-s414-w5" id="t_844" value="1878-08-05"/>
+		<t type="DATE" span="a10-s417-w47" id="t_845" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s418-w1" id="t_846" value="1878-08-05"/>
+		<t type="DATE" span="a10-s422-w14" id="t_847" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s428-w3" id="t_848" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s437-w15" id="t_849" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s444-w24" id="t_850" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s444-w26" id="t_851" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s446-w18" id="t_852" value="1878-SU"/>
+		<t type="DATE" span="a10-s448-w4" id="t_853" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s450-w1" id="t_854" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s463-w41" id="t_855" value="1878-08-05"/>
+		<t type="DATE" span="a10-s465-w8" id="t_856" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s468-w4" id="t_857" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s470-w9" id="t_858" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s472-w1" id="t_859" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s472-w6" id="t_860" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s484-w12" id="t_861" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s486-w8" id="t_862" value="FUTURE_REF"/>
+		<t type="DATE" span="a10-s493-w1" id="t_863" value="PRESENT_REF"/>
+		<t type="DATE" span="a10-s496-w45, a10-s496-w46" id="t_864" value="1878-08-06"/>
+		<t type="DATE" span="a10-s497-w31" id="t_865" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s9-w15, a11-s9-w16, a11-s9-w17" id="t_866" value="1878-06-23"/>
+		<t type="DATE" span="a11-s10-w4" id="t_867" value="1876"/>
+		<t type="DATE" span="a11-s10-w4" id="t_868" value="187X"/>
+		<t type="DATE" span="a11-s15-w18, a11-s15-w19" id="t_869" value="1876-08"/>
+		<t type="DATE" span="a11-s17-w2" id="t_870" value="1878-06"/>
+		<t type="DATE" span="a11-s19-w14, a11-s19-w15" id="t_871" value="1878-06-21"/>
+		<t type="DATE" span="a11-s19-w21, a11-s19-w22" id="t_872" value="1878-06-22"/>
+		<t type="DATE" span="a11-s29-w12" id="t_873" value="1878-06-22"/>
+		<t type="DATE" span="a11-s41-w6" id="t_874" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s50-w17" id="t_875" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s56-w9" id="t_876" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s62-w4" id="t_877" value="PRESENT_REF"/>
+		<t type="DATE" span="a11-s69-w1, a11-s69-w2, a11-s69-w3" id="t_878" value="UNDEF-REF-minute-PLUS-10"/>
+		<t type="DATE" span="a11-s95-w3" id="t_879" value="PRESENT_REF"/>
+		<t type="DATE" span="a11-s105-w3" id="t_880" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s110-w1" id="t_881" value="PRESENT_REF"/>
+		<t type="DATE" span="a11-s134-w3" id="t_882" value="PRESENT_REF"/>
+		<t type="DATE" span="a11-s134-w21" id="t_883" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s148-w8" id="t_884" value="FUTURE_REF"/>
+		<t type="DATE" span="a11-s148-w37" id="t_885" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s10-w8, a12-s10-w9" id="t_886" value="1876"/>
+		<t type="DATE" span="a12-s28-w2" id="t_887" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s30-w6" id="t_888" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s41-w4" id="t_889" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s43-w8" id="t_890" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s45-w6" id="t_891" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s48-w6, a12-s48-w7, a12-s48-w8" id="t_892" value="PAST_REF"/>
+		<t type="DATE" span="a12-s51-w12, a12-s51-w13, a12-s51-w14" id="t_893" value="1876"/>
+		<t type="DATE" span="a12-s51-w16, a12-s51-w17" id="t_894" value="1876-07-22"/>
+		<t type="DATE" span="a12-s53-w1" id="t_895" value="1876-07-22"/>
+		<t type="DATE" span="a12-s75-w1" id="t_896" value="PAST_REF"/>
+		<t type="DATE" span="a12-s82-w1" id="t_897" value="1876-07-22"/>
+		<t type="DATE" span="a12-s83-w14" id="t_898" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s87-w8" id="t_899" value="1876-07-22"/>
+		<t type="DATE" span="a12-s88-w28" id="t_900" value="1876-07-22"/>
+		<t type="DATE" span="a12-s91-w16" id="t_901" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s92-w1" id="t_902" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s96-w3" id="t_903" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s103-w3" id="t_904" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s103-w26, a12-s103-w27, a12-s103-w28" id="t_905" value="1871-09-16"/>
+		<t type="DATE" span="a12-s103-w62" id="t_906" value="1876-07-22"/>
+		<t type="DATE" span="a12-s107-w4" id="t_907" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s108-w25" id="t_908" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s119-w4" id="t_909" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s143-w41" id="t_910" value="PAST_REF"/>
+		<t type="DATE" span="a12-s148-w13" id="t_911" value="1876-07-23"/>
+		<t type="DATE" span="a12-s154-w36" id="t_912" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s165-w10" id="t_913" value="PAST_REF"/>
+		<t type="DATE" span="a12-s172-w24" id="t_914" value="1876-07-23"/>
+		<t type="DATE" span="a12-s182-w4" id="t_915" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s189-w20" id="t_916" value="1876-07-23"/>
+		<t type="DATE" span="a12-s194-w8" id="t_917" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s198-w14" id="t_918" value="1370"/>
+		<t type="DATE" span="a12-s210-w5" id="t_919" value="1876-07-23"/>
+		<t type="DATE" span="a12-s210-w7, a12-s210-w8" id="t_920" value="1871-08-11"/>
+		<t type="DATE" span="a12-s219-w9" id="t_921" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s224-w9" id="t_922" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s224-w13" id="t_923" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s237-w25, a12-s237-w26, a12-s237-w27" id="t_924" value="1499-05-21"/>
+		<t type="DATE" span="a12-s239-w12" id="t_925" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s251-w15" id="t_926" value="1871-08-12"/>
+		<t type="DATE" span="a12-s262-w12, a12-s262-w13" id="t_927" value="1871-08-13"/>
+		<t type="DATE" span="a12-s266-w4" id="t_928" value="1871-08-14"/>
+		<t type="DATE" span="a12-s271-w7" id="t_929" value="1871-08-13"/>
+		<t type="DATE" span="a12-s278-w1" id="t_930" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s284-w1" id="t_931" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s288-w8" id="t_932" value="PAST_REF"/>
+		<t type="DATE" span="a12-s289-w2" id="t_933" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s289-w24" id="t_934" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s314-w15" id="t_935" value="1871-08-14"/>
+		<t type="DATE" span="a12-s319-w6" id="t_936" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s322-w6" id="t_937" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s339-w9" id="t_938" value="2000"/>
+		<t type="DATE" span="a12-s358-w1" id="t_939" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s359-w1" id="t_940" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s360-w12" id="t_941" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s363-w4" id="t_942" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s368-w7" id="t_943" value="2000-WI"/>
+		<t type="DATE" span="a12-s377-w20" id="t_944" value="PAST_REF"/>
+		<t type="DATE" span="a12-s382-w3" id="t_945" value="PRESENT_REF"/>
+		<t type="DATE" span="a12-s388-w6" id="t_946" value="FUTURE_REF"/>
+		<t type="DATE" span="a12-s392-w19" id="t_947" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s4-w3, a13-s4-w4" id="t_948" value="1878-09"/>
+		<t type="DATE" span="a13-s9-w3, a13-s9-w4" id="t_949" value="1876"/>
+		<t type="DATE" span="a13-s14-w14" id="t_950" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s15-w21, a13-s15-w22" id="t_951" value="1875"/>
+		<t type="DATE" span="a13-s15-w31" id="t_952" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s16-w1" id="t_953" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s16-w8" id="t_954" value="1875-SP"/>
+		<t type="DATE" span="a13-s16-w11" id="t_955" value="1878"/>
+		<t type="DATE" span="a13-s17-w25, a13-s17-w26" id="t_956" value="1878-09-03"/>
+		<t type="DATE" span="a13-s20-w7, a13-s20-w8" id="t_957" value="1878-09-04"/>
+		<t type="DATE" span="a13-s23-w4, a13-s23-w5" id="t_958" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s24-w1" id="t_959" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s25-w37" id="t_960" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s25-w62, a13-s25-w63, a13-s25-w64" id="t_961" value="1877"/>
+		<t type="DATE" span="a13-s28-w34" id="t_962" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s37-w1" id="t_963" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s41-w40, a13-s41-w41" id="t_964" value="1878-09-05"/>
+		<t type="DATE" span="a13-s48-w71, a13-s48-w72" id="t_965" value="1878-09-04"/>
+		<t type="DATE" span="a13-s57-w36" id="t_966" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s59-w57" id="t_967" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s72-w1, a13-s72-w2" id="t_968" value="1878-09-06"/>
+		<t type="DATE" span="a13-s79-w2" id="t_969" value="1877"/>
+		<t type="DATE" span="a13-s80-w10" id="t_970" value="1877"/>
+		<t type="DATE" span="a13-s80-w15" id="t_971" value="1878"/>
+		<t type="DATE" span="a13-s82-w41" id="t_972" value="2000"/>
+		<t type="DATE" span="a13-s84-w16" id="t_973" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s88-w40, a13-s88-w41" id="t_974" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s90-w10" id="t_975" value="1878-09-04"/>
+		<t type="DATE" span="a13-s95-w30, a13-s95-w31, a13-s95-w32" id="t_976" value="1878"/>
+		<t type="DATE" span="a13-s95-w36, a13-s95-w37, a13-s95-w38" id="t_977" value="1878"/>
+		<t type="DATE" span="a13-s100-w7" id="t_978" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s102-w1" id="t_979" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s106-w21, a13-s106-w22" id="t_980" value="1878-07-31"/>
+		<t type="DATE" span="a13-s108-w2" id="t_981" value="PRESENT_REF"/>
+		<t type="DATE" span="a13-s120-w1" id="t_982" value="1878-08-03"/>
+		<t type="DATE" span="a13-s120-w3, a13-s120-w4" id="t_983" value="1878-09-07"/>
+		<t type="DATE" span="a13-s121-w13" id="t_984" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s125-w15, a13-s125-w16" id="t_985" value="1878-SP"/>
+		<t type="DATE" span="a13-s128-w13" id="t_986" value="FUTURE_REF"/>
+		<t type="DATE" span="a13-s136-w2, a13-s136-w3" id="t_987" value="1878-09-07"/>
+		<t type="DATE" span="a13-s141-w1, a13-s141-w2, a13-s141-w3" id="t_988" value="1878-09-08"/>
+		<t type="DATE" span="a13-s148-w5, a13-s148-w6" id="t_989" value="1878-09-09"/>
+		<t type="DATE" span="a13-s155-w1, a13-s155-w2" id="t_990" value="PRESENT_REF"/>
+		<t type="DATE" span="a14-s6-w16, a14-s6-w17, a14-s6-w18" id="t_991" value="FUTURE_REF"/>
+		<t type="DATE" span="a14-s36-w4" id="t_992" value="1851"/>
+		<t type="DATE" span="a14-s42-w6" id="t_993" value="PRESENT_REF"/>
+		<t type="DATE" span="a14-s66-w1" id="t_994" value="1839"/>
+		<t type="DATE" span="a14-s68-w1" id="t_995" value="1821"/>
+		<t type="DATE" span="a14-s68-w3" id="t_996" value="1831"/>
+		<t type="DATE" span="a14-s68-w5" id="t_997" value="1834"/>
+		<t type="DATE" span="a14-s68-w7" id="t_998" value="1839"/>
+		<t type="DATE" span="a14-s70-w2, a14-s70-w3" id="t_999" value="1839"/>
+		<t type="DATE" span="a14-s72-w2, a14-s72-w3" id="t_1000" value="1840"/>
+		<t type="DATE" span="a14-s72-w5" id="t_1001" value="1844"/>
+		<t type="DATE" span="a14-s75-w9" id="t_1002" value="1849"/>
+		<t type="DATE" span="a14-s76-w2, a14-s76-w3" id="t_1003" value="1851-05"/>
+		<t type="DATE" span="a14-s77-w1" id="t_1004" value="1861"/>
+		<t type="DATE" span="a14-s78-w1" id="t_1005" value="1868"/>
+		<t type="DATE" span="a14-s83-w33" id="t_1006" value="1868"/>
+		<t type="DATE" span="a14-s87-w3" id="t_1007" value="1868"/>
+		<t type="DATE" span="a14-s90-w1" id="t_1008" value="1868"/>
+		<t type="DATE" span="a14-s92-w2, a14-s92-w3" id="t_1009" value="1851-05"/>
+		<t type="DATE" span="a14-s96-w1, a14-s96-w2, a14-s96-w3" id="t_1010" value="1853"/>
+		<t type="DATE" span="a14-s96-w5" id="t_1011" value="1853"/>
+		<t type="DATE" span="a14-s97-w11" id="t_1012" value="1851"/>
+		<t type="DATE" span="a14-s98-w15" id="t_1013" value="1860"/>
+		<t type="DATE" span="a14-s99-w4" id="t_1014" value="1851"/>
+		<t type="DATE" span="a14-s100-w5" id="t_1015" value="1868"/>
+		<t type="DATE" span="a14-s100-w38" id="t_1016" value="1851"/>
+		<t type="DATE" span="a14-s101-w5" id="t_1017" value="1851"/>
+		<t type="DATE" span="a14-s101-w7" id="t_1018" value="1878"/>
+		<t type="DATE" span="a14-s103-w16" id="t_1019" value="FUTURE_REF"/>
+		<t type="DATE" span="a14-s104-w1" id="t_1020" value="1868"/>
+		<t type="DATE" span="a14-s108-w16" id="t_1021" value="1868-08"/>
+		<t type="DATE" span="a14-s108-w18" id="t_1022" value="1868-09"/>
+		<t type="DATE" span="a14-s111-w2" id="t_1023" value="1851"/>
+		<t type="DATE" span="a14-s119-w22" id="t_1024" value="PAST_REF"/>
+		<t type="DATE" span="a14-s131-w2" id="t_1025" value="1851-WI"/>
+		<t type="DATE" span="a14-s139-w5, a14-s139-w6" id="t_1026" value="1851"/>
+		<t type="DATE" span="a14-s141-w1" id="t_1027" value="PRESENT_REF"/>
+		<t type="DATE" span="a14-s147-w4, a14-s147-w5" id="t_1028" value="1879-01-01"/>
+		<t type="DATE" span="a14-s148-w2, a14-s148-w3" id="t_1029" value="1880-01-01"/>
+		<t type="DATE" span="a14-s162-w9, a14-s162-w10, a14-s162-w11" id="t_1030" value="1878-04-08"/>
+		<t type="DATE" span="a14-s164-w5" id="t_1031" value="1851"/>
+		<t type="DATE" span="a14-s164-w5" id="t_1032" value="1878"/>
+		<t type="DATE" span="a14-s170-w9" id="t_1033" value="1851"/>
+		<t type="DATE" span="a14-s180-w21" id="t_1034" value="PAST_REF"/>
+		<t type="DATE" span="a14-s206-w15" id="t_1035" value="1878"/>
+		<t type="DATE" span="a14-s229-w8" id="t_1036" value="1200"/>
+		<t type="DATE" span="a14-s229-w10" id="t_1037" value="1300"/>
+		<t type="DATE" span="a14-s229-w12" id="t_1038" value="1600"/>
+		<t type="DATE" span="a14-s229-w14" id="t_1039" value="1900"/>
+		<t type="DATE" span="a14-s231-w6" id="t_1040" value="1300"/>
+		<t type="DATE" span="a14-s231-w8" id="t_1041" value="1800"/>
+		<t type="DATE" span="a14-s231-w10" id="t_1042" value="2000"/>
+		<t type="DATE" span="a14-s233-w5" id="t_1043" value="1300"/>
+		<t type="DATE" span="a14-s233-w7" id="t_1044" value="1500"/>
+		<t type="DATE" span="a14-s233-w9" id="t_1045" value="1800"/>
+		<t type="DATE" span="a14-s233-w11" id="t_1046" value="1900"/>
+		<t type="DATE" span="a14-s233-w13" id="t_1047" value="2000"/>
+		<t type="DATE" span="a14-s252-w24" id="t_1048" value="1400"/>
+		<t type="DATE" span="a14-s267-w1" id="t_1049" value="1151"/>
+		<t type="DATE" span="a14-s270-w8" id="t_1050" value="1879-01-01"/>
+		<t type="DATE" span="a14-s271-w10" id="t_1051" value="PAST_REF"/>
+		<t type="DATE" span="a14-s274-w13" id="t_1052" value="1900"/>
+		<t type="DATE" span="a14-s276-w12" id="t_1053" value="1900"/>
+		<t type="DATE" span="a14-s280-w23" id="t_1054" value="PRESENT_REF"/>
+		<t type="DATE" span="a14-s295-w2" id="t_1055" value="1879-01-01"/>
+		<t type="DATE" span="a14-s299-w9" id="t_1056" value="PRESENT_REF"/>
+		<t type="DATE" span="a14-s301-w1" id="t_1057" value="1879-01-01"/>
+		<t type="DATE" span="a14-s311-w4, a14-s311-w5, a14-s311-w6" id="t_1058" value="1875-12-29"/>
+		<t type="DATE" span="a14-s321-w17" id="t_1059" value="1560"/>
+		<t type="DATE" span="a15-s8-w10" id="t_1060" value="1560-FA"/>
+		<t type="DATE" span="a15-s9-w15, a15-s9-w16" id="t_1061" value="1866"/>
+		<t type="DATE" span="a15-s9-w18" id="t_1062" value="1867"/>
+		<t type="DATE" span="a15-s10-w41, a15-s10-w42" id="t_1063" value="1876-09"/>
+		<t type="DATE" span="a15-s10-w45" id="t_1064" value="1875-12-30"/>
+		<t type="DATE" span="a15-s12-w12" id="t_1065" value="1875-SU"/>
+		<t type="DATE" span="a15-s17-w1" id="t_1066" value="FUTURE_REF"/>
+		<t type="DATE" span="a15-s17-w76" id="t_1067" value="1875-FA"/>
+		<t type="DATE" span="a15-s53-w19" id="t_1068" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s66-w32" id="t_1069" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s71-w21" id="t_1070" value="PAST_REF"/>
+		<t type="DATE" span="a15-s72-w1" id="t_1071" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s79-w3, a15-s79-w4, a15-s79-w5" id="t_1072" value="FUTURE_REF"/>
+		<t type="DATE" span="a15-s81-w22" id="t_1073" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s83-w10" id="t_1074" value="PAST_REF"/>
+		<t type="DATE" span="a15-s100-w19" id="t_1075" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s110-w19" id="t_1076" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s118-w8" id="t_1077" value="FUTURE_REF"/>
+		<t type="DATE" span="a15-s118-w10" id="t_1078" value="FUTURE_REF"/>
+		<t type="DATE" span="a15-s123-w5" id="t_1079" value="PRESENT_REF"/>
+		<t type="DATE" span="a15-s133-w5, a15-s133-w6" id="t_1080" value="1877-WI"/>
+		<t type="DATE" span="a15-s133-w6" id="t_1081" value="1878"/>
+		<t type="DATE" span="a15-s134-w12, a15-s134-w13" id="t_1082" value="1877-SU"/>
+		<t type="DATE" span="a15-s135-w40, a15-s135-w41" id="t_1083" value="PRESENT_REF"/>
+		<t type="DATE" span="a16-s21-w29" id="t_1084" value="1875-SU"/>
+		<t type="DATE" span="a16-s35-w33, a16-s35-w34" id="t_1085" value="12XX"/>
+		<t type="DATE" span="a16-s36-w1" id="t_1086" value="FUTURE_REF"/>
+		<t type="DATE" span="a16-s36-w18" id="t_1087" value="1475"/>
+		<t type="DATE" span="a16-s42-w7" id="t_1088" value="1475-SP"/>
+		<t type="DATE" span="a16-s42-w18" id="t_1089" value="1475-SU"/>
+		<t type="DATE" span="a16-s42-w31" id="t_1090" value="1475-06"/>
+		<t type="DATE" span="a16-s50-w17, a16-s50-w18, a16-s50-w19" id="t_1091" value="1877-11-23"/>
+		<t type="DATE" span="a16-s50-w36, a16-s50-w37, a16-s50-w38" id="t_1092" value="1878-04-13"/>
+		<t type="DATE" span="a16-s51-w19" id="t_1093" value="1878"/>
+		<t type="DATE" span="a16-s57-w4" id="t_1094" value="PRESENT_REF"/>
+		<t type="DATE" span="a16-s58-w2" id="t_1095" value="PRESENT_REF"/>
+		<t type="DATE" span="a16-s67-w10" id="t_1096" value="PRESENT_REF"/>
+		<t type="DATE" span="a16-s78-w3, a16-s78-w4" id="t_1097" value="1877"/>
+		<t type="DATE" span="a16-s101-w22" id="t_1098" value="PRESENT_REF"/>
+		<t type="DATE" span="a16-s112-w36" id="t_1099" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s5-w38" id="t_1100" value="1878"/>
+		<t type="DATE" span="a17-s5-w57, a17-s5-w58, a17-s5-w59" id="t_1101" value="1879-03-21"/>
+		<t type="DATE" span="a17-s7-w11, a17-s7-w12, a17-s7-w13, a17-s7-w14" id="t_1102" value="11XX" mod="MID"/>
+		<t type="DATE" span="a17-s7-w24" id="t_1103" value="1878"/>
+		<t type="DATE" span="a17-s8-w21" id="t_1104" value="1877"/>
+		<t type="DATE" span="a17-s10-w11" id="t_1105" value="1878"/>
+		<t type="DATE" span="a17-s10-w13" id="t_1106" value="1879"/>
+		<t type="DATE" span="a17-s12-w46" id="t_1107" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s15-w5" id="t_1108" value="1878"/>
+		<t type="DATE" span="a17-s15-w9" id="t_1109" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s17-w57" id="t_1110" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s18-w4" id="t_1111" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s22-w5, a17-s22-w6" id="t_1112" value="1878-H2"/>
+		<t type="DATE" span="a17-s22-w8, a17-s22-w9" id="t_1113" value="07XX"/>
+		<t type="DATE" span="a17-s22-w30, a17-s22-w31" id="t_1114" value="08XX"/>
+		<t type="DATE" span="a17-s24-w12, a17-s24-w13" id="t_1115" value="1879-H2"/>
+		<t type="DATE" span="a17-s24-w15, a17-s24-w16" id="t_1116" value="08XX"/>
+		<t type="DATE" span="a17-s25-w18, a17-s25-w19, a17-s25-w20, a17-s25-w21" id="t_1117" value="09XX" mod="MID"/>
+		<t type="DATE" span="a17-s25-w60" id="t_1118" value="1251"/>
+		<t type="DATE" span="a17-s25-w80" id="t_1119" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s27-w6, a17-s27-w7" id="t_1120" value="11XX"/>
+		<t type="DATE" span="a17-s29-w14" id="t_1121" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s30-w31" id="t_1122" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s32-w9" id="t_1123" value="1879-03-21"/>
+		<t type="DATE" span="a17-s33-w5, a17-s33-w6" id="t_1124" value="11XX"/>
+		<t type="DATE" span="a17-s42-w16, a17-s42-w17" id="t_1125" value="1154-10"/>
+		<t type="DATE" span="a17-s42-w31, a17-s42-w32" id="t_1126" value="1155-09"/>
+		<t type="DATE" span="a17-s43-w8" id="t_1127" value="1158"/>
+		<t type="DATE" span="a17-s45-w3, a17-s45-w4" id="t_1128" value="1162-SP"/>
+		<t type="DATE" span="a17-s45-w22" id="t_1129" value="1162-09"/>
+		<t type="DATE" span="a17-s46-w7, a17-s46-w8" id="t_1130" value="1163-FA"/>
+		<t type="DATE" span="a17-s46-w19" id="t_1131" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s46-w35, a17-s46-w36" id="t_1132" value="1164-10"/>
+		<t type="DATE" span="a17-s47-w25, a17-s47-w26" id="t_1133" value="1166-10"/>
+		<t type="DATE" span="a17-s48-w17, a17-s48-w18" id="t_1134" value="1167-08"/>
+		<t type="DATE" span="a17-s48-w43, a17-s48-w44" id="t_1135" value="1168-03"/>
+		<t type="DATE" span="a17-s50-w13, a17-s50-w14" id="t_1136" value="1174-09"/>
+		<t type="DATE" span="a17-s50-w27" id="t_1137" value="1176"/>
+		<t type="DATE" span="a17-s50-w45" id="t_1138" value="1177"/>
+		<t type="DATE" span="a17-s50-w55, a17-s50-w56" id="t_1139" value="1178-07"/>
+		<t type="DATE" span="a17-s51-w10" id="t_1140" value="1184"/>
+		<t type="DATE" span="a17-s51-w12" id="t_1141" value="1186"/>
+		<t type="DATE" span="a17-s52-w18" id="t_1142" value="FUTURE_REF"/>
+		<t type="DATE" span="a17-s52-w22" id="t_1143" value="FUTURE_REF"/>
+		<t type="DATE" span="a17-s61-w10, a17-s61-w11" id="t_1144" value="1186"/>
+		<t type="DATE" span="a17-s61-w21" id="t_1145" value="10XX"/>
+		<t type="DATE" span="a17-s61-w23, a17-s61-w24" id="t_1146" value="11XX"/>
+		<t type="DATE" span="a17-s61-w28" id="t_1147" value="1186-06-01"/>
+		<t type="DATE" span="a17-s61-w30" id="t_1148" value="1186-07"/>
+		<t type="DATE" span="a17-s61-w33" id="t_1149" value="1186-FA"/>
+		<t type="DATE" span="a17-s61-w37, a17-s61-w38" id="t_1150" value="1186-01" mod="START"/>
+		<t type="DATE" span="a17-s61-w40" id="t_1151" value="1186-04-13"/>
+		<t type="DATE" span="a17-s61-w43" id="t_1152" value="1186-08"/>
+		<t type="DATE" span="a17-s64-w12" id="t_1153" value="1482"/>
+		<t type="DATE" span="a17-s72-w4" id="t_1154" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s73-w8, a17-s73-w9" id="t_1155" value="09XX"/>
+		<t type="DATE" span="a17-s75-w13" id="t_1156" value="1203"/>
+		<t type="DATE" span="a17-s75-w27" id="t_1157" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s78-w6" id="t_1158" value="1203-SU"/>
+		<t type="DATE" span="a17-s78-w8" id="t_1159" value="1203-FA"/>
+		<t type="DATE" span="a17-s79-w17, a17-s79-w18" id="t_1160" value="12XX"/>
+		<t type="DATE" span="a17-s79-w28" id="t_1161" value="1203-08"/>
+		<t type="DATE" span="a17-s80-w9" id="t_1162" value="1203-WI"/>
+		<t type="DATE" span="a17-s80-w17" id="t_1163" value="1203-SP"/>
+		<t type="DATE" span="a17-s80-w23" id="t_1164" value="1203-03"/>
+		<t type="DATE" span="a17-s80-w25" id="t_1165" value="1203-05"/>
+		<t type="DATE" span="a17-s82-w19" id="t_1166" value="1154"/>
+		<t type="DATE" span="a17-s84-w5" id="t_1167" value="09XX"/>
+		<t type="DATE" span="a17-s84-w7, a17-s84-w8" id="t_1168" value="10XX"/>
+		<t type="DATE" span="a17-s88-w25" id="t_1169" value="FUTURE_REF"/>
+		<t type="DATE" span="a17-s89-w4, a17-s89-w5, a17-s89-w6, a17-s89-w7" id="t_1170" value="10XX" mod="END"/>
+		<t type="DATE" span="a17-s91-w5, a17-s91-w6" id="t_1171" value="10XX"/>
+		<t type="DATE" span="a17-s92-w13" id="t_1172" value="08XX"/>
+		<t type="DATE" span="a17-s92-w15, a17-s92-w16" id="t_1173" value="09XX"/>
+		<t type="DATE" span="a17-s95-w22" id="t_1174" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s96-w15" id="t_1175" value="1200"/>
+		<t type="DATE" span="a17-s97-w6, a17-s97-w7" id="t_1176" value="11XX"/>
+		<t type="DATE" span="a17-s100-w38, a17-s100-w39" id="t_1177" value="11XX"/>
+		<t type="DATE" span="a17-s103-w2, a17-s103-w3" id="t_1178" value="11XX"/>
+		<t type="DATE" span="a17-s108-w3, a17-s108-w4" id="t_1179" value="10XX"/>
+		<t type="DATE" span="a17-s109-w15, a17-s109-w16" id="t_1180" value="11XX"/>
+		<t type="DATE" span="a17-s112-w21, a17-s112-w22" id="t_1181" value="11XX"/>
+		<t type="DATE" span="a17-s118-w5" id="t_1182" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s119-w12, a17-s119-w13" id="t_1183" value="1154-FA"/>
+		<t type="DATE" span="a17-s122-w6" id="t_1184" value="1152"/>
+		<t type="DATE" span="a17-s123-w29, a17-s123-w30" id="t_1185" value="1110"/>
+		<t type="DATE" span="a17-s123-w46, a17-s123-w47, a17-s123-w48" id="t_1186" value="1114"/>
+		<t type="DATE" span="a17-s124-w5" id="t_1187" value="1800"/>
+		<t type="DATE" span="a17-s130-w3" id="t_1188" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s135-w8, a17-s135-w9" id="t_1189" value="10XX"/>
+		<t type="DATE" span="a17-s140-w9, a17-s140-w10" id="t_1190" value="11XX"/>
+		<t type="DATE" span="a17-s145-w3" id="t_1191" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s145-w4" id="t_1192" value="1154"/>
+		<t type="DATE" span="a17-s145-w13" id="t_1193" value="1158"/>
+		<t type="DATE" span="a17-s147-w2" id="t_1194" value="1158"/>
+		<t type="DATE" span="a17-s148-w29" id="t_1195" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s149-w4" id="t_1196" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s150-w10" id="t_1197" value="1154"/>
+		<t type="DATE" span="a17-s150-w32" id="t_1198" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s158-w11" id="t_1199" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s158-w12" id="t_1200" value="1154"/>
+		<t type="DATE" span="a17-s158-w19" id="t_1201" value="1155"/>
+		<t type="DATE" span="a17-s159-w1, a17-s159-w2, a17-s159-w3, a17-s159-w4" id="t_1202" value="1203-05-18"/>
+		<t type="DATE" span="a17-s159-w19" id="t_1203" value="1155-09"/>
+		<t type="DATE" span="a17-s166-w4" id="t_1204" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s174-w2" id="t_1205" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s179-w10" id="t_1206" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s184-w1" id="t_1207" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s191-w14, a17-s191-w15" id="t_1208" value="1154-FA"/>
+		<t type="DATE" span="a17-s193-w28" id="t_1209" value="1110"/>
+		<t type="DATE" span="a17-s194-w10" id="t_1210" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s194-w13, a17-s194-w14" id="t_1211" value="1154-11"/>
+		<t type="DATE" span="a17-s201-w12" id="t_1212" value="PRESENT_REF"/>
+		<t type="DATE" span="a17-s202-w59" id="t_1213" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s11-w33, a18-s11-w34" id="t_1214" value="09XX"/>
+		<t type="DATE" span="a18-s12-w52" id="t_1215" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s13-w27, a18-s13-w28" id="t_1216" value="09XX"/>
+		<t type="DATE" span="a18-s36-w28" id="t_1217" value="1155-06-19"/>
+		<t type="DATE" span="a18-s37-w32, a18-s37-w33" id="t_1218" value="1155-H2"/>
+		<t type="DATE" span="a18-s37-w35, a18-s37-w36" id="t_1219" value="08XX"/>
+		<t type="DATE" span="a18-s41-w22, a18-s41-w23, a18-s41-w24, a18-s41-w25" id="t_1220" value="08XX" mod="END"/>
+		<t type="DATE" span="a18-s66-w32, a18-s66-w33" id="t_1221" value="FUTURE_REF"/>
+		<t type="DATE" span="a18-s98-w21, a18-s98-w22" id="t_1222" value="09XX"/>
+		<t type="DATE" span="a18-s102-w3" id="t_1223" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s105-w2" id="t_1224" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s135-w33, a18-s135-w34" id="t_1225" value="1155"/>
+		<t type="DATE" span="a18-s136-w4, a18-s136-w5" id="t_1226" value="1155-05-01"/>
+		<t type="DATE" span="a18-s159-w15" id="t_1227" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s165-w45" id="t_1228" value="1155-SU"/>
+		<t type="DATE" span="a18-s167-w18" id="t_1229" value="1155-05-01"/>
+		<t type="DATE" span="a18-s167-w20" id="t_1230" value="1155-03-27"/>
+		<t type="DATE" span="a18-s172-w1" id="t_1231" value="FUTURE_REF"/>
+		<t type="DATE" span="a18-s183-w7" id="t_1232" value="1155-04-30"/>
+		<t type="DATE" span="a18-s184-w5, a18-s184-w6" id="t_1233" value="1155-12-24"/>
+		<t type="DATE" span="a18-s187-w76" id="t_1234" value="1155-05-01"/>
+		<t type="DATE" span="a18-s196-w2" id="t_1235" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s210-w15" id="t_1236" value="PAST_REF"/>
+		<t type="DATE" span="a18-s219-w9" id="t_1237" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s225-w26" id="t_1238" value="1155-05-01"/>
+		<t type="DATE" span="a18-s234-w31" id="t_1239" value="1155-05-01"/>
+		<t type="DATE" span="a18-s235-w12, a18-s235-w13" id="t_1240" value="09XX"/>
+		<t type="DATE" span="a18-s236-w20, a18-s236-w21" id="t_1241" value="1155-02-11"/>
+		<t type="DATE" span="a18-s236-w30, a18-s236-w31" id="t_1242" value="1155-02-16"/>
+		<t type="DATE" span="a18-s236-w35, a18-s236-w36, a18-s236-w37" id="t_1243" value="1155-02-01"/>
+		<t type="DATE" span="a18-s236-w64, a18-s236-w65" id="t_1244" value="1155-12-28"/>
+		<t type="DATE" span="a18-s239-w1" id="t_1245" value="FUTURE_REF"/>
+		<t type="DATE" span="a18-s253-w3" id="t_1246" value="PRESENT_REF"/>
+		<t type="DATE" span="a18-s263-w62" id="t_1247" value="FUTURE_REF"/>
+		<t type="DATE" span="a18-s291-w1, a18-s291-w2" id="t_1248" value="17XX"/>
+		<t type="DATE" span="a18-s294-w15" id="t_1249" value="PAST_REF"/>
+		<t type="DATE" span="a18-s294-w33" id="t_1250" value="1878"/>
+		<t type="DATE" span="a19-s9-w20" id="t_1251" value="FUTURE_REF"/>
+		<t type="DATE" span="a19-s10-w5" id="t_1252" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s19-w15" id="t_1253" value=""/>
+		<t type="DATE" span="a19-s26-w78" id="t_1254" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s31-w11" id="t_1255" value="FUTURE_REF"/>
+		<t type="DATE" span="a19-s32-w2" id="t_1256" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s33-w20, a19-s33-w21" id="t_1257" value="03XX"/>
+		<t type="DATE" span="a19-s43-w9, a19-s43-w10, a19-s43-w11, a19-s43-w12" id="t_1258" value="04XX" mod="END"/>
+		<t type="DATE" span="a19-s44-w10, a19-s44-w11" id="t_1259" value="05XX"/>
+		<t type="DATE" span="a19-s50-w17" id="t_1260" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s50-w23" id="t_1261" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s50-w28, a19-s50-w29" id="t_1262" value="15XX"/>
+		<t type="DATE" span="a19-s65-w25, a19-s65-w26, a19-s65-w27, a19-s65-w28" id="t_1263" value="05XX" mod="END"/>
+		<t type="DATE" span="a19-s66-w23, a19-s66-w24" id="t_1264" value="09XX"/>
+		<t type="DATE" span="a19-s67-w33" id="t_1265" value=""/>
+		<t type="DATE" span="a19-s69-w18" id="t_1266" value=""/>
+		<t type="DATE" span="a19-s73-w8" id="t_1267" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s79-w1" id="t_1268" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s79-w18" id="t_1269" value="1857"/>
+		<t type="DATE" span="a19-s79-w29" id="t_1270" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s80-w6" id="t_1271" value="1871"/>
+		<t type="DATE" span="a19-s81-w3" id="t_1272" value="1860"/>
+		<t type="DATE" span="a19-s84-w19" id="t_1273" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s95-w21, a19-s95-w22" id="t_1274" value="12XX"/>
+		<t type="DATE" span="a19-s96-w27" id="t_1275" value="1867"/>
+		<t type="DATE" span="a19-s96-w31" id="t_1276" value="1871"/>
+		<t type="DATE" span="a19-s103-w4" id="t_1277" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s117-w27, a19-s117-w28" id="t_1278" value="12XX"/>
+		<t type="DATE" span="a19-s127-w24" id="t_1279" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s132-w10" id="t_1280" value="PRESENT_REF"/>
+		<t type="DATE" span="a19-s143-w11" id="t_1281" value="1852"/>
+		<t type="DATE" span="a19-s145-w6" id="t_1282" value="1876"/>
+		<t type="DATE" span="a19-s148-w5" id="t_1283" value="1876"/>
+		<t type="DATE" span="a19-s148-w17" id="t_1284" value="1852"/>
+		<t type="DATE" span="a19-s157-w6" id="t_1285" value=""/>
+		<t type="DATE" span="a19-s157-w32, a19-s157-w33, a19-s157-w34, a19-s157-w35" id="t_1286" value="13XX" mod="MID"/>
+		<t type="DATE" span="a19-s158-w1" id="t_1287" value=""/>
+		<t type="DATE" span="a19-s158-w43" id="t_1288" value="1218"/>
+		<t type="DATE" span="a19-s158-w46" id="t_1289" value="1283"/>
+		<t type="DATE" span="a19-s159-w6" id="t_1290" value=""/>
+		<t type="DATE" span="a19-s165-w12" id="t_1291" value=""/>
+		<t type="DATE" span="a19-s179-w2" id="t_1292" value="1840"/>
+		<t type="DATE" span="a19-s181-w2" id="t_1293" value="1842"/>
+		<t type="DATE" span="a19-s186-w2" id="t_1294" value="1846"/>
+		<t type="DATE" span="a19-s190-w2" id="t_1295" value="1852"/>
+		<t type="DATE" span="a19-s193-w2" id="t_1296" value="1852"/>
+		<t type="DATE" span="a19-s196-w2" id="t_1297" value="1855"/>
+		<t type="DATE" span="a19-s199-w5" id="t_1298" value="1875"/>
+		<t type="DATE" span="a19-s202-w5" id="t_1299" value="1876"/>
+		<t type="DATE" span="a19-s205-w5" id="t_1300" value="1878"/>
+		<t type="DATE" span="a19-s209-w2" id="t_1301" value="1869"/>
+		<t type="DATE" span="a19-s213-w2" id="t_1302" value="1862"/>
+		<t type="DATE" span="a19-s216-w2" id="t_1303" value="1867"/>
+		<t type="DATE" span="a19-s219-w2" id="t_1304" value="1867"/>
+		<t type="DATE" span="a19-s220-w3" id="t_1305" value="1867-SU"/>
+		<t type="DATE" span="a19-s221-w2" id="t_1306" value="1871"/>
+		<t type="DATE" span="a19-s222-w5, a19-s222-w6" id="t_1307" value="1870-12"/>
+		<t type="DATE" span="a19-s223-w2" id="t_1308" value="1872"/>
+		<t type="DATE" span="a19-s226-w2" id="t_1309" value="1872"/>
+		<t type="DATE" span="a19-s231-w4" id="t_1310" value="1876"/>
+		<t type="DATE" span="a20-s4-w7, a20-s4-w8, a20-s4-w9" id="t_1311" value="PAST_REF"/>
+		<t type="DATE" span="a20-s6-w2, a20-s6-w3" id="t_1312" value="1875"/>
+		<t type="DATE" span="a20-s9-w2" id="t_1313" value="1874"/>
+		<t type="DATE" span="a20-s12-w1, a20-s12-w2, a20-s12-w3" id="t_1314" value="1874-08-10"/>
+		<t type="DATE" span="a20-s14-w1, a20-s14-w2, a20-s14-w3" id="t_1315" value="1874-08-11"/>
+		<t type="DATE" span="a20-s16-w1, a20-s16-w2, a20-s16-w3" id="t_1316" value="1874-08-12"/>
+		<t type="DATE" span="a20-s19-w4, a20-s19-w5" id="t_1317" value="1874-08-11"/>
+		<t type="DATE" span="a20-s19-w21, a20-s19-w22" id="t_1318" value="1874-08-12"/>
+		<t type="DATE" span="a20-s19-w49" id="t_1319" value="FUTURE_REF"/>
+		<t type="DATE" span="a20-s24-w11" id="t_1320" value="1865"/>
+		<t type="DATE" span="a20-s24-w16" id="t_1321" value="1869"/>
+		<t type="DATE" span="a20-s25-w5" id="t_1322" value="1874"/>
+		<t type="DATE" span="a20-s42-w20, a20-s42-w21" id="t_1323" value="1874-08-13"/>
+		<t type="DATE" span="a20-s45-w5" id="t_1324" value="FUTURE_REF"/>
+		<t type="DATE" span="a20-s58-w16" id="t_1325" value="1862"/>
+		<t type="DATE" span="a20-s60-w5" id="t_1326" value="FUTURE_REF"/>
+		<t type="DATE" span="a20-s63-w3" id="t_1327" value="1865"/>
+		<t type="DATE" span="a20-s64-w34" id="t_1328" value="PRESENT_REF"/>
+		<t type="DATE" span="a20-s64-w41" id="t_1329" value="1865"/>
+		<t type="DATE" span="a20-s67-w7, a20-s67-w8" id="t_1330" value="1874-08"/>
+		<t type="DATE" span="a20-s67-w30, a20-s67-w31" id="t_1331" value="1874-08-14"/>
+		<t type="DATE" span="a20-s68-w20" id="t_1332" value="1874"/>
+		<t type="DATE" span="a20-s78-w2" id="t_1333" value="1874"/>
+		<t type="DATE" span="a20-s79-w1" id="t_1334" value="1878"/>
+		<t type="DATE" span="a20-s80-w4, a20-s80-w5" id="t_1335" value="1878-10-04"/>
+		<t type="DATE" span="a20-s91-w9" id="t_1336" value="1867"/>
+		<t type="DATE" span="a20-s100-w3, a20-s100-w4" id="t_1337" value="1878"/>
+		<t type="DATE" span="a20-s101-w4, a20-s101-w5, a20-s101-w6" id="t_1338" value="1878-09-28"/>
+		<t type="DATE" span="a20-s101-w27" id="t_1339" value="1868"/>
+		<t type="DATE" span="a20-s101-w31" id="t_1340" value="1875"/>
+		<t type="DATE" span="a20-s108-w2" id="t_1341" value="1857"/>
+		<t type="DATE" span="a20-s114-w1" id="t_1342" value="1866"/>
+		<t type="DATE" span="a20-s127-w6, a20-s127-w7, a20-s127-w8" id="t_1343" value="1878-09-29"/>
+		<t type="DATE" span="a21-s7-w44" id="t_1344" value="1859"/>
+		<t type="DATE" span="a21-s9-w4" id="t_1345" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s15-w2" id="t_1346" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s16-w28, a21-s16-w29" id="t_1347" value="1776"/>
+		<t type="DATE" span="a21-s18-w20" id="t_1348" value="1850"/>
+		<t type="DATE" span="a21-s18-w36" id="t_1349" value="1783"/>
+		<t type="DATE" span="a21-s18-w46" id="t_1350" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s19-w4" id="t_1351" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s27-w5, a21-s27-w6, a21-s27-w7" id="t_1352" value="1878-08-12"/>
+		<t type="DATE" span="a21-s49-w50" id="t_1353" value="FUTURE_REF"/>
+		<t type="DATE" span="a21-s51-w33, a21-s51-w34, a21-s51-w35" id="t_1354" value="1858"/>
+		<t type="DATE" span="a21-s61-w49, a21-s61-w50" id="t_1355" value="FUTURE_REF"/>
+		<t type="DATE" span="a21-s64-w6" id="t_1356" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s90-w25" id="t_1357" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s105-w36" id="t_1358" value="PRESENT_REF"/>
+		<t type="DATE" span="a21-s108-w12" id="t_1359" value="FUTURE_REF"/>
+		<t type="DATE" span="a22-s3-w7, a22-s3-w8" id="t_1360" value="1877"/>
+		<t type="DATE" span="a22-s4-w6" id="t_1361" value="PRESENT_REF"/>
+		<t type="DATE" span="a22-s11-w4" id="t_1362" value="PRESENT_REF"/>
+		<t type="DATE" span="a23-s2-w5, a23-s2-w6, a23-s2-w7" id="t_1363" value="1876-08-14"/>
+		<t type="DATE" span="a23-s7-w12" id="t_1364" value="1876-08-14"/>
+		<t type="DATE" span="a23-s14-w8" id="t_1365" value="FUTURE_REF"/>
+		<t type="DATE" span="a23-s14-w11" id="t_1366" value="FUTURE_REF"/>
+		<t type="DATE" span="a23-s14-w16" id="t_1367" value="FUTURE_REF"/>
+		<t type="DATE" span="a23-s14-w19" id="t_1368" value="FUTURE_REF"/>
+		<t type="DATE" span="a23-s19-w37" id="t_1369" value="FUTURE_REF"/>
+		<t type="DATE" span="a23-s28-w27" id="t_1370" value="1869"/>
+		<t type="DATE" span="a23-s28-w33" id="t_1371" value="1872"/>
+		<t type="DATE" span="a23-s28-w38" id="t_1372" value="1876"/>
+		<t type="DATE" span="a23-s28-w40" id="t_1373" value="1877"/>
+		<t type="DATE" span="a24-s2-w11, a24-s2-w12" id="t_1374" value="1878-SU"/>
+		<t type="DATE" span="a24-s12-w16, a24-s12-w17" id="t_1375" value="1877"/>
+		<t type="DATE" span="a24-s19-w8, a24-s19-w9" id="t_1376" value="1877"/>
+		<t type="DATE" span="a24-s23-w2, a24-s23-w3" id="t_1377" value="1877-SU"/>
+		<t type="DATE" span="a24-s28-w6, a24-s28-w7" id="t_1378" value="1876"/>
+		<t type="DATE" span="a24-s29-w5, a24-s29-w6, a24-s29-w7" id="t_1379" value="1878-07-19"/>
+		<t type="DATE" span="a24-s43-w16, a24-s43-w17" id="t_1380" value="1878"/>
+		<t type="DATE" span="a24-s44-w19" id="t_1381" value="1878-SU"/>
+		<t type="DATE" span="a24-s47-w5" id="t_1382" value="PRESENT_REF"/>
+		<t type="DATE" span="a25-s5-w17, a25-s5-w18" id="t_1383" value="1878-SU"/>
+		<t type="DATE" span="a25-s6-w7, a25-s6-w8" id="t_1384" value="1878-07-18"/>
+		<t type="DATE" span="a25-s6-w10, a25-s6-w11" id="t_1385" value="1878-07-19"/>
+		<t type="DATE" span="a25-s9-w8" id="t_1386" value="1878-07"/>
+		<t type="DATE" span="a25-s9-w15, a25-s9-w16" id="t_1387" value="1877-SU"/>
+		<t type="DATE" span="a25-s11-w1, a25-s11-w2, a25-s11-w3" id="t_1388" value="1878-07-18"/>
+		<t type="DATE" span="a25-s12-w17, a25-s12-w18" id="t_1389" value="1878-07-19"/>
+		<t type="DATE" span="a25-s12-w31, a25-s12-w32" id="t_1390" value="PRESENT_REF"/>
+		<t type="DATE" span="a25-s12-w34, a25-s12-w35" id="t_1391" value="1878-07-19"/>
+		<t type="DATE" span="a25-s15-w5, a25-s15-w6" id="t_1392" value="1878-07-19"/>
+		<t type="DATE" span="a25-s21-w14" id="t_1393" value="PRESENT_REF"/>
+		<t type="DATE" span="a25-s22-w39, a25-s22-w40, a25-s22-w41" id="t_1394" value="1878-07-22"/>
+		<t type="DATE" span="a28-s4-w9" id="t_1395" value="1846"/>
+		<t type="DATE" span="a28-s4-w19, a28-s4-w20, a28-s4-w21" id="t_1396" value="1824-08-03"/>
+		<t type="DATE" span="a28-s8-w73" id="t_1397" value="1813"/>
+		<t type="DATE" span="a28-s10-w2, a28-s10-w3" id="t_1398" value="1851"/>
+		<t type="DATE" span="a29-s3-w2" id="t_1399" value="1871"/>
+		<t type="DATE" span="a29-s4-w20" id="t_1400" value="1871"/>
+		<t type="DATE" span="a29-s5-w28, a29-s5-w29" id="t_1401" value="1870"/>
+		<t type="DATE" span="a30-s1-w5" id="t_1402" value="1878"/>
+		<t type="DATE" span="a30-s3-w31, a30-s3-w32, a30-s3-w33, a30-s3-w34, a30-s3-w35" id="t_1403" value="1878"/>
+		<t type="DATE" span="a31-s1-w5" id="t_1404" value="1878"/>
+		<t type="DATE" span="a31-s2-w25, a31-s2-w26" id="t_1405" value="1877"/>
+		<t type="DATE" span="a31-s8-w6" id="t_1406" value="1799"/>
+		<t type="DATE" span="a32-s2-w2" id="t_1407" value="1878"/>
+		<t type="DATE" span="a32-s4-w17" id="t_1408" value="PRESENT_REF"/>
+		<t type="DATE" span="a33-s3-w1" id="t_1409" value="1877"/>
+		<t type="DATE" span="a33-s4-w2" id="t_1410" value="1878"/>
+		<t type="DATE" span="a33-s5-w6, a33-s5-w7, a33-s5-w8" id="t_1411" value="1878-01-01"/>
+		<t type="DATE" span="a34-s3-w13, a34-s3-w14, a34-s3-w15" id="t_1412" value="1877-08-16"/>
+		<t type="DATE" span="a34-s10-w3" id="t_1413" value="1878"/>
+		<t type="DATE" span="a34-s11-w6, a34-s11-w7, a34-s11-w8" id="t_1414" value="1878-08-31"/>
+		<t type="DATE" span="a35-s4-w3, a35-s4-w4" id="t_1415" value="1878"/>
+		<t type="DATE" span="a35-s23-w2" id="t_1416" value="1878"/>
+		<t type="DATE" span="a35-s24-w3, a35-s24-w4, a35-s24-w5, a35-s24-w6, a35-s24-w7" id="t_1417" value="1878"/>
+		<t type="DATE" span="a35-s25-w8" id="t_1418" value="1876"/>
+		<t type="DATE" span="a35-s31-w4" id="t_1419" value="1875"/>
+		<t type="DATE" span="a35-s37-w23" id="t_1420" value="1767"/>
+		<t type="DATE" span="a35-s44-w20, a35-s44-w21, a35-s44-w22" id="t_1421" value="1872-07-15"/>
+		<t type="DATE" span="a36-s1-w17" id="t_1422" value="1878"/>
+		<t type="DATE" span="a36-s2-w12" id="t_1423" value="1872"/>
+		<t type="DATE" span="a36-s8-w4" id="t_1424" value="1878"/>
+		<t type="DATE" span="a36-s9-w25, a36-s9-w26" id="t_1425" value="1879"/>
+		<t type="DATE" span="a36-s12-w21, a36-s12-w22" id="t_1426" value="1878"/>
+		<t type="DATE" span="a36-s12-w24" id="t_1427" value="1879"/>
+		<t type="DATE" span="a36-s19-w12" id="t_1428" value="1877"/>
+		<t type="DATE" span="a36-s21-w17" id="t_1429" value="1877-09"/>
+		<t type="DATE" span="a36-s23-w3" id="t_1430" value="1877-07"/>
+		<t type="DATE" span="a36-s23-w16" id="t_1431" value="1877-08"/>
+		<t type="DATE" span="a36-s24-w5" id="t_1432" value="1877-09"/>
+		<t type="DATE" span="a36-s24-w23" id="t_1433" value="1877-07"/>
+		<t type="DATE" span="a36-s24-w30" id="t_1434" value="1877-08"/>
+		<t type="DATE" span="a36-s28-w9, a36-s28-w10" id="t_1435" value="1877-SU"/>
+		<t type="DATE" span="a37-s1-w8" id="t_1436" value="1878"/>
+		<t type="DATE" span="a37-s4-w5" id="t_1437" value="PRESENT_REF"/>
+		<t type="DATE" span="a37-s11-w1" id="t_1438" value="PRESENT_REF"/>
+		<t type="DATE" span="a37-s28-w14" id="t_1439" value="1555"/>
+		<t type="DATE" span="a37-s28-w20" id="t_1440" value="1583"/>
+		<t type="DATE" span="a37-s28-w26" id="t_1441" value="1820"/>
+		<t type="DATE" span="a37-s30-w6" id="t_1442" value="1572"/>
+		<t type="DATE" span="a37-s31-w10, a37-s31-w11, a37-s31-w12, a37-s31-w13" id="t_1443" value="16XX" mod="MID"/>
+		<t type="DATE" span="a37-s33-w21" id="t_1444" value="1875"/>
+		<t type="DATE" span="a37-s33-w33, a37-s33-w34, a37-s33-w35" id="t_1445" value="1865"/>
+		<t type="DATE" span="a38-s4-w2" id="t_1446" value="1879"/>
+		<t type="DATE" span="a38-s5-w16" id="t_1447" value="PRESENT_REF"/>
+		<t type="DATE" span="a38-s13-w23" id="t_1448" value="PRESENT_REF"/>
+		<t type="DATE" span="a38-s14-w1" id="t_1449" value="PRESENT_REF"/>
+		<t type="DATE" span="a39-s11-w11" id="t_1450" value="PRESENT_REF"/>
+		<t type="DATE" span="a40-s11-w5" id="t_1451" value="PAST_REF"/>
+		<t type="DATE" span="a40-s17-w9" id="t_1452" value="PRESENT_REF"/>
+		<t type="DATE" span="a41-s1-w6" id="t_1453" value="1879"/>
+		<t type="DATE" span="a41-s14-w12" id="t_1454" value="FUTURE_REF"/>
+		<t type="DATE" span="a41-s14-w15" id="t_1455" value="FUTURE_REF"/>
+		<t type="DATE" span="a42-s6-w4" id="t_1456" value="PRESENT_REF"/>
+		<t type="DATE" span="a42-s11-w2" id="t_1457" value="PRESENT_REF"/>
+		<t type="DATE" span="a43-s3-w2" id="t_1458" value="1879"/>
+		<t type="DATE" span="a43-s5-w2, a43-s5-w3" id="t_1459" value="1878"/>
+		<t type="DATE" span="a43-s5-w27, a43-s5-w28" id="t_1460" value="1878"/>
+		<t type="DATE" span="a43-s6-w7, a43-s6-w8" id="t_1461" value="1872-SU"/>
+		<t type="DATE" span="a43-s6-w18" id="t_1462" value="1828"/>
+		<t type="DATE" span="a43-s6-w29" id="t_1463" value="1778"/>
+		<t type="DATE" span="a43-s6-w29" id="t_1464" value="1862"/>
+		<t type="DATE" span="a43-s7-w40" id="t_1465" value="1862-06"/>
+		<t type="DATE" span="a43-s8-w65" id="t_1466" value="1862-06"/>
+		<t type="DATE" span="a43-s18-w4" id="t_1467" value="1878"/>
+		<t type="DATE" span="2-2-9" id="t_1468" value="1878"/>
+		<t type="DATE" span="2-2-11" id="t_1469" value="1879"/>
+		<t type="DATE" span="2-5-20" id="t_1470" value="1878"/>
+		<t type="DATE" span="2-5-22" id="t_1471" value="1879"/>
+		<t type="DATE" span="2-22-17" id="t_1472" value="PRESENT_REF"/>
+		<t type="DATE" span="2-22-19, a2-s22-w20, a2-s22-w21, a2-s22-w22, a2-s22-w23" id="t_1473" value="1879-MINUS-vingt"/>
+		<t type="DATE" span="2-26-13, a2-s26-w14" id="t_1474" value="1853-07"/>
+		<t type="DATE" span="2-29-11" id="t_1475" value="1850"/>
+		<t type="DATE" span="2-30-12" id="t_1476" value="1858"/>
+		<t type="DATE" span="2-30-25" id="t_1477" value="1859"/>
+		<t type="DATE" span="2-70-11, a2-s70-w12, a2-s70-w13, a2-s70-w14" id="t_1478" value="1866-11-07"/>
+		<t type="DATE" span="2-97-25" id="t_1479" value="PRESENT_REF"/>
+		<t type="DATE" span="2-99-5" id="t_1480" value="PRESENT_REF"/>
+		<t type="DATE" span="2-119-9" id="t_1481" value="PAST_REF"/>
+		<t type="DATE" span="2-119-31" id="t_1482" value="1866-WI"/>
+		<t type="DATE" span="2-125-42, a2-s125-w43" id="t_1483" value="15XX"/>
+		<t type="DATE" span="2-128-6" id="t_1484" value="1860"/>
+		<t type="DATE" span="2-138-9, a2-s138-w10, a2-s138-w11, a2-s138-w12" id="t_1485" value="1859-07-12"/>
+		<t type="DATE" span="2-140-3" id="t_1486" value="1877"/>
+		<t type="DATE" span="2-140-24" id="t_1487" value="PRESENT_REF"/>
+		<t type="DATE" span="2-141-5" id="t_1488" value="PRESENT_REF"/>
+		<t type="DATE" span="2-148-19" id="t_1489" value="1865"/>
+		<t type="DATE" span="2-157-1" id="t_1490" value="1865-05-25"/>
+		<t type="DATE" span="2-173-1" id="t_1491" value="1859-06-02"/>
+		<t type="DATE" span="2-177-12" id="t_1492" value="1866-11-08"/>
+		<t type="DATE" span="2-196-40, a2-s196-w41, a2-s196-w42, a2-s196-w43" id="t_1493" value="1856-06-25"/>
+		<t type="DATE" span="2-197-5, a2-s197-w6, a2-s197-w7, a2-s197-w8" id="t_1494" value="1867-06-26"/>
+		<t type="DATE" span="2-199-88" id="t_1495" value="1866"/>
+		<t type="DATE" span="2-199-97" id="t_1496" value="1867"/>
+		<t type="DATE" span="2-204-3" id="t_1497" value="PRESENT_REF"/>
+		<t type="DATE" span="2-204-19" id="t_1498" value="PRESENT_REF"/>
+		<t type="DATE" span="2-209-35" id="t_1499" value="1859"/>
+		<t type="DATE" span="2-213-1" id="t_1500" value="1859-06-02"/>
+		<t type="DATE" span="2-225-10" id="t_1501" value="1859-SU"/>
+		<t type="DATE" span="2-237-11" id="t_1502" value="1870"/>
+		<t type="DATE" span="2-241-11" id="t_1503" value="1871"/>
+		<t type="DATE" span="2-242-1" id="t_1504" value="1871-05-18"/>
+		<t type="DATE" span="2-258-15" id="t_1505" value="1869"/>
+		<t type="DATE" span="2-259-13" id="t_1506" value="1859"/>
+		<t type="DATE" span="2-259-27" id="t_1507" value="1869"/>
+		<t type="DATE" span="2-259-32" id="t_1508" value="PRESENT_REF"/>
+		<t type="DATE" span="2-260-13" id="t_1509" value="1859"/>
+		<t type="DATE" span="2-310-26" id="t_1510" value="1876"/>
+		<t type="DATE" span="2-318-20" id="t_1511" value="PRESENT_REF"/>
+		<t type="DATE" span="2-345-34" id="t_1512" value="1878"/>
+		<t type="DATE" span="2-370-15" id="t_1513" value="1858"/>
+		<t type="DATE" span="2-390-15" id="t_1514" value="1850"/>
+		<t type="DATE" span="2-393-16" id="t_1515" value="1858"/>
+		<t type="DATE" span="2-396-20" id="t_1516" value="1867"/>
+		<t type="DATE" span="2-398-18" id="t_1517" value="PAST_REF"/>
+		<t type="DATE" span="2-404-19" id="t_1518" value="1865"/>
+		<t type="DATE" span="2-405-14" id="t_1519" value="1863"/>
+		<t type="DATE" span="2-412-11" id="t_1520" value="1875"/>
+		<t type="DATE" span="2-414-32, a2-s414-w33" id="t_1521" value="1876-08"/>
+		<t type="DATE" span="2-421-7" id="t_1522" value="1863"/>
+		<t type="DATE" span="2-424-7" id="t_1523" value="1863"/>
+		<t type="DATE" span="2-427-10" id="t_1524" value="1850"/>
+		<t type="DATE" span="2-436-12, a2-s436-w13, a2-s436-w14, a2-s436-w15" id="t_1525" value="1850-09-13"/>
+		<t type="DATE" span="2-448-30, a2-s448-w31, a2-s448-w32, a2-s448-w33" id="t_1526" value="1870-07-17"/>
+		<t type="DATE" span="2-450-12, a2-s450-w13, a2-s450-w14" id="t_1527" value="1877-09-14"/>
+		<t type="DATE" span="2-450-22, a2-s450-w23" id="t_1528" value="1877-08"/>
+		<t type="DATE" span="2-454-24" id="t_1529" value="1872"/>
+		<t type="DATE" span="2-462-25" id="t_1530" value="1875"/>
+		<t type="DATE" span="2-467-7" id="t_1531" value="1865"/>
+		<t type="DATE" span="2-472-7" id="t_1532" value="1869"/>
+		<t type="DATE" span="2-475-6, a2-s475-w7, a2-s475-w8, a2-s475-w9" id="t_1533" value="1863-07-09"/>
+		<t type="DATE" span="2-477-5" id="t_1534" value="PAST_REF"/>
+		<t type="DATE" span="2-486-5, a2-s486-w6, a2-s486-w7" id="t_1535" value="1868-09-10"/>
+		<t type="DATE" span="2-492-40" id="t_1536" value="1868"/>
+		<t type="DATE" span="2-493-12" id="t_1537" value="1863"/>
+		<t type="DATE" span="2-494-2" id="t_1538" value="1875"/>
+		<t type="DATE" span="2-502-3, a2-s502-w4, a2-s502-w5, a2-s502-w6" id="t_1539" value="1859-08-12"/>
+		<t type="DATE" span="2-532-5" id="t_1540" value="1859-WI"/>
+		<t type="DATE" span="2-533-5" id="t_1541" value="1859-WI"/>
+		<t type="DATE" span="2-535-2" id="t_1542" value="1859-SP"/>
+		<t type="DATE" span="2-536-2" id="t_1543" value="1859-SU"/>
+		<t type="DATE" span="2-537-2" id="t_1544" value="1859-FA"/>
+		<t type="DATE" span="2-537-8, a2-s537-w9, a2-s537-w10" id="t_1545" value="1859-11" mod="MID"/>
+		<t type="DATE" span="2-539-3, a2-s539-w4, a2-s539-w5, a2-s539-w6" id="t_1546" value="UNDEF-SU" mod="MID"/>
+		<t type="DATE" span="2-545-11" id="t_1547" value="1800"/>
+		<t type="DATE" span="2-546-26" id="t_1548" value="1035"/>
+		<t type="DATE" span="2-554-27" id="t_1549" value="1035-WI"/>
+		<t type="DATE" span="2-556-15" id="t_1550" value="1958"/>
+		<t type="DATE" span="2-564-6" id="t_1551" value="1958-WI"/>
+		<t type="DATE" span="2-567-12" id="t_1552" value="1958-07"/>
+		<t type="DATE" span="2-568-5" id="t_1553" value="1958-08"/>
+		<t type="DATE" span="2-572-8" id="t_1554" value="1872"/>
+		<t type="DATE" span="2-597-9" id="t_1555" value="1872-WI"/>
+		<t type="DATE" span="2-599-6, a2-s599-w7" id="t_1556" value="1872-06-15"/>
+		<t type="DATE" span="2-599-9, a2-s599-w10, a2-s599-w11, a2-s599-w12" id="t_1557" value="1872-07" mod="END"/>
+		<t type="DATE" span="2-600-19" id="t_1558" value="1000"/>
+		<t type="DATE" span="2-619-16" id="t_1559" value="FUTURE_REF"/>
+		<t type="DATE" span="2-654-24" id="t_1560" value="PAST_REF"/>
+		<t type="DATE" span="2-702-2" id="t_1561" value="1855"/>
+		<t type="DATE" span="2-705-2" id="t_1562" value="1857"/>
+		<t type="DATE" span="2-708-2" id="t_1563" value="1858"/>
+		<t type="DATE" span="2-710-23" id="t_1564" value="1861"/>
+		<t type="DATE" span="2-713-2" id="t_1565" value="1862"/>
+		<t type="DATE" span="2-716-2" id="t_1566" value="1865"/>
+		<t type="DATE" span="2-719-2" id="t_1567" value="1865"/>
+		<t type="DATE" span="2-723-2" id="t_1568" value="1867"/>
+		<t type="DATE" span="2-725-2" id="t_1569" value="1868"/>
+		<t type="DATE" span="2-728-3" id="t_1570" value="1871"/>
+		<t type="DATE" span="2-730-2" id="t_1571" value="1874"/>
+		<t type="DATE" span="2-732-2" id="t_1572" value="1876"/>
+		<t type="DATE" span="2-734-2" id="t_1573" value="1876"/>
+		<t type="DATE" span="2-736-2" id="t_1574" value="1876"/>
+		<t type="DATE" span="2-739-2" id="t_1575" value="1877"/>
+		<t type="DATE" span="2-742-4" id="t_1576" value="1878"/>
+		<t type="DATE" span="2-746-1" id="t_1577" value="1878"/>
+		<t type="DATE" span="8-2-2, a8-s2-w3" id="t_1578" value="1878-07-21"/>
+		<t type="DATE" span="8-2-5, a8-s2-w6, a8-s2-w7" id="t_1579" value="1878-08-09"/>
+		<t type="DATE" span="8-5-14, a8-s5-w15" id="t_1580" value="1878-SU"/>
+		<t type="DATE" span="8-5-19" id="t_1581" value="1878"/>
+		<t type="DATE" span="8-6-8, a8-s6-w9" id="t_1582" value="1878"/>
+		<t type="DATE" span="8-7-5, a8-s7-w6" id="t_1583" value="1878-WI"/>
+		<t type="DATE" span="8-18-37, a8-s18-w38, a8-s18-w39" id="t_1584" value="1878-07-21"/>
+		<t type="DATE" span="8-19-1" id="t_1585" value="1878-05-30"/>
+		<t type="DATE" span="8-21-1, a8-s21-w2, a8-s21-w3" id="t_1586" value="1878-07-22"/>
+		<t type="DATE" span="8-27-25" id="t_1587" value="1878-WI"/>
+		<t type="DATE" span="8-28-27" id="t_1588" value="PRESENT_REF"/>
+		<t type="DATE" span="8-30-2" id="t_1589" value="1878-07-22"/>
+		<t type="DATE" span="8-34-16" id="t_1590" value="2350"/>
+		<t type="DATE" span="8-45-38, a8-s45-w39, a8-s45-w40" id="t_1591" value="1878-08-18"/>
+		<t type="DATE" span="8-83-3" id="t_1592" value="PRESENT_REF"/>
+		<t type="DATE" span="8-91-7" id="t_1593" value="FUTURE_REF"/>
+		<t type="DATE" span="8-97-1" id="t_1594" value="1878-05-30"/>
+		<t type="DATE" span="8-98-1, a8-s98-w2, a8-s98-w3" id="t_1595" value="1878-07-24"/>
+		<t type="DATE" span="8-100-7" id="t_1596" value="PRESENT_REF"/>
+		<t type="DATE" span="8-100-11, a8-s100-w12, a8-s100-w13, a8-s100-w14, a8-s100-w15" id="t_1597" value="1878-MINUS-dix"/>
+		<t type="DATE" span="8-113-32" id="t_1598" value="1700"/>
+		<t type="DATE" span="8-116-15" id="t_1599" value="PRESENT_REF"/>
+		<t type="DATE" span="8-126-18" id="t_1600" value="1878-07-23"/>
+		<t type="DATE" span="8-137-2" id="t_1601" value="1878-07-24"/>
+		<t type="DATE" span="8-142-3" id="t_1602" value="FUTURE_REF"/>
+		<t type="DATE" span="8-148-21, a8-s148-w22, a8-s148-w23" id="t_1603" value="PRESENT_REF"/>
+		<t type="DATE" span="8-148-38" id="t_1604" value="1878-SP"/>
+		<t type="DATE" span="8-179-13" id="t_1605" value="PRESENT_REF"/>
+		<t type="DATE" span="8-181-13" id="t_1606" value="FUTURE_REF"/>
+		<t type="DATE" span="8-182-6" id="t_1607" value="PRESENT_REF"/>
+		<t type="DATE" span="8-185-41" id="t_1608" value="PRESENT_REF"/>
+		<t type="DATE" span="8-191-11" id="t_1609" value="PRESENT_REF"/>
+		<t type="DATE" span="8-193-8" id="t_1610" value="PRESENT_REF"/>
+		<t type="DATE" span="8-213-12" id="t_1611" value="PRESENT_REF"/>
+		<t type="DATE" span="8-223-2" id="t_1612" value="1878-07-25"/>
+		<t type="DATE" span="8-223-4, a8-s223-w5" id="t_1613" value="1878-07-28"/>
+		<t type="DATE" span="8-223-13" id="t_1614" value="1878-07-25"/>
+		<t type="DATE" span="8-234-7" id="t_1615" value="1877"/>
+		<t type="DATE" span="8-235-45" id="t_1616" value="1878-07-26"/>
+		<t type="DATE" span="8-236-22, a8-s236-w23" id="t_1617" value="1878"/>
+		<t type="DATE" span="8-239-14" id="t_1618" value="FUTURE_REF"/>
+		<t type="DATE" span="8-250-23" id="t_1619" value="1878-07-25"/>
+		<t type="DATE" span="8-250-64, a8-s250-w65, a8-s250-w66, a8-s250-w67, a8-s250-w68" id="t_1620" value="1878-MINUS-deux"/>
+		<t type="DATE" span="8-271-70, a8-s271-w71" id="t_1621" value="1878"/>
+		<t type="DATE" span="8-271-73, a8-s271-w74, a8-s271-w75" id="t_1622" value="1878-07-23"/>
+		<t type="DATE" span="8-275-4, a8-s275-w5" id="t_1623" value="1878-07-30"/>
+		<t type="DATE" span="8-285-29" id="t_1624" value="1878-07-27"/>
+		<t type="DATE" span="8-294-10" id="t_1625" value="2950"/>
+		<t type="DATE" span="8-306-17" id="t_1626" value="2450"/>
+		<t type="DATE" span="8-315-1, a8-s315-w2, a8-s315-w3" id="t_1627" value="1878-08-02"/>
+		<t type="DATE" span="8-317-27" id="t_1628" value="1877"/>
+		<t type="DATE" span="8-321-9" id="t_1629" value="FUTURE_REF"/>
+		<t type="DATE" span="8-336-1, a8-s336-w2, a8-s336-w3" id="t_1630" value="1878-08-03"/>
+		<t type="DATE" span="8-339-1" id="t_1631" value="1878-05-30"/>
+		<t type="DATE" span="8-340-1, a8-s340-w2, a8-s340-w3" id="t_1632" value="1878-08-04"/>
+		<t type="DATE" span="8-340-6" id="t_1633" value="1878-07-27"/>
+		<t type="DATE" span="8-348-3" id="t_1634" value="FUTURE_REF"/>
+		<t type="DATE" span="8-356-31" id="t_1635" value="FUTURE_REF"/>
+		<t type="DATE" span="8-357-30" id="t_1636" value="1878-07-28"/>
+		<t type="DATE" span="8-369-3" id="t_1637" value="PRESENT_REF"/>
+		<t type="DATE" span="8-381-10" id="t_1638" value="1877"/>
+		<t type="DATE" span="8-396-27" id="t_1639" value="FUTURE_REF"/>
+		<t type="DATE" span="8-407-5" id="t_1640" value="PRESENT_REF"/>
+		<t type="DATE" span="8-410-10" id="t_1641" value="PRESENT_REF"/>
+		<t type="DATE" span="8-411-29" id="t_1642" value="PAST_REF"/>
+		<t type="DATE" span="8-418-26" id="t_1643" value="FUTURE_REF"/>
+		<t type="DATE" span="8-434-24" id="t_1644" value="FUTURE_REF"/>
+		<t type="DATE" span="8-439-1" id="t_1645" value="PRESENT_REF"/>
+		<t type="DATE" span="8-440-30" id="t_1646" value="PRESENT_REF"/>
+		<t type="DATE" span="8-445-3" id="t_1647" value="FUTURE_REF"/>
+		<t type="DATE" span="8-455-16" id="t_1648" value="FUTURE_REF"/>
+		<t type="DATE" span="8-466-13" id="t_1649" value="PRESENT_REF"/>
+		<t type="DATE" span="8-466-44" id="t_1650" value="FUTURE_REF"/>
+		<t type="DATE" span="8-469-19" id="t_1651" value="1900"/>
+		<t type="DATE" span="8-482-1, a8-s482-w2, a8-s482-w3" id="t_1652" value="1878-08-06"/>
+		<t type="DATE" span="8-482-34" id="t_1653" value="PRESENT_REF"/>
+		<t type="DATE" span="8-485-31" id="t_1654" value="1878-07-28"/>
+		<t type="DATE" span="8-486-2" id="t_1655" value="1878-07-30"/>
+		<t type="DATE" span="8-488-1" id="t_1656" value="1878-05-30"/>
+		<t type="DATE" span="8-492-2" id="t_1657" value="1878-07-31"/>
+		<t type="DATE" span="8-500-5" id="t_1658" value="1878-07-30"/>
+		<t type="DATE" span="8-502-24" id="t_1659" value="2240"/>
+		<t type="DATE" span="8-504-12" id="t_1660" value="2670"/>
+		<t type="DATE" span="8-504-18" id="t_1661" value="2868"/>
+		<t type="DATE" span="8-505-23" id="t_1662" value="FUTURE_REF"/>
+		<t type="DATE" span="8-510-46" id="t_1663" value="1878-08-01"/>
+		<t type="DATE" span="8-530-13" id="t_1664" value="PRESENT_REF"/>
+		<t type="DATE" span="8-535-2" id="t_1665" value="1878-08-02"/>
+		<t type="DATE" span="44-3-2, a44-s3-w3, a44-s3-w4, a44-s3-w5" id="t_1666" value="1878-09-01"/>
+		<t type="DATE" span="44-62-30" id="t_1667" value="PRESENT_REF"/>
+		<t type="DATE" span="44-62-32" id="t_1668" value="PAST_REF"/>
+		<t type="DATE" span="44-63-6" id="t_1669" value="1878"/>
+		<t type="DATE" span="44-67-19" id="t_1670" value="PRESENT_REF"/>
+		<t type="DATE" span="44-70-12" id="t_1671" value="1878-09-02"/>
+		<t type="DATE" span="44-72-36, a44-s72-w37" id="t_1672" value="FUTURE_REF"/>
+		<t type="DATE" span="44-75-44" id="t_1673" value="PRESENT_REF"/>
+		<t type="DATE" span="44-76-14, a44-s76-w15" id="t_1674" value="1878"/>
+		<t type="DATE" span="44-83-8" id="t_1675" value="1879"/>
+		<t type="DATE" span="44-109-5" id="t_1676" value="1877"/>
+		<t type="DATE" span="44-126-8" id="t_1677" value="1879"/>
+		<t type="DATE" span="44-137-21" id="t_1678" value="1879"/>
+		<t type="DATE" span="45-4-3" id="t_1679" value="1878"/>
+		<t type="DATE" span="45-5-16" id="t_1680" value="PAST_REF"/>
+		<t type="DATE" span="45-7-67" id="t_1681" value="1878"/>
+		<t type="DATE" span="45-10-2, a45-s10-w3" id="t_1682" value="1878-12-31"/>
+		<t type="DATE" span="45-11-45" id="t_1683" value="1878-01"/>
+		<t type="DATE" span="45-12-41, a45-s12-w42" id="t_1684" value="1878-SP"/>
+		<t type="DATE" span="45-13-6, a45-s13-w7" id="t_1685" value="1878-12" mod="END"/>
+		<t type="DATE" span="45-13-17" id="t_1686" value="2106"/>
+		<t type="DATE" span="45-15-93" id="t_1687" value="1878"/>
+		<t type="DATE" span="45-18-9, a45-s18-w10, a45-s18-w11" id="t_1688" value="1878-01-18"/>
+		<t type="DATE" span="45-23-7" id="t_1689" value="PRESENT_REF"/>
+		<t type="DATE" span="45-23-24, a45-s23-w25" id="t_1690" value="1878-07" mod="END"/>
+		<t type="DATE" span="45-26-7" id="t_1691" value="1878-09"/>
+		<t type="DATE" span="45-28-44" id="t_1692" value="1876"/>
+		<t type="DATE" span="45-29-12, a45-s29-w13, a45-s29-w14" id="t_1693" value="PRESENT_REF"/>
+		<t type="DATE" span="45-47-24, a45-s47-w25" id="t_1694" value="1878-SU"/>
+		<t type="DATE" span="45-51-4" id="t_1695" value="PRESENT_REF"/>
+		<t type="DATE" span="45-52-7, a45-s52-w8" id="t_1696" value="1877-WI"/>
+		<t type="DATE" span="45-56-23" id="t_1697" value="PAST_REF"/>
+		<t type="DATE" span="45-57-13" id="t_1698" value="PRESENT_REF"/>
+		<t type="DATE" span="45-59-8" id="t_1699" value="1879"/>
+		<t type="DATE" span="45-59-18, a45-s59-w19" id="t_1700" value="1879"/>
+		<t type="DATE" span="45-60-6" id="t_1701" value="1880"/>
+		<t type="DATE" span="45-60-8" id="t_1702" value="1881"/>
+		<t type="DATE" span="45-62-4" id="t_1703" value="PRESENT_REF"/>
+		<t type="DATE" span="45-63-6, a45-s63-w7" id="t_1704" value="1878-SU"/>
+		<t type="DATE" span="45-65-2, a45-s65-w3, a45-s65-w4" id="t_1705" value="1878-SP"/>
+		<t type="DATE" span="45-68-22" id="t_1706" value="1878"/>
+		<t type="DATE" span="45-70-8" id="t_1707" value="PRESENT_REF"/>
+		<t type="DATE" span="45-73-4, a45-s73-w5" id="t_1708" value="1878-12" mod="END"/>
+		<t type="DATE" span="45-82-16" id="t_1709" value="1878-08"/>
+		<t type="DATE" span="45-102-25, a45-s102-w26" id="t_1710" value="1878"/>
+		<t type="DATE" span="45-104-20" id="t_1711" value="PAST_REF"/>
+		<t type="DATE" span="45-104-33" id="t_1712" value="PRESENT_REF"/>
+		<t type="DATE" span="45-122-54" id="t_1713" value="1863"/>
+		<t type="DATE" span="45-125-44, a45-s125-w45, a45-s125-w46" id="t_1714" value="1882-01-01"/>
+		<t type="DATE" span="45-131-3, a45-s131-w4, a45-s131-w5, a45-s131-w6" id="t_1715" value="1879-04-20"/>
+		<t type="DATE" span="46-42-11" id="t_1716" value="1877"/>
+		<t type="DATE" span="46-46-2" id="t_1717" value="1877"/>
+		<t type="DATE" span="46-68-9" id="t_1718" value="1879"/>
+		<t type="DATE" span="46-71-9" id="t_1719" value="1878"/>
+		<t type="DATE" span="46-97-2" id="t_1720" value="1878-05"/>
+		<t type="DATE" span="46-115-7" id="t_1721" value="1877"/>
+		<t type="DATE" span="46-133-4" id="t_1722" value="1877-05"/>
+		<t type="DATE" span="46-225-8" id="t_1723" value="1879"/>
+		<t type="DATE" span="46-237-2" id="t_1724" value="1879"/>
+		<t type="DATE" span="46-239-20" id="t_1725" value="1879-WI"/>
+		<t type="DATE" span="46-243-7" id="t_1726" value="1879-01"/>
+		<t type="DATE" span="46-244-2" id="t_1727" value="1879-04"/>
+		<t type="DATE" span="46-246-2" id="t_1728" value="1879-08"/>
+		<t type="DATE" span="46-273-2, a46-s273-w3, a46-s273-w4" id="t_1729" value="1878-12-31"/>
+		<t type="DATE" span="46-275-9" id="t_1730" value="1878-WI"/>
+		<t type="DATE" span="46-285-15" id="t_1731" value="1878-01"/>
+		<t type="DATE" span="46-285-20" id="t_1732" value="1878-08"/>
+		<t type="DATE" span="46-287-9" id="t_1733" value="1878-01"/>
+		<t type="DATE" span="46-291-12" id="t_1734" value="1878-12"/>
+		<t type="DATE" span="46-298-4" id="t_1735" value="1878-FA"/>
+		<t type="DATE" span="46-302-4" id="t_1736" value="1878-SP"/>
+		<t type="DATE" span="46-308-9" id="t_1737" value="1741"/>
+		<t type="DATE" span="46-308-11" id="t_1738" value="1742"/>
+		<t type="DATE" span="46-314-6" id="t_1739" value="1742-WI"/>
+		<t type="DATE" span="46-319-11" id="t_1740" value="1799"/>
+		<t type="DATE" span="46-321-14" id="t_1741" value="1879"/>
+		<t type="DATE" span="46-332-20" id="t_1742" value="1878-01"/>
+		<t type="DATE" span="46-336-3" id="t_1743" value="1878-01"/>
+		<t type="DATE" span="46-338-3" id="t_1744" value="1878-01"/>
+		<t type="DATE" span="46-347-3" id="t_1745" value="1878-01"/>
+		<t type="DATE" span="46-350-3" id="t_1746" value="1878-01"/>
+		<t type="DATE" span="46-351-7" id="t_1747" value="1878-01"/>
+		<t type="DATE" span="46-354-3" id="t_1748" value="1878-01"/>
+		<t type="DATE" span="46-357-3" id="t_1749" value="1878-01"/>
+		<t type="DATE" span="46-382-2" id="t_1750" value="1878"/>
+		<t type="DATE" span="46-419-2" id="t_1751" value="1879"/>
+		<t type="DATE" span="46-425-19" id="t_1752" value="1879-01"/>
+		<t type="DATE" span="46-426-6" id="t_1753" value="1879-02"/>
+		<t type="DATE" span="46-427-8" id="t_1754" value="1879-08"/>
+		<t type="DATE" span="46-428-10" id="t_1755" value="1879-11"/>
+		<t type="DATE" span="46-428-15" id="t_1756" value="1879-12"/>
+		<t type="DATE" span="46-436-6" id="t_1757" value="1879-02"/>
+		<t type="DATE" span="46-460-5" id="t_1758" value="1878"/>
+		<t type="DATE" span="46-469-12" id="t_1759" value="1878"/>
+		<t type="DATE" span="46-513-4" id="t_1760" value="1879"/>
+		<t type="DATE" span="46-516-10" id="t_1761" value="PRESENT_REF"/>
+		<t type="DATE" span="46-517-4" id="t_1762" value="PRESENT_REF"/>
+		<t type="DATE" span="46-519-10" id="t_1763" value="1878"/>
+		<t type="DATE" span="46-519-38" id="t_1764" value="1876"/>
+		<t type="DATE" span="46-524-9, a46-s524-w10" id="t_1765" value="1879-SU"/>
+		<t type="DATE" span="46-534-8" id="t_1766" value="1878"/>
+		<t type="DATE" span="46-544-2" id="t_1767" value="1879"/>
+		<t type="DATE" span="46-570-4, a46-s570-w5" id="t_1768" value="1878-01"/>
+		<t type="DATE" span="46-571-20" id="t_1769" value="1878-SP"/>
+		<t type="DATE" span="46-573-11" id="t_1770" value="1878-WI"/>
+		<t type="DATE" span="46-573-20" id="t_1771" value="1878-FA"/>
+		<t type="DATE" span="46-573-30" id="t_1772" value="1878-WI"/>
+		<t type="DATE" span="46-591-6" id="t_1773" value="1878-WI"/>
+		<t type="DATE" span="46-606-16" id="t_1774" value="1878-WI"/>
+		<t type="DATE" span="46-607-24" id="t_1775" value="1878-WI"/>
+		<t type="DATE" span="46-622-9" id="t_1776" value="1799"/>
+		<t type="DATE" span="47-4-2" id="t_1777" value="1878"/>
+		<t type="DATE" span="47-36-2, a47-s36-w3, a47-s36-w4" id="t_1778" value="1878-12-31"/>
+		<t type="DATE" span="47-38-3, a47-s38-w4, a47-s38-w5" id="t_1779" value="1877-12-31"/>
+		<t type="DATE" span="47-39-5" id="t_1780" value="1878"/>
+		<t type="DATE" span="47-43-5" id="t_1781" value="1000"/>
+		<t type="DATE" span="47-49-3, a47-s49-w4, a47-s49-w5" id="t_1782" value="1877-12-31"/>
+		<t type="DATE" span="47-56-4" id="t_1783" value="1878"/>
+		<t type="DATE" span="47-60-4" id="t_1784" value="2106"/>
+		<t type="DATE" span="47-84-4" id="t_1785" value="1878"/>
+		<t type="DATE" span="47-86-5" id="t_1786" value="1877"/>
+		<t type="DATE" span="47-88-5" id="t_1787" value="1878"/>
+		<t type="DATE" span="47-94-5" id="t_1788" value="1000"/>
+		<t type="DURATION" span="a3-s26-w20, a3-s26-w21" id="t_1789" value="PTX"/>
+		<t type="DURATION" span="a3-s37-w8, a3-s37-w9, a3-s37-w10" id="t_1790" value="P15Y" mod="PAST_REF"/>
+		<t type="DURATION" span="a3-s76-w19, a3-s76-w20" id="t_1791" value="PTXH"/>
+		<t type="DURATION" span="a3-s92-w20" id="t_1792" value="P1Y"/>
+		<t type="DURATION" span="a3-s100-w15, a3-s100-w16" id="t_1793" value="P5Y"/>
+		<t type="DURATION" span="a4-s84-w8, a4-s84-w9" id="t_1794" value="PT14H"/>
+		<t type="DURATION" span="a4-s99-w35" id="t_1795" value="PT3H"/>
+		<t type="DURATION" span="a4-s103-w4, a4-s103-w5, a4-s103-w6, a4-s103-w7" id="t_1796" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s103-w25" id="t_1797" value="PTX"/>
+		<t type="DURATION" span="a4-s107-w26, a4-s107-w27, a4-s107-w28, a4-s107-w29" id="t_1798" value="PT1H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s117-w14, a4-s117-w15" id="t_1799" value="PT7H"/>
+		<t type="DURATION" span="a4-s119-w9, a4-s119-w10" id="t_1800" value="PT1H"/>
+		<t type="DURATION" span="a4-s119-w11" id="t_1801" value="PTX"/>
+		<t type="DURATION" span="a4-s124-w30, a4-s124-w31" id="t_1802" value="PT7H"/>
+		<t type="DURATION" span="a4-s130-w10, a4-s130-w11, a4-s130-w12, a4-s130-w13, a4-s130-w14" id="t_1803" value="PT1H20M"/>
+		<t type="DURATION" span="a4-s135-w12, a4-s135-w13" id="t_1804" value="PT13H"/>
+		<t type="DURATION" span="a4-s135-w17" id="t_1805" value="PTX"/>
+		<t type="DURATION" span="a4-s135-w29, a4-s135-w30" id="t_1806" value="PT11H"/>
+		<t type="DURATION" span="a4-s135-w32, a4-s135-w33" id="t_1807" value="PT2H"/>
+		<t type="DURATION" span="a4-s135-w34" id="t_1808" value="PTX"/>
+		<t type="DURATION" span="a4-s141-w33, a4-s141-w34" id="t_1809" value="PTX"/>
+		<t type="DURATION" span="a4-s143-w13, a4-s143-w14, a4-s143-w15" id="t_1810" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s143-w17, a4-s143-w18" id="t_1811" value="PT13H"/>
+		<t type="DURATION" span="a4-s156-w9, a4-s156-w10" id="t_1812" value="PT7H"/>
+		<t type="DURATION" span="a4-s158-w6, a4-s158-w7" id="t_1813" value="PT3H"/>
+		<t type="DURATION" span="a4-s158-w8" id="t_1814" value="PTX"/>
+		<t type="DURATION" span="a4-s175-w6, a4-s175-w7" id="t_1815" value="P1W"/>
+		<t type="DURATION" span="a4-s175-w9, a4-s175-w10" id="t_1816" value="P2D"/>
+		<t type="DURATION" span="a4-s179-w24, a4-s179-w25, a4-s179-w26" id="t_1817" value="PT8H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s179-w36" id="t_1818" value="PTX"/>
+		<t type="DURATION" span="a4-s180-w33, a4-s180-w34" id="t_1819" value="PT45M"/>
+		<t type="DURATION" span="a4-s181-w8, a4-s181-w9, a4-s181-w10" id="t_1820" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s188-w21, a4-s188-w22" id="t_1821" value="PTX"/>
+		<t type="DURATION" span="a4-s189-w17, a4-s189-w18" id="t_1822" value="PT19H"/>
+		<t type="DURATION" span="a4-s191-w12, a4-s191-w13" id="t_1823" value="P1D"/>
+		<t type="DURATION" span="a4-s200-w39, a4-s200-w40" id="t_1824" value="PT1H"/>
+		<t type="DURATION" span="a4-s207-w16, a4-s207-w17" id="t_1825" value="PT1H"/>
+		<t type="DURATION" span="a4-s208-w49, a4-s208-w50, a4-s208-w51" id="t_1826" value="PT11H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s223-w15, a4-s223-w16, a4-s223-w17" id="t_1827" value="PTX"/>
+		<t type="DURATION" span="a4-s233-w3, a4-s233-w4" id="t_1828" value="PTX"/>
+		<t type="DURATION" span="a4-s233-w23, a4-s233-w24" id="t_1829" value="PT20H"/>
+		<t type="DURATION" span="a4-s262-w3, a4-s262-w4" id="t_1830" value="P8Y"/>
+		<t type="DURATION" span="a4-s264-w3, a4-s264-w4" id="t_1831" value="P5D"/>
+		<t type="DURATION" span="a4-s265-w2, a4-s265-w3" id="t_1832" value="P1W"/>
+		<t type="DURATION" span="a4-s273-w8, a4-s273-w9" id="t_1833" value="PT3H"/>
+		<t type="DURATION" span="a4-s279-w1, a4-s279-w2" id="t_1834" value="PT2H"/>
+		<t type="DURATION" span="a4-s281-w18, a4-s281-w19" id="t_1835" value="PT30M"/>
+		<t type="DURATION" span="a4-s282-w4, a4-s282-w5" id="t_1836" value="PT13H"/>
+		<t type="DURATION" span="a4-s283-w25, a4-s283-w26, a4-s283-w27" id="t_1837" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s292-w6, a4-s292-w7, a4-s292-w8" id="t_1838" value="PT45M" mod="APPROX"/>
+		<t type="DURATION" span="a4-s305-w11, a4-s305-w12" id="t_1839" value="PT1H"/>
+		<t type="DURATION" span="a4-s308-w23, a4-s308-w24" id="t_1840" value="PT30M"/>
+		<t type="DURATION" span="a4-s315-w13" id="t_1841" value="PT2H"/>
+		<t type="DURATION" span="a4-s315-w15" id="t_1842" value="PTX"/>
+		<t type="DURATION" span="a4-s323-w5, a4-s323-w6" id="t_1843" value="PXD"/>
+		<t type="DURATION" span="a4-s324-w2, a4-s324-w3" id="t_1844" value="P3D"/>
+		<t type="DURATION" span="a4-s324-w19, a4-s324-w20" id="t_1845" value="PT36H"/>
+		<t type="DURATION" span="a4-s332-w12, a4-s332-w13, a4-s332-w14" id="t_1846" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s335-w14, a4-s335-w15, a4-s335-w16" id="t_1847" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s341-w12" id="t_1848" value="PT15M"/>
+		<t type="DURATION" span="a4-s347-w33, a4-s347-w34, a4-s347-w35" id="t_1849" value="PT12H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s348-w1, a4-s348-w2" id="t_1850" value="P2Y"/>
+		<t type="DURATION" span="a4-s360-w3, a4-s360-w4" id="t_1851" value="PTX"/>
+		<t type="DURATION" span="a4-s362-w10, a4-s362-w11" id="t_1852" value="PT14H"/>
+		<t type="DURATION" span="a4-s362-w14, a4-s362-w15, a4-s362-w16" id="t_1853" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a4-s362-w17" id="t_1854" value="PTX"/>
+		<t type="DURATION" span="a4-s374-w21" id="t_1855" value="PT2H"/>
+		<t type="DURATION" span="a4-s379-w1, a4-s379-w2" id="t_1856" value="PT1H15M"/>
+		<t type="DURATION" span="a4-s383-w4" id="t_1857" value="PTX"/>
+		<t type="DURATION" span="a4-s386-w20, a4-s386-w21" id="t_1858" value="PT10H"/>
+		<t type="DURATION" span="a4-s437-w2, a4-s437-w3" id="t_1859" value="PT1H15M"/>
+		<t type="DURATION" span="a4-s450-w30, a4-s450-w31" id="t_1860" value="PT1H"/>
+		<t type="DURATION" span="a4-s468-w15, a4-s468-w16" id="t_1861" value="PT4H"/>
+		<t type="DURATION" span="a4-s471-w3" id="t_1862" value="PTX"/>
+		<t type="DURATION" span="a4-s476-w3, a4-s476-w4, a4-s476-w5" id="t_1863" value="PT1H" mod="APPROX"/>
+		<t type="DURATION" span="a5-s19-w13, a5-s19-w14" id="t_1864" value="P1Y"/>
+		<t type="DURATION" span="a5-s22-w44" id="t_1865" value="PT5H"/>
+		<t type="DURATION" span="a5-s42-w11, a5-s42-w12" id="t_1866" value="PTX"/>
+		<t type="DURATION" span="a5-s45-w14, a5-s45-w15" id="t_1867" value="P11M"/>
+		<t type="DURATION" span="a5-s52-w3, a5-s52-w4" id="t_1868" value="PTX"/>
+		<t type="DURATION" span="a5-s66-w1, a5-s66-w2" id="t_1869" value="PT9H"/>
+		<t type="DURATION" span="a5-s69-w13, a5-s69-w14" id="t_1870" value="PTX"/>
+		<t type="DURATION" span="a5-s72-w3, a5-s72-w4" id="t_1871" value="P8D"/>
+		<t type="DURATION" span="a5-s72-w16, a5-s72-w17, a5-s72-w18" id="t_1872" value="P1D" mod="APPROX"/>
+		<t type="DURATION" span="a5-s151-w10, a5-s151-w11" id="t_1873" value="PTXH"/>
+		<t type="DURATION" span="a5-s166-w21, a5-s166-w22" id="t_1874" value="PT40M"/>
+		<t type="DURATION" span="a5-s181-w7, a5-s181-w8, a5-s181-w9" id="t_1875" value="PT20M" mod="APPROX"/>
+		<t type="DURATION" span="a5-s182-w1, a5-s182-w2, a5-s182-w3" id="t_1876" value="PT3H" mod="APPROX"/>
+		<t type="DURATION" span="a5-s196-w14" id="t_1877" value="PT30M"/>
+		<t type="DURATION" span="a5-s196-w15" id="t_1878" value="PTX"/>
+		<t type="DURATION" span="a5-s199-w1, a5-s199-w2" id="t_1879" value="P9Y"/>
+		<t type="DURATION" span="a5-s212-w25, a5-s212-w26, a5-s212-w27, a5-s212-w28" id="t_1880" value="PT18H17M"/>
+		<t type="DURATION" span="a5-s234-w30, a5-s234-w31" id="t_1881" value="PT15M"/>
+		<t type="DURATION" span="a5-s238-w4, a5-s238-w5" id="t_1882" value="PT9H"/>
+		<t type="DURATION" span="a5-s239-w7, a5-s239-w8, a5-s239-w9" id="t_1883" value="PT30M"/>
+		<t type="DURATION" span="a5-s248-w7, a5-s248-w8" id="t_1884" value="P28Y"/>
+		<t type="DURATION" span="a5-s248-w26" id="t_1885" value="P"/>
+		<t type="DURATION" span="a6-s17-w5, a6-s17-w6, a6-s17-w7" id="t_1886" value="PT30M"/>
+		<t type="DURATION" span="a6-s23-w8, a6-s23-w9, a6-s23-w10" id="t_1887" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a6-s24-w29, a6-s24-w30" id="t_1888" value="PT12H"/>
+		<t type="DURATION" span="a6-s25-w8, a6-s25-w9" id="t_1889" value="P2D"/>
+		<t type="DURATION" span="a6-s60-w13, a6-s60-w14, a6-s60-w15" id="t_1890" value="PT4H" mod="APPROX"/>
+		<t type="DURATION" span="a6-s77-w11, a6-s77-w12, a6-s77-w13" id="t_1891" value="PT30M"/>
+		<t type="DURATION" span="a6-s88-w18, a6-s88-w19, a6-s88-w20" id="t_1892" value="PT30M"/>
+		<t type="DURATION" span="a6-s92-w20, a6-s92-w21" id="t_1893" value="PTXH"/>
+		<t type="DURATION" span="a6-s114-w5, a6-s114-w6" id="t_1894" value="P1D"/>
+		<t type="DURATION" span="a6-s121-w64, a6-s121-w65" id="t_1895" value="PT10M"/>
+		<t type="DURATION" span="a6-s121-w66" id="t_1896" value="PTX"/>
+		<t type="DURATION" span="a6-s122-w7, a6-s122-w8" id="t_1897" value="PT5M"/>
+		<t type="DURATION" span="a6-s131-w4, a6-s131-w5" id="t_1898" value="PT24M"/>
+		<t type="DURATION" span="a6-s135-w3, a6-s135-w4" id="t_1899" value="PT10M"/>
+		<t type="DURATION" span="a6-s141-w13, a6-s141-w14, a6-s141-w15" id="t_1900" value="PT30M"/>
+		<t type="DURATION" span="a6-s141-w29, a6-s141-w30, a6-s141-w31" id="t_1901" value="PT30M"/>
+		<t type="DURATION" span="a6-s141-w32" id="t_1902" value="PTX"/>
+		<t type="DURATION" span="a6-s142-w14" id="t_1903" value="PXM"/>
+		<t type="DURATION" span="a6-s142-w16, a6-s142-w17" id="t_1904" value="PXW"/>
+		<t type="DURATION" span="a7-s30-w6, a7-s30-w7" id="t_1905" value="PT14H"/>
+		<t type="DURATION" span="a7-s46-w22, a7-s46-w23" id="t_1906" value="P3W"/>
+		<t type="DURATION" span="a7-s50-w40, a7-s50-w41" id="t_1907" value="PT1H"/>
+		<t type="DURATION" span="a7-s62-w1, a7-s62-w2" id="t_1908" value="PT1H"/>
+		<t type="DURATION" span="a7-s66-w2, a7-s66-w3" id="t_1909" value="PT1H"/>
+		<t type="DURATION" span="a7-s78-w4" id="t_1910" value="PT15M"/>
+		<t type="DURATION" span="a7-s83-w41, a7-s83-w42" id="t_1911" value="P1W"/>
+		<t type="DURATION" span="a7-s88-w2" id="t_1912" value="P1Y"/>
+		<t type="DURATION" span="a7-s91-w33, a7-s91-w34, a7-s91-w35" id="t_1913" value="PT30M"/>
+		<t type="DURATION" span="a7-s100-w17, a7-s100-w18" id="t_1914" value="PTXM"/>
+		<t type="DURATION" span="a7-s111-w3, a7-s111-w4" id="t_1915" value="PT20M"/>
+		<t type="DURATION" span="a7-s113-w14, a7-s113-w15" id="t_1916" value="PT15M"/>
+		<t type="DURATION" span="a7-s116-w36, a7-s116-w37, a7-s116-w38" id="t_1917" value="PT4H30M"/>
+		<t type="DURATION" span="a7-s162-w8, a7-s162-w9, a7-s162-w10, a7-s162-w11" id="t_1918" value="PT8H" mod="APPROX"/>
+		<t type="DURATION" span="a7-s169-w12, a7-s169-w13" id="t_1919" value="PTXM"/>
+		<t type="DURATION" span="a7-s172-w2" id="t_1920" value="PT2H"/>
+		<t type="DURATION" span="a7-s180-w35, a7-s180-w36, a7-s180-w37, a7-s180-w38" id="t_1921" value="PT1H30M"/>
+		<t type="DURATION" span="a7-s181-w2, a7-s181-w3, a7-s181-w4" id="t_1922" value="PT30M"/>
+		<t type="DURATION" span="a9-s20-w19" id="t_1923" value="PTX"/>
+		<t type="DURATION" span="a9-s40-w7, a9-s40-w8" id="t_1924" value="P2D"/>
+		<t type="DURATION" span="a9-s52-w20, a9-s52-w21" id="t_1925" value="PXD"/>
+		<t type="DURATION" span="a9-s61-w17, a9-s61-w18" id="t_1926" value="PXD"/>
+		<t type="DURATION" span="a9-s88-w2" id="t_1927" value="PT30M"/>
+		<t type="DURATION" span="a9-s88-w3" id="t_1928" value="PTX"/>
+		<t type="DURATION" span="a9-s109-w4, a9-s109-w5" id="t_1929" value="PT30M"/>
+		<t type="DURATION" span="a9-s132-w3" id="t_1930" value="PTX"/>
+		<t type="DURATION" span="a9-s142-w29, a9-s142-w30" id="t_1931" value="PTX"/>
+		<t type="DURATION" span="a9-s148-w32, a9-s148-w33" id="t_1932" value="PT18H"/>
+		<t type="DURATION" span="a9-s148-w38" id="t_1933" value="PTX"/>
+		<t type="DURATION" span="a10-s8-w6, a10-s8-w7" id="t_1934" value="PXD"/>
+		<t type="DURATION" span="a10-s8-w18, a10-s8-w19" id="t_1935" value="PXD"/>
+		<t type="DURATION" span="a10-s10-w7, a10-s10-w8" id="t_1936" value="P2D"/>
+		<t type="DURATION" span="a10-s36-w17, a10-s36-w18" id="t_1937" value="PT3H"/>
+		<t type="DURATION" span="a10-s37-w2, a10-s37-w3" id="t_1938" value="PTX"/>
+		<t type="DURATION" span="a10-s58-w4, a10-s58-w5" id="t_1939" value="PT30M"/>
+		<t type="DURATION" span="a10-s66-w30, a10-s66-w31, a10-s66-w32" id="t_1940" value="PT5H" mod="APPROX"/>
+		<t type="DURATION" span="a10-s70-w18, a10-s70-w19" id="t_1941" value="PXD"/>
+		<t type="DURATION" span="a10-s93-w15, a10-s93-w16" id="t_1942" value="P3D"/>
+		<t type="DURATION" span="a10-s98-w2, a10-s98-w3, a10-s98-w4, a10-s98-w5" id="t_1943" value="PT30M"/>
+		<t type="DURATION" span="a10-s102-w44, a10-s102-w45, a10-s102-w46" id="t_1944" value="PT30M"/>
+		<t type="DURATION" span="a10-s108-w9, a10-s108-w10, a10-s108-w11" id="t_1945" value="PTX"/>
+		<t type="DURATION" span="a10-s124-w4, a10-s124-w5" id="t_1946" value="PTX"/>
+		<t type="DURATION" span="a10-s128-w12, a10-s128-w13" id="t_1947" value="PT10M"/>
+		<t type="DURATION" span="a10-s134-w2, a10-s134-w3" id="t_1948" value="PT15M"/>
+		<t type="DURATION" span="a10-s188-w6, a10-s188-w7, a10-s188-w8, a10-s188-w9" id="t_1949" value="PT30M" mod="APPROX"/>
+		<t type="DURATION" span="a10-s191-w5" id="t_1950" value="PTX"/>
+		<t type="DURATION" span="a10-s195-w2, a10-s195-w3" id="t_1951" value="PT30M"/>
+		<t type="DURATION" span="a10-s195-w4" id="t_1952" value="PTX"/>
+		<t type="DURATION" span="a10-s197-w2, a10-s197-w3" id="t_1953" value="PT1H"/>
+		<t type="DURATION" span="a10-s252-w46, a10-s252-w47, a10-s252-w48" id="t_1954" value="PT30M"/>
+		<t type="DURATION" span="a10-s259-w21, a10-s259-w22" id="t_1955" value="PT1H"/>
+		<t type="DURATION" span="a10-s262-w24" id="t_1956" value="PT30M"/>
+		<t type="DURATION" span="a10-s266-w20, a10-s266-w21, a10-s266-w22" id="t_1957" value="PTX"/>
+		<t type="DURATION" span="a10-s270-w6" id="t_1958" value="PTX"/>
+		<t type="DURATION" span="a10-s278-w17, a10-s278-w18, a10-s278-w19" id="t_1959" value="PT30M"/>
+		<t type="DURATION" span="a10-s296-w12, a10-s296-w13, a10-s296-w14" id="t_1960" value="PT30M"/>
+		<t type="DURATION" span="a10-s324-w40, a10-s324-w41" id="t_1961" value="PTX"/>
+		<t type="DURATION" span="a10-s329-w32" id="t_1962" value="PT30M"/>
+		<t type="DURATION" span="a10-s341-w8, a10-s341-w9" id="t_1963" value="PXW"/>
+		<t type="DURATION" span="a10-s361-w15, a10-s361-w16" id="t_1964" value="PT4H"/>
+		<t type="DURATION" span="a10-s391-w23" id="t_1965" value="PT30M"/>
+		<t type="DURATION" span="a10-s409-w22, a10-s409-w23" id="t_1966" value="PT6H"/>
+		<t type="DURATION" span="a10-s422-w2, a10-s422-w3" id="t_1967" value="PT1H"/>
+		<t type="DURATION" span="a10-s425-w4, a10-s425-w5" id="t_1968" value="PXY"/>
+		<t type="DURATION" span="a10-s427-w41, a10-s427-w42" id="t_1969" value="PXY"/>
+		<t type="DURATION" span="a10-s455-w25, a10-s455-w26" id="t_1970" value="PT1H"/>
+		<t type="DURATION" span="a10-s456-w2, a10-s456-w3" id="t_1971" value="PTX"/>
+		<t type="DURATION" span="a10-s471-w2, a10-s471-w3" id="t_1972" value="PT5M"/>
+		<t type="DURATION" span="a11-s7-w25, a11-s7-w26" id="t_1973" value="PTX"/>
+		<t type="DURATION" span="a11-s22-w2, a11-s22-w3" id="t_1974" value="PT1H15M"/>
+		<t type="DURATION" span="a11-s41-w21" id="t_1975" value="PT3H"/>
+		<t type="DURATION" span="a11-s50-w9, a11-s50-w10, a11-s50-w11" id="t_1976" value="PT30M"/>
+		<t type="DURATION" span="a11-s54-w9" id="t_1977" value="P1Y"/>
+		<t type="DURATION" span="a11-s64-w43, a11-s64-w44" id="t_1978" value="PTX"/>
+		<t type="DURATION" span="a11-s72-w8, a11-s72-w9" id="t_1979" value="PTXM"/>
+		<t type="DURATION" span="a11-s88-w9, a11-s88-w10, a11-s88-w11" id="t_1980" value="PT30M"/>
+		<t type="DURATION" span="a11-s105-w1, a11-s105-w2" id="t_1981" value="PT1M"/>
+		<t type="DURATION" span="a11-s125-w11, a11-s125-w12" id="t_1982" value="PTX"/>
+		<t type="DURATION" span="a11-s131-w3, a11-s131-w4" id="t_1983" value="PT15M"/>
+		<t type="DURATION" span="a11-s141-w4, a11-s141-w5, a11-s141-w6" id="t_1984" value="PTXS"/>
+		<t type="DURATION" span="a11-s143-w16, a11-s143-w17" id="t_1985" value="PT20M"/>
+		<t type="DURATION" span="a12-s31-w21, a12-s31-w22" id="t_1986" value="PTXM"/>
+		<t type="DURATION" span="a12-s31-w23" id="t_1987" value="PTX"/>
+		<t type="DURATION" span="a12-s47-w7, a12-s47-w8, a12-s47-w9" id="t_1988" value="PT3H20M"/>
+		<t type="DURATION" span="a12-s49-w23, a12-s49-w24" id="t_1989" value="P1D"/>
+		<t type="DURATION" span="a12-s85-w1, a12-s85-w2" id="t_1990" value="PT1H"/>
+		<t type="DURATION" span="a12-s151-w2, a12-s151-w3" id="t_1991" value="PT15M"/>
+		<t type="DURATION" span="a12-s163-w2, a12-s163-w3, a12-s163-w4" id="t_1992" value="PT30M"/>
+		<t type="DURATION" span="a12-s165-w2, a12-s165-w3" id="t_1993" value="PTX"/>
+		<t type="DURATION" span="a12-s190-w10, a12-s190-w11" id="t_1994" value="PT4H"/>
+		<t type="DURATION" span="a12-s206-w8, a12-s206-w9" id="t_1995" value="P32Y"/>
+		<t type="DURATION" span="a12-s210-w13, a12-s210-w14, a12-s210-w15" id="t_1996" value="PT4H" mod="APPROX"/>
+		<t type="DURATION" span="a12-s252-w7, a12-s252-w8" id="t_1997" value="PT2H"/>
+		<t type="DURATION" span="a12-s292-w2, a12-s292-w3, a12-s292-w4" id="t_1998" value="PT30M"/>
+		<t type="DURATION" span="a12-s292-w14" id="t_1999" value="PT3H"/>
+		<t type="DURATION" span="a12-s294-w6, a12-s294-w7" id="t_2000" value="PT1H"/>
+		<t type="DURATION" span="a12-s298-w15, a12-s298-w16, a12-s298-w17" id="t_2001" value="PT30M"/>
+		<t type="DURATION" span="a12-s317-w5, a12-s317-w6" id="t_2002" value="PT15M"/>
+		<t type="DURATION" span="a12-s338-w10, a12-s338-w11, a12-s338-w12" id="t_2003" value="PTXM"/>
+		<t type="DURATION" span="a12-s362-w26, a12-s362-w27" id="t_2004" value="PT1H"/>
+		<t type="DURATION" span="a12-s377-w15, a12-s377-w16" id="t_2005" value="PT2H"/>
+		<t type="DURATION" span="a12-s401-w26, a12-s401-w27" id="t_2006" value="PT10H"/>
+		<t type="DURATION" span="a13-s23-w15, a13-s23-w16" id="t_2007" value="PTX"/>
+		<t type="DURATION" span="a13-s34-w5, a13-s34-w6" id="t_2008" value="PTXH"/>
+		<t type="DURATION" span="a13-s75-w9" id="t_2009" value="PTX"/>
+		<t type="DURATION" span="a13-s82-w4, a13-s82-w5" id="t_2010" value="PTX"/>
+		<t type="DURATION" span="a13-s82-w28, a13-s82-w29" id="t_2011" value="P10Y"/>
+		<t type="DURATION" span="a13-s88-w3" id="t_2012" value="PTX"/>
+		<t type="DURATION" span="a13-s100-w9, a13-s100-w10" id="t_2013" value="PTX"/>
+		<t type="DURATION" span="a13-s109-w9" id="t_2014" value="PT7H"/>
+		<t type="DURATION" span="a13-s121-w11, a13-s121-w12" id="t_2015" value="PT1H"/>
+		<t type="DURATION" span="a14-s108-w8" id="t_2016" value="P1Y"/>
+		<t type="DURATION" span="a14-s111-w11, a14-s111-w12" id="t_2017" value="P27Y"/>
+		<t type="DURATION" span="a14-s171-w44, a14-s171-w45" id="t_2018" value="P5500Y"/>
+		<t type="DURATION" span="a14-s174-w8, a14-s174-w9" id="t_2019" value="P4Y"/>
+		<t type="DURATION" span="a14-s174-w18, a14-s174-w19" id="t_2020" value="P4125Y"/>
+		<t type="DURATION" span="a14-s190-w7" id="t_2021" value="PTX"/>
+		<t type="DURATION" span="a14-s279-w12" id="t_2022" value="P"/>
+		<t type="DURATION" span="a14-s294-w4, a14-s294-w5" id="t_2023" value="PTX"/>
+		<t type="DURATION" span="a14-s313-w8, a14-s313-w9, a14-s313-w10" id="t_2024" value="PT2H" mod="APPROX"/>
+		<t type="DURATION" span="a15-s9-w21, a15-s9-w22" id="t_2025" value="P1D"/>
+		<t type="DURATION" span="a15-s18-w14, a15-s18-w15" id="t_2026" value="PTXS"/>
+		<t type="DURATION" span="a15-s19-w16, a15-s19-w17" id="t_2027" value="PTXM"/>
+		<t type="DURATION" span="a15-s105-w1, a15-s105-w2" id="t_2028" value="PTX"/>
+		<t type="DURATION" span="a15-s126-w12, a15-s126-w13" id="t_2029" value="PT2M"/>
+		<t type="DURATION" span="a15-s126-w18, a15-s126-w19" id="t_2030" value="PTXS"/>
+		<t type="DURATION" span="a16-s20-w4, a16-s20-w5" id="t_2031" value="P5Y"/>
+		<t type="DURATION" span="a16-s21-w1, a16-s21-w2" id="t_2032" value="PXW"/>
+		<t type="DURATION" span="a16-s40-w20, a16-s40-w21, a16-s40-w22" id="t_2033" value="PT45M" mod="APPROX"/>
+		<t type="DURATION" span="a17-s38-w18, a17-s38-w19" id="t_2034" value="P14Y"/>
+		<t type="DURATION" span="a17-s46-w3, a17-s46-w4" id="t_2035" value="P1Y"/>
+		<t type="DURATION" span="a17-s49-w1, a17-s49-w2, a17-s49-w3, a17-s49-w4" id="t_2036" value="P6Y" mod="APPROX"/>
+		<t type="DURATION" span="a17-s59-w19, a17-s59-w20" id="t_2037" value="PTX"/>
+		<t type="DURATION" span="a17-s136-w12" id="t_2038" value="P"/>
+		<t type="DURATION" span="a17-s191-w9, a17-s191-w10" id="t_2039" value="P1Y"/>
+		<t type="DURATION" span="a17-s192-w36, a17-s192-w37" id="t_2040" value="PTX"/>
+		<t type="DURATION" span="a18-s10-w4, a18-s10-w5" id="t_2041" value="PTX"/>
+		<t type="DURATION" span="a18-s100-w6, a18-s100-w7, a18-s100-w8" id="t_2042" value="PTX"/>
+		<t type="DURATION" span="a18-s159-w3, a18-s159-w4" id="t_2043" value="P3D"/>
+		<t type="DURATION" span="a18-s194-w21, a18-s194-w22" id="t_2044" value="PTX"/>
+		<t type="DURATION" span="a18-s208-w5, a18-s208-w6, a18-s208-w7" id="t_2045" value="PTX"/>
+		<t type="DURATION" span="a18-s262-w1, a18-s262-w2" id="t_2046" value="P24D"/>
+		<t type="DURATION" span="a18-s294-w6, a18-s294-w7" id="t_2047" value="P1Y"/>
+		<t type="DURATION" span="a19-s37-w15, a19-s37-w16" id="t_2048" value="PTX"/>
+		<t type="DURATION" span="a19-s39-w13, a19-s39-w14" id="t_2049" value="PTX"/>
+		<t type="DURATION" span="a19-s51-w28, a19-s51-w29, a19-s51-w30" id="t_2050" value="PTX"/>
+		<t type="DURATION" span="a19-s77-w11, a19-s77-w12" id="t_2051" value="PTX"/>
+		<t type="DURATION" span="a20-s9-w23, a20-s9-w24" id="t_2052" value="P1D"/>
+		<t type="DURATION" span="a20-s18-w14, a20-s18-w15" id="t_2053" value="P1D"/>
+		<t type="DURATION" span="a20-s19-w51, a20-s19-w52" id="t_2054" value="PTX"/>
+		<t type="DURATION" span="a20-s44-w5, a20-s44-w6" id="t_2055" value="PTX"/>
+		<t type="DURATION" span="a20-s62-w3, a20-s62-w4" id="t_2056" value="PT1H"/>
+		<t type="DURATION" span="a20-s63-w17, a20-s63-w18" id="t_2057" value="PT5H"/>
+		<t type="DURATION" span="a20-s69-w42, a20-s69-w43" id="t_2058" value="PT4H"/>
+		<t type="DURATION" span="a20-s87-w10, a20-s87-w11, a20-s87-w12" id="t_2059" value="PTX"/>
+		<t type="DURATION" span="a20-s97-w2, a20-s97-w3" id="t_2060" value="P7D"/>
+		<t type="DURATION" span="a20-s109-w17, a20-s109-w18" id="t_2061" value="PTX"/>
+		<t type="DURATION" span="a21-s8-w41, a21-s8-w42" id="t_2062" value="PT13M"/>
+		<t type="DURATION" span="a21-s38-w4, a21-s38-w5" id="t_2063" value="PTX"/>
+		<t type="DURATION" span="a21-s44-w9, a21-s44-w10" id="t_2064" value="PT4H"/>
+		<t type="DURATION" span="a21-s48-w7" id="t_2065" value="PTX"/>
+		<t type="DURATION" span="a22-s7-w16, a22-s7-w17, a22-s7-w18" id="t_2066" value="PT4H" mod="APPROX"/>
+		<t type="DURATION" span="a22-s7-w22, a22-s7-w23, a22-s7-w24" id="t_2067" value="PT90M" mod="PAST_REF"/>
+		<t type="DURATION" span="a23-s12-w19, a23-s12-w20, a23-s12-w21" id="t_2068" value="PT3H" mod="APPROX"/>
+		<t type="DURATION" span="a23-s15-w38, a23-s15-w39" id="t_2069" value="PTX"/>
+		<t type="DURATION" span="a24-s25-w30, a24-s25-w31" id="t_2070" value="PT25M"/>
+		<t type="DURATION" span="a24-s48-w32, a24-s48-w33" id="t_2071" value="P1D"/>
+		<t type="DURATION" span="a24-s48-w52, a24-s48-w53" id="t_2072" value="P1Y"/>
+		<t type="DURATION" span="a25-s5-w8, a25-s5-w9" id="t_2073" value="P7Y"/>
+		<t type="DURATION" span="a35-s3-w9, a35-s3-w10" id="t_2074" value="P3M"/>
+		<t type="DURATION" span="a37-s48-w24, a37-s48-w25, a37-s48-w26" id="t_2075" value="PXY"/>
+		<t type="DURATION" span="a38-s14-w7" id="t_2076" value="P"/>
+		<t type="DURATION" span="a38-s17-w3" id="t_2077" value="P"/>
+		<t type="DURATION" span="2-14-68, a2-s14-w69, a2-s14-w70, a2-s14-w71" id="t_2078" value="P25Y" mod="LESS_THAN"/>
+		<t type="DURATION" span="2-15-22, a2-s15-w23" id="t_2079" value="P22Y"/>
+		<t type="DURATION" span="2-62-10, a2-s62-w11" id="t_2080" value="PT8H"/>
+		<t type="DURATION" span="2-63-2, a2-s63-w3" id="t_2081" value="PT4H"/>
+		<t type="DURATION" span="2-69-5, a2-s69-w6" id="t_2082" value="PT5H"/>
+		<t type="DURATION" span="2-69-16, a2-s69-w17" id="t_2083" value="PT4H"/>
+		<t type="DURATION" span="2-79-4, a2-s79-w5" id="t_2084" value="PT5H"/>
+		<t type="DURATION" span="2-97-11, a2-s97-w12" id="t_2085" value="PT3H"/>
+		<t type="DURATION" span="2-101-21, a2-s101-w22" id="t_2086" value="PT4H"/>
+		<t type="DURATION" span="2-109-22, a2-s109-w23" id="t_2087" value="PT4H"/>
+		<t type="DURATION" span="2-111-12" id="t_2088" value="PT6H"/>
+		<t type="DURATION" span="2-111-14, a2-s111-w15" id="t_2089" value="PT7H"/>
+		<t type="DURATION" span="2-120-2, a2-s120-w3" id="t_2090" value="PT1H"/>
+		<t type="DURATION" span="2-163-19, a2-s163-w20" id="t_2091" value="P9M"/>
+		<t type="DURATION" span="2-180-8" id="t_2092" value="PT6H"/>
+		<t type="DURATION" span="2-180-10, a2-s180-w11" id="t_2093" value="PT7H"/>
+		<t type="DURATION" span="2-186-1" id="t_2094" value="PT8H"/>
+		<t type="DURATION" span="2-186-3, a2-s186-w4" id="t_2095" value="PT9H"/>
+		<t type="DURATION" span="2-220-14, a2-s220-w15" id="t_2096" value="PT7H"/>
+		<t type="DURATION" span="2-226-5, a2-s226-w6" id="t_2097" value="PT12H"/>
+		<t type="DURATION" span="2-231-17, a2-s231-w18" id="t_2098" value="PTXH"/>
+		<t type="DURATION" span="2-231-50, a2-s231-w51" id="t_2099" value="PT6H"/>
+		<t type="DURATION" span="2-235-1, a2-s235-w2" id="t_2100" value="PT4H"/>
+		<t type="DURATION" span="2-240-1, a2-s240-w2, a2-s240-w3" id="t_2101" value="PT4H" mod="APPROX"/>
+		<t type="DURATION" span="2-263-14, a2-s263-w15, a2-s263-w16, a2-s263-w17" id="t_2102" value="P1D" mod="APPROX"/>
+		<t type="DURATION" span="2-273-12, a2-s273-w13" id="t_2103" value="PT3H"/>
+		<t type="DURATION" span="2-277-6, a2-s277-w7" id="t_2104" value="P3Y"/>
+		<t type="DURATION" span="2-280-43, a2-s280-w44" id="t_2105" value="P3M"/>
+		<t type="DURATION" span="2-281-22, a2-s281-w23" id="t_2106" value="PT6H"/>
+		<t type="DURATION" span="2-282-35, a2-s282-w36" id="t_2107" value="PT3H"/>
+		<t type="DURATION" span="2-292-48, a2-s292-w49" id="t_2108" value="PT1H"/>
+		<t type="DURATION" span="2-322-1, a2-s322-w2" id="t_2109" value="PT1H"/>
+		<t type="DURATION" span="2-326-1, a2-s326-w2" id="t_2110" value="PT1H"/>
+		<t type="DURATION" span="2-329-1, a2-s329-w2" id="t_2111" value="PT25M"/>
+		<t type="DURATION" span="2-336-2, a2-s336-w3" id="t_2112" value="PT1H"/>
+		<t type="DURATION" span="2-341-1, a2-s341-w2" id="t_2113" value="PT2H"/>
+		<t type="DURATION" span="2-341-23, a2-s341-w24" id="t_2114" value="PT1H"/>
+		<t type="DURATION" span="2-354-10, a2-s354-w11" id="t_2115" value="PT1H"/>
+		<t type="DURATION" span="2-355-3, a2-s355-w4" id="t_2116" value="PT1H"/>
+		<t type="DURATION" span="2-356-5, a2-s356-w6" id="t_2117" value="PT1H"/>
+		<t type="DURATION" span="2-357-3, a2-s357-w4" id="t_2118" value="PT2H"/>
+		<t type="DURATION" span="2-357-8, a2-s357-w9" id="t_2119" value="PT3H"/>
+		<t type="DURATION" span="2-358-6, a2-s358-w7" id="t_2120" value="PT3H"/>
+		<t type="DURATION" span="2-361-5, a2-s361-w6" id="t_2121" value="PT1H"/>
+		<t type="DURATION" span="2-362-4, a2-s362-w5" id="t_2122" value="PT1H"/>
+		<t type="DURATION" span="2-363-4, a2-s363-w5" id="t_2123" value="PT2H"/>
+		<t type="DURATION" span="2-366-8, a2-s366-w9" id="t_2124" value="PT4H"/>
+		<t type="DURATION" span="2-373-8" id="t_2125" value="PT9H"/>
+		<t type="DURATION" span="2-373-10, a2-s373-w11" id="t_2126" value="PT10H"/>
+		<t type="DURATION" span="2-377-6, a2-s377-w7" id="t_2127" value="PT4H"/>
+		<t type="DURATION" span="2-377-11, a2-s377-w12" id="t_2128" value="PT5H"/>
+		<t type="DURATION" span="2-382-6, a2-s382-w7" id="t_2129" value="PT5H"/>
+		<t type="DURATION" span="2-383-5, a2-s383-w6" id="t_2130" value="PT1H"/>
+		<t type="DURATION" span="2-391-18" id="t_2131" value="PT5H"/>
+		<t type="DURATION" span="2-391-20, a2-s391-w21" id="t_2132" value="PT6H"/>
+		<t type="DURATION" span="2-395-4, a2-s395-w5" id="t_2133" value="PT3H"/>
+		<t type="DURATION" span="2-395-34, a2-s395-w35" id="t_2134" value="PT2H"/>
+		<t type="DURATION" span="2-395-39, a2-s395-w40" id="t_2135" value="PT3H"/>
+		<t type="DURATION" span="2-400-8, a2-s400-w9" id="t_2136" value="PT5H"/>
+		<t type="DURATION" span="2-400-14, a2-s400-w15" id="t_2137" value="PT3H"/>
+		<t type="DURATION" span="2-409-18, a2-s409-w19" id="t_2138" value="PT1H"/>
+		<t type="DURATION" span="2-429-13, a2-s429-w14" id="t_2139" value="PT3H"/>
+		<t type="DURATION" span="2-438-16, a2-s438-w17" id="t_2140" value="PT6H"/>
+		<t type="DURATION" span="2-441-4, a2-s441-w5" id="t_2141" value="PT20H"/>
+		<t type="DURATION" span="2-447-5, a2-s447-w6" id="t_2142" value="PT1H"/>
+		<t type="DURATION" span="2-448-1, a2-s448-w2" id="t_2143" value="PT23H"/>
+		<t type="DURATION" span="2-448-6, a2-s448-w7" id="t_2144" value="PT2H"/>
+		<t type="DURATION" span="2-479-8, a2-s479-w9" id="t_2145" value="PT6H"/>
+		<t type="DURATION" span="2-480-10, a2-s480-w11" id="t_2146" value="PT5H"/>
+		<t type="DURATION" span="2-501-1" id="t_2147" value="PT10H"/>
+		<t type="DURATION" span="2-501-3, a2-s501-w4" id="t_2148" value="PT12H"/>
+		<t type="DURATION" span="2-505-16, a2-s505-w17" id="t_2149" value="PT12H"/>
+		<t type="DURATION" span="2-508-15, a2-s508-w16" id="t_2150" value="PT4H"/>
+		<t type="DURATION" span="2-509-15, a2-s509-w16" id="t_2151" value="PT1H"/>
+		<t type="DURATION" span="2-511-11, a2-s511-w12, a2-s511-w13" id="t_2152" value="PT7H" mod="APPROX"/>
+		<t type="DURATION" span="2-513-9" id="t_2153" value="PT14H"/>
+		<t type="DURATION" span="2-513-11, a2-s513-w12" id="t_2154" value="PT16H"/>
+		<t type="DURATION" span="2-523-11, a2-s523-w12" id="t_2155" value="PT4H"/>
+		<t type="DURATION" span="2-532-2, a2-s532-w3" id="t_2156" value="P9M"/>
+		<t type="DURATION" span="2-532-7, a2-s532-w8" id="t_2157" value="P3M"/>
+		<t type="DURATION" span="2-564-23, a2-s564-w24" id="t_2158" value="P237D"/>
+		<t type="DURATION" span="2-565-19, a2-s565-w20" id="t_2159" value="P196D"/>
+		<t type="DURATION" span="2-569-8, a2-s569-w9" id="t_2160" value="P2M"/>
+		<t type="DURATION" span="2-569-17, a2-s569-w18" id="t_2161" value="P7Y"/>
+		<t type="DURATION" span="2-570-7, a2-s570-w8" id="t_2162" value="P4Y"/>
+		<t type="DURATION" span="2-570-19, a2-s570-w20" id="t_2163" value="P3D"/>
+		<t type="DURATION" span="2-570-34, a2-s570-w35" id="t_2164" value="P1D"/>
+		<t type="DURATION" span="2-577-5, a2-s577-w6" id="t_2165" value="P14Y"/>
+		<t type="DURATION" span="2-577-10, a2-s577-w11" id="t_2166" value="P3M"/>
+		<t type="DURATION" span="2-578-11, a2-s578-w12" id="t_2167" value="P71D"/>
+		<t type="DURATION" span="2-579-6, a2-s579-w7" id="t_2168" value="P49D"/>
+		<t type="DURATION" span="2-579-13, a2-s579-w14" id="t_2169" value="P18D"/>
+		<t type="DURATION" span="2-598-2, a2-s598-w3" id="t_2170" value="PXD"/>
+		<t type="DURATION" span="2-627-8, a2-s627-w9" id="t_2171" value="P5Y"/>
+		<t type="DURATION" span="2-627-18, a2-s627-w19" id="t_2172" value="P2Y"/>
+		<t type="DURATION" span="8-1-1, a8-s1-w2" id="t_2173" value="P20D"/>
+		<t type="DURATION" span="8-135-14, a8-s135-w15" id="t_2174" value="PT11H"/>
+		<t type="DURATION" span="8-158-55, a8-s158-w56" id="t_2175" value="PT1H"/>
+		<t type="DURATION" span="8-163-36, a8-s163-w37" id="t_2176" value="PTXH"/>
+		<t type="DURATION" span="8-169-2, a8-s169-w3" id="t_2177" value="PTXM"/>
+		<t type="DURATION" span="8-209-52, a8-s209-w53" id="t_2178" value="P1D"/>
+		<t type="DURATION" span="8-213-46, a8-s213-w47, a8-s213-w48, a8-s213-w49" id="t_2179" value="P2D" mod="APPROX"/>
+		<t type="DURATION" span="8-214-20, a8-s214-w21" id="t_2180" value="P2D"/>
+		<t type="DURATION" span="8-232-11, a8-s232-w12" id="t_2181" value="PT4H"/>
+		<t type="DURATION" span="8-239-3, a8-s239-w4" id="t_2182" value="PT10M"/>
+		<t type="DURATION" span="8-273-1, a8-s273-w2" id="t_2183" value="P6D"/>
+		<t type="DURATION" span="8-275-8, a8-s275-w9" id="t_2184" value="P1D"/>
+		<t type="DURATION" span="8-276-25" id="t_2185" value="PT5H"/>
+		<t type="DURATION" span="8-276-27, a8-s276-w28" id="t_2186" value="PT6H"/>
+		<t type="DURATION" span="8-283-3, a8-s283-w4, a8-s283-w5, a8-s283-w6" id="t_2187" value="PT4H" mod="APPROX"/>
+		<t type="DURATION" span="8-286-6, a8-s286-w7" id="t_2188" value="PT1H"/>
+		<t type="DURATION" span="8-306-4, a8-s306-w5" id="t_2189" value="PT3H"/>
+		<t type="DURATION" span="8-310-28, a8-s310-w29" id="t_2190" value="PT2H"/>
+		<t type="DURATION" span="8-344-9, a8-s344-w10" id="t_2191" value="PXD"/>
+		<t type="DURATION" span="8-351-48, a8-s351-w49" id="t_2192" value="P6D"/>
+		<t type="DURATION" span="8-358-10, a8-s358-w11, a8-s358-w12, a8-s358-w13" id="t_2193" value="PT2H" mod="LESS_THAN"/>
+		<t type="DURATION" span="8-408-6, a8-s408-w7" id="t_2194" value="PT2H"/>
+		<t type="DURATION" span="8-411-27, a8-s411-w28" id="t_2195" value="P6D"/>
+		<t type="DURATION" span="44-64-33, a44-s64-w34" id="t_2196" value="P3Y"/>
+		<t type="DURATION" span="44-92-13, a44-s92-w14" id="t_2197" value="PT8H"/>
+		<t type="DURATION" span="45-5-18, a45-s5-w19" id="t_2198" value="P1Y"/>
+		<t type="DURATION" span="45-7-45, a45-s7-w46, a45-s7-w47, a45-s7-w48" id="t_2199" value="P1Y"/>
+		<t type="DURATION" span="45-66-44, a45-s66-w45" id="t_2200" value="P3Y"/>
+		<t type="DURATION" span="45-81-36, a45-s81-w37" id="t_2201" value="P1D"/>
+		<t type="DURATION" span="45-122-36, a45-s122-w37" id="t_2202" value="P1Y"/>
+		<t type="DURATION" span="46-68-3, a46-s68-w4" id="t_2203" value="P1863Y"/>
+		<t type="SET" span="a3-s48-w18" id="t_2204" value="P1Y"/>
+		<t type="SET" span="a3-s77-w2" id="t_2205" value="P1Y"/>
+		<t type="SET" span="a3-s115-w15" id="t_2206" value="P1Y"/>
+		<t type="SET" span="a4-s425-w8" id="t_2207" value="P1Y"/>
+		<t type="SET" span="a5-s12-w7" id="t_2208" value="PX" freq="3X"/>
+		<t type="SET" span="a5-s207-w1" id="t_2209" value="PX" freq="2X"/>
+		<t type="SET" span="a6-s133-w27" id="t_2210" value="PX" freq="3X"/>
+		<t type="SET" span="a9-s50-w23, a9-s50-w24" id="t_2211" value="P1Y" quant="EVERY"/>
+		<t type="SET" span="a10-s85-w19" id="t_2212" value="P1Y"/>
+		<t type="SET" span="a13-s8-w18" id="t_2213" value="P1Y"/>
+		<t type="SET" span="a13-s76-w5" id="t_2214" value="P1Y"/>
+		<t type="SET" span="a13-s83-w7" id="t_2215" value="P1Y"/>
+		<t type="SET" span="a13-s94-w14" id="t_2216" value="P1Y"/>
+		<t type="SET" span="a13-s106-w17" id="t_2217" value="P1Y"/>
+		<t type="SET" span="a13-s137-w3" id="t_2218" value="P1Y"/>
+		<t type="SET" span="a13-s164-w4" id="t_2219" value="P1Y"/>
+		<t type="SET" span="a13-s165-w9" id="t_2220" value="P1Y"/>
+		<t type="SET" span="a14-s4-w3" id="t_2221" value="P1D"/>
+		<t type="SET" span="a14-s25-w8" id="t_2222" value="P1Y"/>
+		<t type="SET" span="a14-s48-w63" id="t_2223" value="P1Y"/>
+		<t type="SET" span="a14-s50-w3" id="t_2224" value="P1Y"/>
+		<t type="SET" span="a14-s64-w19" id="t_2225" value="P1Y"/>
+		<t type="SET" span="a14-s91-w11" id="t_2226" value="P1Y"/>
+		<t type="SET" span="a14-s103-w10" id="t_2227" value="P1Y"/>
+		<t type="SET" span="a14-s110-w6" id="t_2228" value="P1Y"/>
+		<t type="SET" span="a14-s133-w3" id="t_2229" value="P1Y"/>
+		<t type="SET" span="a14-s146-w2" id="t_2230" value="P1Y"/>
+		<t type="SET" span="a14-s148-w22" id="t_2231" value="P1Y"/>
+		<t type="SET" span="a14-s167-w19" id="t_2232" value="P1Y"/>
+		<t type="SET" span="a14-s168-w23" id="t_2233" value="P1Y"/>
+		<t type="SET" span="a14-s171-w18" id="t_2234" value="P1Y"/>
+		<t type="SET" span="a14-s173-w2" id="t_2235" value="P1Y"/>
+		<t type="SET" span="a14-s178-w2" id="t_2236" value="P1Y"/>
+		<t type="SET" span="a14-s180-w5" id="t_2237" value="P1Y"/>
+		<t type="SET" span="a14-s188-w39" id="t_2238" value="P1D"/>
+		<t type="SET" span="a17-s5-w27" id="t_2239" value="P1Y"/>
+		<t type="SET" span="a17-s189-w22" id="t_2240" value="P1Y"/>
+		<t type="SET" span="a18-s43-w27" id="t_2241" value="P1D"/>
+		<t type="SET" span="a18-s236-w13" id="t_2242" value="P1Y"/>
+		<t type="SET" span="a20-s18-w13" id="t_2243" value="PX" freq="2X"/>
+		<t type="SET" span="a22-s4-w11" id="t_2244" value="P1D"/>
+		<t type="SET" span="a23-s9-w4" id="t_2245" value="P1Y"/>
+		<t type="SET" span="a23-s28-w21" id="t_2246" value="P1Y"/>
+		<t type="SET" span="a25-s19-w15, a25-s19-w16" id="t_2247" value="XXXX-SU" freq="1S" quant="EVERY"/>
+		<t type="SET" span="a43-s7-w2, a43-s7-w3" id="t_2248" value="P1Y" quant="EVERY"/>
+		<t type="SET" span="2-15-18, a2-s15-w19" id="t_2249" value="XXXX-SU" freq="1S" quant="EVERY"/>
+		<t type="SET" span="2-573-10" id="t_2250" value="XXXX"/>
+		<t type="SET" span="8-9-41, a8-s9-w42, a8-s9-w43" id="t_2251" value="P1D" quant="EVERY"/>
+		<t type="SET" span="44-87-23" id="t_2252" value="XXXX"/>
+		<t type="SET" span="45-4-9" id="t_2253" value="XXXX"/>
+		<t type="SET" span="45-99-9, a45-s99-w10, a45-s99-w11, a45-s99-w12" id="t_2254" value="P2Y" quant="EVERY"/>
+		<t type="SET" span="45-127-25" id="t_2255" value="XXXX"/>
+	</TIMEX3>
+</TimeML>
