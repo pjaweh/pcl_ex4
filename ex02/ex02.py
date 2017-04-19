@@ -16,6 +16,7 @@ def main():
     infile = bz2.BZ2File(path)
     gettitles(infile, 'testfile.txt', 'trainfile.txt', 100)
 
+
 def gettitles(infile, testfile, trainfile, k):
     """Extract all article titles from infile, 
     write k thereof to testfile, rest to trainfile
@@ -37,7 +38,7 @@ def gettitles(infile, testfile, trainfile, k):
                 if t < k:
                     test_list.append(title)
                 else:
-                    m = random.randint(0, t)
+                    m = random.randint(e0, t)
                     if m < k:
                         train_out.write('%s\n' % test_list[m])
                         test_list[m] = title
