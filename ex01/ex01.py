@@ -18,11 +18,10 @@ def extract(file):
     """Get lemmatized sentences 
     """
     context = ET.iterparse(file, events=("start", "end"))
-    # Iterate over all elements in the subtree in document order (depth first pre-order), starting with this element.
     context = iter(context)
     event, root = next(context)
     for event, elem in context:
-        # find titles
+        # find sentences, ignore picture captions
         if event == "end" and elem.tag == 's' and elem.getparent().tag != 'caption':
             sent = ''
             for word in elem.iterfind('.//w'):
@@ -59,11 +58,5 @@ def getfreqwords(indir, outfile):
             outfile.write('{} \t {} \n'.format(v,k))
         outfile.close()
 
-
 if __name__ == '__main__':
         main()
-
-#while elem.getprevious() is not None:
-            #del elem.getparent()[0]
-
-# mit Hashes ergänzen!

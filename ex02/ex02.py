@@ -12,7 +12,9 @@ import random
 
 
 def main():
-    path = urllib.request.urlopen('https://dumps.wikimedia.org/dewiki/latest/dewiki-latest-pages-articles.xml.bz2')
+    path = urllib.request.urlopen(
+        'https://dumps.wikimedia.org/dewiki/latest/dewiki-latest-pages-articles.xml.bz2'
+        )
     infile = bz2.BZ2File(path)
     gettitles(infile, 'testfile.txt', 'trainfile.txt', 100)
 
@@ -26,7 +28,6 @@ def gettitles(infile, testfile, trainfile, k):
     m = 0
     train_out = open(trainfile, 'w')
     context = ET.iterparse(infile, events=("start", "end"))
-    # Iterate over all elements in the subtree in document order (depth first pre-order), starting with this element.
     context = iter(context)
     event, root = next(context)
     try:
@@ -38,7 +39,7 @@ def gettitles(infile, testfile, trainfile, k):
                 if t < k:
                     test_list.append(title)
                 else:
-                    m = random.randint(e0, t)
+                    m = random.randint(0, t)
                     if m < k:
                         train_out.write('%s\n' % test_list[m])
                         test_list[m] = title
