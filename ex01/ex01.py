@@ -11,26 +11,27 @@ import operator
 
 
 def main():
-    try:
-        getfreqwords('SAC', 'ouftile.txt')
-    except MemoryError:
-        print('Too much memory used. Optimize your program.')
+        getfreqwords('SAC', 'ouftfile_improved.txt')
 
 
 def extract(file):
     """Get lemmatized sentences 
     """
-    for _, sentence in ET.iterparse(file, tag='s'):
-        # ignore sentences in picture captions
-        if sentence.getparent().tag != 'caption':
+    context = ET.iterparse(file, events=("start", "end"))
+    # Iterate over all elements in the subtree in document order (depth first pre-order), starting with this element.
+    context = iter(context)
+    event, root = next(context)
+    for event, elem in context:
+        # find titles
+        if event == "end" and elem.tag == 's' and elem.getparent().tag != 'caption':
             sent = ''
-            for word in sentence.iterfind('.//w'):
+            for word in elem.iterfind('.//w'):
                 # check if attribute exists
                 if 'lemma' in word.attrib:
                     sent = '{} {}'.format(sent,word.attrib['lemma'])
-                word.clear()
             yield sent
-        sentence.clear()
+            elem.clear()
+            root.clear()
 
 def getfreqwords(indir, outfile):
     """Get 20 most frequent lemmatized sentences
@@ -41,21 +42,28 @@ def getfreqwords(indir, outfile):
     files = [file for file in glob.glob(
         '{}/{}'.format(indir, 'SAC-Jahrbuch*_mul.xml')
         )]
-    for file in files:
-        for entry in extract(file):
-            if len(entry.split()) >= 6:
-                if entry in lemma_dict:
-                    lemma_dict[entry] += 1
-                else:
-                    lemma_dict[entry] = 1
-    lemma_dict_sorted = sorted(
-        lemma_dict.items(), key=operator.itemgetter(1), reverse=True
-        )
-    outfile = open(outfile, 'w')
-    for k,v in lemma_dict_sorted[0:20]:
-        outfile.write('{} \t {} \n'.format(v,k))
-    outfile.close()
+    try:
+        for file in files:
+            for entry in extract(file):
+                if len(entry.split()) >= 6:
+                    if entry in lemma_dict:
+                        lemma_dict[entry] += 1
+                    else:
+                        lemma_dict[entry] = 1
+    finally:
+        lemma_dict_sorted = sorted(
+            lemma_dict.items(), key=operator.itemgetter(1), reverse=True
+            )
+        outfile = open(outfile, 'w')
+        for k,v in lemma_dict_sorted[0:20]:
+            outfile.write('{} \t {} \n'.format(v,k))
+        outfile.close()
 
 
 if __name__ == '__main__':
         main()
+
+#while elem.getprevious() is not None:
+            #del elem.getparent()[0]
+
+# mit Hashes ergänzen!
