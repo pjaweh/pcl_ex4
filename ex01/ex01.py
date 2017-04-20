@@ -11,7 +11,7 @@ import operator
 
 
 def main():
-        getfreqwords('SAC', 'ouftfile_improved.txt')
+        getfreqwords('SAC', 'ouftfile.txt')
 
 
 def extract(file):
