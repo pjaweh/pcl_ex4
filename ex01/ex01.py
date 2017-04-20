@@ -11,7 +11,10 @@ import operator
 
 
 def main():
-        getfreqwords('SAC', 'ouftfile.txt')
+    """Get frequencies for XML file in directory "SAC"
+    (change path if necessary)
+    """
+    getfreqwords('SAC', 'outfile.txt')
 
 
 def extract(file):
