@@ -25,7 +25,9 @@ def extract(file):
     event, root = next(context)
     for event, elem in context:
         # find sentences, ignore picture captions
-        if event == "end" and elem.tag == 's' and elem.getparent().tag != 'caption':
+        if ((event == "end") and 
+                (elem.tag == 's') and 
+                (elem.getparent().tag != 'caption')):
             sent = ''
             for word in elem.iterfind('.//w'):
                 # check if attribute exists
@@ -40,7 +42,35 @@ def getfreqwords(indir, outfile):
     from a collection of xml files (indir) and write
     them to a textfile (outfile)
     """
-    lemma_dict = {}
+    def check_frequency(sentence, n):
+        """get n most frequent sentences
+        """
+        sentence_hash = hash(sentence)
+        #store hashes in dictionary
+        if hash(sentence) in hash_frequencies:
+            hash_frequencies[sentence_hash] += 1
+        else:
+            hash_frequencies[sentence_hash] = 1
+        #fill list with n most frequent elements
+        if ((len(most_frequent) < n) and 
+                (sentence not in [item for item,_ in most_frequent])):
+            most_frequent.append((sentence, hash_frequencies[sentence_hash]))
+        else:
+            #if sentence already among n most frequent, update count
+            if sentence in [item for item,_ in most_frequent]:
+                i = most_frequent.index(
+                    (sentence, hash_frequencies[sentence_hash]-1))
+                most_frequent[i] = (sentence, hash_frequencies[sentence_hash])
+                most_frequent.sort(reverse=True,key=lambda tup: tup[1])
+            #if sentence not among n most frequent but more frequent than
+            #least frequent in list, replace them,
+            else:
+                if hash_frequencies[sentence_hash] >= most_frequent[-1][1]:
+                    most_frequent[-1] = (sentence, hash_frequencies[sentence_hash])
+                    most_frequent.sort(reverse=True,key=lambda tup: tup[1])
+
+    hash_frequencies = {}
+    most_frequent = []
     files = [file for file in glob.glob(
         '{}/{}'.format(indir, 'SAC-Jahrbuch*_mul.xml')
         )]
@@ -48,16 +78,10 @@ def getfreqwords(indir, outfile):
         for file in files:
             for entry in extract(file):
                 if len(entry.split()) >= 6:
-                    if entry in lemma_dict:
-                        lemma_dict[entry] += 1
-                    else:
-                        lemma_dict[entry] = 1
+                    check_frequency(entry, 20)
     finally:
-        lemma_dict_sorted = sorted(
-            lemma_dict.items(), key=operator.itemgetter(1), reverse=True
-            )
         outfile = open(outfile, 'w')
-        for k,v in lemma_dict_sorted[0:20]:
+        for k,v in most_frequent:
             outfile.write('{} \t {} \n'.format(v,k))
         outfile.close()
 
