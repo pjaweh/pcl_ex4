@@ -19,6 +19,8 @@ def main():
 
 def extract(file):
     """Get lemmatized sentences 
+    comment line 30 if you want to include sentences
+    in captions.
     """
     context = ET.iterparse(file, events=("start", "end"))
     context = iter(context)
